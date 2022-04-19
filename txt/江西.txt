@@ -1,0 +1,1415 @@
+"C:\Program Files\nodejs\node.exe" E:\Programming\Node.js\crawl_demo\autoHomeSpider.js
+[
+  {
+    city_name: '赣州',
+    carData: '朗逸 2019款 两厢 280TSI DSG舒适版 国VI https://www.autohome.com.cn/spec/35598/#pvareaid=3454492',
+    guid_price: '150900',
+    newsPrice: 130900,
+    down_price: 23000,
+    spread: '20000'
+  },
+  {
+    city_name: '赣州',
+    carData: '朗逸 2019款 两厢 280TSI DSG豪华版 国VI https://www.autohome.com.cn/spec/35599/#pvareaid=3454492',
+    guid_price: '161900',
+    newsPrice: 161900,
+    down_price: 23000,
+    spread: '0'
+  }
+]
+[
+  {
+    city_name: '新余',
+    carData: '朗逸 2019款 朗逸启航 1.5L 手动风尚版 国VI https://www.autohome.com.cn/spec/43233/#pvareaid=3454492',
+    guid_price: '99900',
+    newsPrice: 99900,
+    down_price: 23000,
+    spread: '0'
+  },
+  {
+    city_name: '新余',
+    carData: '朗逸 2019款 朗逸启航 1.5L 自动风尚版 国VI https://www.autohome.com.cn/spec/43234/#pvareaid=3454492',
+    guid_price: '111900',
+    newsPrice: 111900,
+    down_price: 23000,
+    spread: '0'
+  },
+  {
+    city_name: '新余',
+    carData: '朗逸 2019款 朗逸启航 1.5L 手动舒适版 国VI https://www.autohome.com.cn/spec/43235/#pvareaid=3454492',
+    guid_price: '110900',
+    newsPrice: 110900,
+    down_price: 23000,
+    spread: '0'
+  },
+  {
+    city_name: '新余',
+    carData: '朗逸 2019款 两厢 200TSI DSG风尚版 国VI https://www.autohome.com.cn/spec/40126/#pvareaid=3454492',
+    guid_price: '130900',
+    newsPrice: 130900,
+    down_price: 23000,
+    spread: '0'
+  },
+  {
+    city_name: '新余',
+    carData: '朗逸 2019款 两厢 200TSI DSG舒适版 国VI https://www.autohome.com.cn/spec/40127/#pvareaid=3454492',
+    guid_price: '142900',
+    newsPrice: 142900,
+    down_price: 23000,
+    spread: '0'
+  },
+  {
+    city_name: '新余',
+    carData: '朗逸 2019款 两厢 280TSI DSG舒适版 国VI https://www.autohome.com.cn/spec/35598/#pvareaid=3454492',
+    guid_price: '150900',
+    newsPrice: 150900,
+    down_price: 23000,
+    spread: '0'
+  },
+  {
+    city_name: '新余',
+    carData: '朗逸 2019款 两厢 280TSI DSG豪华版 国VI https://www.autohome.com.cn/spec/35599/#pvareaid=3454492',
+    guid_price: '161900',
+    newsPrice: 161900,
+    down_price: 23000,
+    spread: '0'
+  }
+]
+[
+  {
+    city_name: '上饶',
+    carData: '途昂 2021款 330TSI 两驱豪华版 https://www.autohome.com.cn/spec/50842/#pvareaid=3454492',
+    guid_price: '292000',
+    newsPrice: 292000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '上饶',
+    carData: '途昂 2021款 330TSI 两驱尊崇豪华版 https://www.autohome.com.cn/spec/50845/#pvareaid=3454492',
+    guid_price: '322000',
+    newsPrice: 322000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '上饶',
+    carData: '途昂 2021款 380TSI 四驱豪华版 https://www.autohome.com.cn/spec/50843/#pvareaid=3454492',
+    guid_price: '312000',
+    newsPrice: 312000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '上饶',
+    carData: '途昂 2021款 380TSI 四驱尊崇豪华版 https://www.autohome.com.cn/spec/50844/#pvareaid=3454492',
+    guid_price: '342000',
+    newsPrice: 342000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '上饶',
+    carData: '途昂 2021款 380TSI 四驱尊崇旗舰版 https://www.autohome.com.cn/spec/49535/#pvareaid=3454492',
+    guid_price: '372000',
+    newsPrice: 372000,
+    down_price: 30000,
+    spread: '0'
+  }
+]
+[
+  {
+    city_name: '抚州',
+    carData: '途昂 2021款 330TSI 两驱豪华版 https://www.autohome.com.cn/spec/50842/#pvareaid=3454492',
+    guid_price: '292000',
+    newsPrice: 292000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '抚州',
+    carData: '途昂 2021款 330TSI 两驱尊崇豪华版 https://www.autohome.com.cn/spec/50845/#pvareaid=3454492',
+    guid_price: '322000',
+    newsPrice: 322000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '抚州',
+    carData: '途昂 2021款 380TSI 四驱豪华版 https://www.autohome.com.cn/spec/50843/#pvareaid=3454492',
+    guid_price: '312000',
+    newsPrice: 312000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '抚州',
+    carData: '途昂 2021款 380TSI 四驱尊崇豪华版 https://www.autohome.com.cn/spec/50844/#pvareaid=3454492',
+    guid_price: '342000',
+    newsPrice: 342000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '抚州',
+    carData: '途昂 2021款 380TSI 四驱尊崇旗舰版 https://www.autohome.com.cn/spec/49535/#pvareaid=3454492',
+    guid_price: '372000',
+    newsPrice: 372000,
+    down_price: 30000,
+    spread: '0'
+  }
+]
+[
+  {
+    city_name: '吉安',
+    carData: '途昂 2021款 330TSI 两驱豪华版 https://www.autohome.com.cn/spec/50842/#pvareaid=3454492',
+    guid_price: '292000',
+    newsPrice: 292000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '吉安',
+    carData: '途昂 2021款 330TSI 两驱尊崇豪华版 https://www.autohome.com.cn/spec/50845/#pvareaid=3454492',
+    guid_price: '322000',
+    newsPrice: 322000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '吉安',
+    carData: '途昂 2021款 380TSI 四驱豪华版 https://www.autohome.com.cn/spec/50843/#pvareaid=3454492',
+    guid_price: '312000',
+    newsPrice: 312000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '吉安',
+    carData: '途昂 2021款 380TSI 四驱尊崇豪华版 https://www.autohome.com.cn/spec/50844/#pvareaid=3454492',
+    guid_price: '342000',
+    newsPrice: 342000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '吉安',
+    carData: '途昂 2021款 380TSI 四驱尊崇旗舰版 https://www.autohome.com.cn/spec/49535/#pvareaid=3454492',
+    guid_price: '372000',
+    newsPrice: 372000,
+    down_price: 30000,
+    spread: '0'
+  }
+]
+[
+  {
+    city_name: '景德镇',
+    carData: '途昂 2021款 330TSI 两驱豪华版 https://www.autohome.com.cn/spec/50842/#pvareaid=3454492',
+    guid_price: '292000',
+    newsPrice: 292000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '景德镇',
+    carData: '途昂 2021款 330TSI 两驱尊崇豪华版 https://www.autohome.com.cn/spec/50845/#pvareaid=3454492',
+    guid_price: '322000',
+    newsPrice: 322000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '景德镇',
+    carData: '途昂 2021款 380TSI 四驱豪华版 https://www.autohome.com.cn/spec/50843/#pvareaid=3454492',
+    guid_price: '312000',
+    newsPrice: 312000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '景德镇',
+    carData: '途昂 2021款 380TSI 四驱尊崇豪华版 https://www.autohome.com.cn/spec/50844/#pvareaid=3454492',
+    guid_price: '342000',
+    newsPrice: 342000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '景德镇',
+    carData: '途昂 2021款 380TSI 四驱尊崇旗舰版 https://www.autohome.com.cn/spec/49535/#pvareaid=3454492',
+    guid_price: '372000',
+    newsPrice: 372000,
+    down_price: 30000,
+    spread: '0'
+  }
+]
+[
+  {
+    city_name: '上饶',
+    carData: '途昂X 2021款 330TSI 两驱豪华版 https://www.autohome.com.cn/spec/50846/#pvareaid=3454492',
+    guid_price: '282000',
+    newsPrice: 266200,
+    down_price: 20000,
+    spread: '15800'
+  },
+  {
+    city_name: '上饶',
+    carData: '途昂X 2021款 330TSI 两驱尊崇豪华版 https://www.autohome.com.cn/spec/50848/#pvareaid=3454492',
+    guid_price: '312000',
+    newsPrice: 296200,
+    down_price: 20000,
+    spread: '15800'
+  },
+  {
+    city_name: '上饶',
+    carData: '途昂X 2021款 380TSI 四驱豪华版 https://www.autohome.com.cn/spec/50847/#pvareaid=3454492',
+    guid_price: '302000',
+    newsPrice: 286200,
+    down_price: 20000,
+    spread: '15800'
+  },
+  {
+    city_name: '上饶',
+    carData: '途昂X 2021款 380TSI 四驱尊崇豪华版 https://www.autohome.com.cn/spec/50849/#pvareaid=3454492',
+    guid_price: '332000',
+    newsPrice: 316200,
+    down_price: 20000,
+    spread: '15800'
+  },
+  {
+    city_name: '上饶',
+    carData: '途昂X 2021款 380TSI 四驱极夜限定版 https://www.autohome.com.cn/spec/50850/#pvareaid=3454492',
+    guid_price: '350000',
+    newsPrice: 334200,
+    down_price: 20000,
+    spread: '15800'
+  },
+  {
+    city_name: '上饶',
+    carData: '途昂X 2021款 380TSI 四驱尊崇旗舰版 https://www.autohome.com.cn/spec/49536/#pvareaid=3454492',
+    guid_price: '362000',
+    newsPrice: 346200,
+    down_price: 20000,
+    spread: '15800'
+  }
+]
+[
+  {
+    city_name: '抚州',
+    carData: 'Polo 2021款 Plus 1.5L 手动全景乐享版 https://www.autohome.com.cn/spec/50288/#pvareaid=3454492',
+    guid_price: '99900',
+    newsPrice: 91900,
+    down_price: 10000,
+    spread: '8000'
+  },
+  {
+    city_name: '抚州',
+    carData: 'Polo 2021款 Plus 1.5L 自动全景乐享版 https://www.autohome.com.cn/spec/50289/#pvareaid=3454492',
+    guid_price: '109900',
+    newsPrice: 101900,
+    down_price: 10000,
+    spread: '8000'
+  },
+  {
+    city_name: '抚州',
+    carData: 'Polo 2021款 Plus 1.5L 自动炫彩科技版 https://www.autohome.com.cn/spec/50290/#pvareaid=3454492',
+    guid_price: '115900',
+    newsPrice: 107900,
+    down_price: 10000,
+    spread: '8000'
+  },
+  {
+    city_name: '抚州',
+    carData: 'Polo 2021款 Plus 1.5L 自动潮酷智尊版 https://www.autohome.com.cn/spec/50291/#pvareaid=3454492',
+    guid_price: '123900',
+    newsPrice: 115900,
+    down_price: 10000,
+    spread: '8000'
+  }
+]
+[
+  {
+    city_name: '宜春',
+    carData: '途昂 2021款 330TSI 两驱豪华版 https://www.autohome.com.cn/spec/50842/#pvareaid=3454492',
+    guid_price: '292000',
+    newsPrice: 292000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '宜春',
+    carData: '途昂 2021款 330TSI 两驱尊崇豪华版 https://www.autohome.com.cn/spec/50845/#pvareaid=3454492',
+    guid_price: '322000',
+    newsPrice: 322000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '宜春',
+    carData: '途昂 2021款 380TSI 四驱豪华版 https://www.autohome.com.cn/spec/50843/#pvareaid=3454492',
+    guid_price: '312000',
+    newsPrice: 312000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '宜春',
+    carData: '途昂 2021款 380TSI 四驱尊崇豪华版 https://www.autohome.com.cn/spec/50844/#pvareaid=3454492',
+    guid_price: '342000',
+    newsPrice: 342000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '宜春',
+    carData: '途昂 2021款 380TSI 四驱尊崇旗舰版 https://www.autohome.com.cn/spec/49535/#pvareaid=3454492',
+    guid_price: '372000',
+    newsPrice: 372000,
+    down_price: 30000,
+    spread: '0'
+  }
+]
+[
+  {
+    city_name: '宜春',
+    carData: '途昂X 2021款 330TSI 两驱豪华版 https://www.autohome.com.cn/spec/50846/#pvareaid=3454492',
+    guid_price: '282000',
+    newsPrice: 282000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '宜春',
+    carData: '途昂X 2021款 330TSI 两驱尊崇豪华版 https://www.autohome.com.cn/spec/50848/#pvareaid=3454492',
+    guid_price: '312000',
+    newsPrice: 312000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '宜春',
+    carData: '途昂X 2021款 380TSI 四驱豪华版 https://www.autohome.com.cn/spec/50847/#pvareaid=3454492',
+    guid_price: '302000',
+    newsPrice: 302000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '宜春',
+    carData: '途昂X 2021款 380TSI 四驱尊崇豪华版 https://www.autohome.com.cn/spec/50849/#pvareaid=3454492',
+    guid_price: '332000',
+    newsPrice: 332000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '宜春',
+    carData: '途昂X 2021款 380TSI 四驱极夜限定版 https://www.autohome.com.cn/spec/50850/#pvareaid=3454492',
+    guid_price: '350000',
+    newsPrice: 350000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '宜春',
+    carData: '途昂X 2021款 380TSI 四驱尊崇旗舰版 https://www.autohome.com.cn/spec/49536/#pvareaid=3454492',
+    guid_price: '362000',
+    newsPrice: 362000,
+    down_price: 20000,
+    spread: '0'
+  }
+]
+[
+  {
+    city_name: '抚州',
+    carData: '辉昂 2021款 380TSI 豪华版 https://www.autohome.com.cn/spec/48239/#pvareaid=3454492',
+    guid_price: '340000',
+    newsPrice: 305000,
+    down_price: 50000,
+    spread: '35000'
+  },
+  {
+    city_name: '抚州',
+    carData: '辉昂 2021款 380TSI 尊贵版 https://www.autohome.com.cn/spec/48240/#pvareaid=3454492',
+    guid_price: '407000',
+    newsPrice: 372000,
+    down_price: 50000,
+    spread: '35000'
+  },
+  {
+    city_name: '抚州',
+    carData: '辉昂 2021款 380TSI 旗舰版 https://www.autohome.com.cn/spec/48041/#pvareaid=3454492',
+    guid_price: '446000',
+    newsPrice: 411000,
+    down_price: 50000,
+    spread: '35000'
+  }
+]
+[
+  {
+    city_name: '新余',
+    carData: '途昂X 2021款 330TSI 两驱豪华版 https://www.autohome.com.cn/spec/50846/#pvareaid=3454492',
+    guid_price: '282000',
+    newsPrice: 282000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '新余',
+    carData: '途昂X 2021款 330TSI 两驱尊崇豪华版 https://www.autohome.com.cn/spec/50848/#pvareaid=3454492',
+    guid_price: '312000',
+    newsPrice: 312000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '新余',
+    carData: '途昂X 2021款 380TSI 四驱豪华版 https://www.autohome.com.cn/spec/50847/#pvareaid=3454492',
+    guid_price: '302000',
+    newsPrice: 302000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '新余',
+    carData: '途昂X 2021款 380TSI 四驱尊崇豪华版 https://www.autohome.com.cn/spec/50849/#pvareaid=3454492',
+    guid_price: '332000',
+    newsPrice: 332000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '新余',
+    carData: '途昂X 2021款 380TSI 四驱极夜限定版 https://www.autohome.com.cn/spec/50850/#pvareaid=3454492',
+    guid_price: '350000',
+    newsPrice: 350000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '新余',
+    carData: '途昂X 2021款 380TSI 四驱尊崇旗舰版 https://www.autohome.com.cn/spec/49536/#pvareaid=3454492',
+    guid_price: '362000',
+    newsPrice: 362000,
+    down_price: 20000,
+    spread: '0'
+  }
+]
+[
+  {
+    city_name: '九江',
+    carData: '途昂 2021款 330TSI 两驱豪华版 https://www.autohome.com.cn/spec/50842/#pvareaid=3454492',
+    guid_price: '292000',
+    newsPrice: 292000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '九江',
+    carData: '途昂 2021款 330TSI 两驱尊崇豪华版 https://www.autohome.com.cn/spec/50845/#pvareaid=3454492',
+    guid_price: '322000',
+    newsPrice: 322000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '九江',
+    carData: '途昂 2021款 380TSI 四驱豪华版 https://www.autohome.com.cn/spec/50843/#pvareaid=3454492',
+    guid_price: '312000',
+    newsPrice: 312000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '九江',
+    carData: '途昂 2021款 380TSI 四驱尊崇豪华版 https://www.autohome.com.cn/spec/50844/#pvareaid=3454492',
+    guid_price: '342000',
+    newsPrice: 342000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '九江',
+    carData: '途昂 2021款 380TSI 四驱尊崇旗舰版 https://www.autohome.com.cn/spec/49535/#pvareaid=3454492',
+    guid_price: '372000',
+    newsPrice: 372000,
+    down_price: 30000,
+    spread: '0'
+  }
+]
+[
+  {
+    city_name: '景德镇',
+    carData: '途铠 2021款 1.5L 手动风尚版 https://www.autohome.com.cn/spec/48877/#pvareaid=3454492',
+    guid_price: '114900',
+    newsPrice: 114900,
+    down_price: 24000,
+    spread: '0'
+  },
+  {
+    city_name: '景德镇',
+    carData: '途铠 2021款 1.5L 自动风尚版 https://www.autohome.com.cn/spec/48879/#pvareaid=3454492',
+    guid_price: '127900',
+    newsPrice: 127900,
+    down_price: 24000,
+    spread: '0'
+  },
+  {
+    city_name: '景德镇',
+    carData: '途铠 2021款 1.5L 自动舒适版 https://www.autohome.com.cn/spec/48880/#pvareaid=3454492',
+    guid_price: '139900',
+    newsPrice: 139900,
+    down_price: 24000,
+    spread: '0'
+  },
+  {
+    city_name: '景德镇',
+    carData: '途铠 2021款 280TSI DSG豪华版 https://www.autohome.com.cn/spec/48882/#pvareaid=3454492',
+    guid_price: '159900',
+    newsPrice: 159900,
+    down_price: 24000,
+    spread: '0'
+  }
+]
+[
+  {
+    city_name: '南昌',
+    carData: '途昂X 2021款 330TSI 两驱豪华版 https://www.autohome.com.cn/spec/50846/#pvareaid=3454492',
+    guid_price: '282000',
+    newsPrice: 282000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '南昌',
+    carData: '途昂X 2021款 330TSI 两驱尊崇豪华版 https://www.autohome.com.cn/spec/50848/#pvareaid=3454492',
+    guid_price: '312000',
+    newsPrice: 312000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '南昌',
+    carData: '途昂X 2021款 380TSI 四驱豪华版 https://www.autohome.com.cn/spec/50847/#pvareaid=3454492',
+    guid_price: '302000',
+    newsPrice: 302000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '南昌',
+    carData: '途昂X 2021款 380TSI 四驱尊崇豪华版 https://www.autohome.com.cn/spec/50849/#pvareaid=3454492',
+    guid_price: '332000',
+    newsPrice: 332000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '南昌',
+    carData: '途昂X 2021款 380TSI 四驱极夜限定版 https://www.autohome.com.cn/spec/50850/#pvareaid=3454492',
+    guid_price: '350000',
+    newsPrice: 350000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '南昌',
+    carData: '途昂X 2021款 380TSI 四驱尊崇旗舰版 https://www.autohome.com.cn/spec/49536/#pvareaid=3454492',
+    guid_price: '362000',
+    newsPrice: 362000,
+    down_price: 20000,
+    spread: '0'
+  }
+]
+[
+  {
+    city_name: '赣州',
+    carData: '途昂 2021款 330TSI 两驱豪华版 https://www.autohome.com.cn/spec/50842/#pvareaid=3454492',
+    guid_price: '292000',
+    newsPrice: 292000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '赣州',
+    carData: '途昂 2021款 330TSI 两驱尊崇豪华版 https://www.autohome.com.cn/spec/50845/#pvareaid=3454492',
+    guid_price: '322000',
+    newsPrice: 322000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '赣州',
+    carData: '途昂 2021款 380TSI 四驱豪华版 https://www.autohome.com.cn/spec/50843/#pvareaid=3454492',
+    guid_price: '312000',
+    newsPrice: 312000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '赣州',
+    carData: '途昂 2021款 380TSI 四驱尊崇豪华版 https://www.autohome.com.cn/spec/50844/#pvareaid=3454492',
+    guid_price: '342000',
+    newsPrice: 342000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '赣州',
+    carData: '途昂 2021款 380TSI 四驱尊崇旗舰版 https://www.autohome.com.cn/spec/49535/#pvareaid=3454492',
+    guid_price: '372000',
+    newsPrice: 372000,
+    down_price: 30000,
+    spread: '0'
+  }
+]
+[
+  {
+    city_name: '新余',
+    carData: '途观L 2021款 280TSI 自动两驱智享版 https://www.autohome.com.cn/spec/48260/#pvareaid=3454492',
+    guid_price: '219800',
+    newsPrice: 219800,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '新余',
+    carData: '途观L 2021款 330TSI 自动两驱舒享版 https://www.autohome.com.cn/spec/48259/#pvareaid=3454492',
+    guid_price: '215800',
+    newsPrice: 215800,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '新余',
+    carData: '途观L 2021款 330TSI 自动两驱智享版 https://www.autohome.com.cn/spec/48261/#pvareaid=3454492',
+    guid_price: '235800',
+    newsPrice: 235800,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '新余',
+    carData: '途观L 2021款 330TSI 自动两驱R-Line越享版 https://www.autohome.com.cn/spec/48262/#pvareaid=3454492',
+    guid_price: '249800',
+    newsPrice: 249800,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '新余',
+    carData: '途观L 2021款 330TSI 自动两驱R-Line旗舰版 https://www.autohome.com.cn/spec/48263/#pvareaid=3454492',
+    guid_price: '255800',
+    newsPrice: 255800,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '新余',
+    carData: '途观L 2021款 380TSI 自动四驱R-Line越享版7座 https://www.autohome.com.cn/spec/48264/#pvareaid=3454492',
+    guid_price: '269800',
+    newsPrice: 269800,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '新余',
+    carData: '途观L 2021款 380TSI 自动四驱R-Line旗舰版7座 https://www.autohome.com.cn/spec/48265/#pvareaid=3454492',
+    guid_price: '285800',
+    newsPrice: 285800,
+    down_price: 30000,
+    spread: '0'
+  }
+]
+[
+  {
+    city_name: '新余',
+    carData: '途铠 2021款 1.5L 手动风尚版 https://www.autohome.com.cn/spec/48877/#pvareaid=3454492',
+    guid_price: '114900',
+    newsPrice: 114900,
+    down_price: 24000,
+    spread: '0'
+  },
+  {
+    city_name: '新余',
+    carData: '途铠 2021款 1.5L 自动风尚版 https://www.autohome.com.cn/spec/48879/#pvareaid=3454492',
+    guid_price: '127900',
+    newsPrice: 127900,
+    down_price: 24000,
+    spread: '0'
+  },
+  {
+    city_name: '新余',
+    carData: '途铠 2021款 1.5L 自动舒适版 https://www.autohome.com.cn/spec/48880/#pvareaid=3454492',
+    guid_price: '139900',
+    newsPrice: 139900,
+    down_price: 24000,
+    spread: '0'
+  },
+  {
+    city_name: '新余',
+    carData: '途铠 2021款 280TSI DSG舒适版 https://www.autohome.com.cn/spec/48881/#pvareaid=3454492',
+    guid_price: '147900',
+    newsPrice: 147900,
+    down_price: 24000,
+    spread: '0'
+  },
+  {
+    city_name: '新余',
+    carData: '途铠 2021款 280TSI DSG豪华版 https://www.autohome.com.cn/spec/48882/#pvareaid=3454492',
+    guid_price: '159900',
+    newsPrice: 159900,
+    down_price: 24000,
+    spread: '0'
+  }
+]
+[
+  {
+    city_name: '景德镇',
+    carData: '辉昂 2021款 380TSI 豪华版 https://www.autohome.com.cn/spec/48239/#pvareaid=3454492',
+    guid_price: '340000',
+    newsPrice: 305000,
+    down_price: 50000,
+    spread: '35000'
+  },
+  {
+    city_name: '景德镇',
+    carData: '辉昂 2021款 380TSI 尊贵版 https://www.autohome.com.cn/spec/48240/#pvareaid=3454492',
+    guid_price: '407000',
+    newsPrice: 372000,
+    down_price: 50000,
+    spread: '35000'
+  },
+  {
+    city_name: '景德镇',
+    carData: '辉昂 2021款 380TSI 旗舰版 https://www.autohome.com.cn/spec/48041/#pvareaid=3454492',
+    guid_price: '446000',
+    newsPrice: 411000,
+    down_price: 50000,
+    spread: '35000'
+  }
+]
+[
+  {
+    city_name: '赣州',
+    carData: '辉昂 2021款 380TSI 豪华版 https://www.autohome.com.cn/spec/48239/#pvareaid=3454492',
+    guid_price: '340000',
+    newsPrice: 305000,
+    down_price: 40000,
+    spread: '35000'
+  },
+  {
+    city_name: '赣州',
+    carData: '辉昂 2021款 380TSI 尊贵版 https://www.autohome.com.cn/spec/48240/#pvareaid=3454492',
+    guid_price: '407000',
+    newsPrice: 372000,
+    down_price: 40000,
+    spread: '35000'
+  },
+  {
+    city_name: '赣州',
+    carData: '辉昂 2021款 380TSI 旗舰版 https://www.autohome.com.cn/spec/48041/#pvareaid=3454492',
+    guid_price: '446000',
+    newsPrice: 411000,
+    down_price: 40000,
+    spread: '35000'
+  }
+]
+[
+  {
+    city_name: '赣州',
+    carData: '途昂X 2021款 330TSI 两驱豪华版 https://www.autohome.com.cn/spec/50846/#pvareaid=3454492',
+    guid_price: '282000',
+    newsPrice: 282000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '赣州',
+    carData: '途昂X 2021款 330TSI 两驱尊崇豪华版 https://www.autohome.com.cn/spec/50848/#pvareaid=3454492',
+    guid_price: '312000',
+    newsPrice: 312000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '赣州',
+    carData: '途昂X 2021款 380TSI 四驱豪华版 https://www.autohome.com.cn/spec/50847/#pvareaid=3454492',
+    guid_price: '302000',
+    newsPrice: 302000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '赣州',
+    carData: '途昂X 2021款 380TSI 四驱尊崇豪华版 https://www.autohome.com.cn/spec/50849/#pvareaid=3454492',
+    guid_price: '332000',
+    newsPrice: 332000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '赣州',
+    carData: '途昂X 2021款 380TSI 四驱极夜限定版 https://www.autohome.com.cn/spec/50850/#pvareaid=3454492',
+    guid_price: '350000',
+    newsPrice: 350000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '赣州',
+    carData: '途昂X 2021款 380TSI 四驱尊崇旗舰版 https://www.autohome.com.cn/spec/49536/#pvareaid=3454492',
+    guid_price: '362000',
+    newsPrice: 362000,
+    down_price: 20000,
+    spread: '0'
+  }
+]
+[
+  {
+    city_name: '新余',
+    carData: '途昂 2021款 330TSI 两驱豪华版 https://www.autohome.com.cn/spec/50842/#pvareaid=3454492',
+    guid_price: '292000',
+    newsPrice: 292000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '新余',
+    carData: '途昂 2021款 330TSI 两驱尊崇豪华版 https://www.autohome.com.cn/spec/50845/#pvareaid=3454492',
+    guid_price: '322000',
+    newsPrice: 322000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '新余',
+    carData: '途昂 2021款 380TSI 四驱豪华版 https://www.autohome.com.cn/spec/50843/#pvareaid=3454492',
+    guid_price: '312000',
+    newsPrice: 312000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '新余',
+    carData: '途昂 2021款 380TSI 四驱尊崇豪华版 https://www.autohome.com.cn/spec/50844/#pvareaid=3454492',
+    guid_price: '342000',
+    newsPrice: 342000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '新余',
+    carData: '途昂 2021款 380TSI 四驱尊崇旗舰版 https://www.autohome.com.cn/spec/49535/#pvareaid=3454492',
+    guid_price: '372000',
+    newsPrice: 372000,
+    down_price: 30000,
+    spread: '0'
+  }
+]
+[
+  {
+    city_name: '南昌',
+    carData: '途昂 2021款 330TSI 两驱豪华版 https://www.autohome.com.cn/spec/50842/#pvareaid=3454492',
+    guid_price: '292000',
+    newsPrice: 292000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '南昌',
+    carData: '途昂 2021款 330TSI 两驱尊崇豪华版 https://www.autohome.com.cn/spec/50845/#pvareaid=3454492',
+    guid_price: '322000',
+    newsPrice: 322000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '南昌',
+    carData: '途昂 2021款 380TSI 四驱豪华版 https://www.autohome.com.cn/spec/50843/#pvareaid=3454492',
+    guid_price: '312000',
+    newsPrice: 312000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '南昌',
+    carData: '途昂 2021款 380TSI 四驱尊崇豪华版 https://www.autohome.com.cn/spec/50844/#pvareaid=3454492',
+    guid_price: '342000',
+    newsPrice: 342000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '南昌',
+    carData: '途昂 2021款 380TSI 四驱尊崇旗舰版 https://www.autohome.com.cn/spec/49535/#pvareaid=3454492',
+    guid_price: '372000',
+    newsPrice: 372000,
+    down_price: 30000,
+    spread: '0'
+  }
+]
+[
+  {
+    city_name: '赣州',
+    carData: '途铠 2021款 1.5L 手动风尚版 https://www.autohome.com.cn/spec/48877/#pvareaid=3454492',
+    guid_price: '114900',
+    newsPrice: 90900,
+    down_price: 25000,
+    spread: '24000'
+  },
+  {
+    city_name: '赣州',
+    carData: '途铠 2021款 1.5L 自动风尚版 https://www.autohome.com.cn/spec/48879/#pvareaid=3454492',
+    guid_price: '127900',
+    newsPrice: 103900,
+    down_price: 25000,
+    spread: '24000'
+  },
+  {
+    city_name: '赣州',
+    carData: '途铠 2021款 1.5L 自动舒适版 https://www.autohome.com.cn/spec/48880/#pvareaid=3454492',
+    guid_price: '139900',
+    newsPrice: 115900,
+    down_price: 25000,
+    spread: '24000'
+  },
+  {
+    city_name: '赣州',
+    carData: '途铠 2021款 280TSI DSG舒适版 https://www.autohome.com.cn/spec/48881/#pvareaid=3454492',
+    guid_price: '147900',
+    newsPrice: 123900,
+    down_price: 25000,
+    spread: '24000'
+  },
+  {
+    city_name: '赣州',
+    carData: '途铠 2021款 280TSI DSG豪华版 https://www.autohome.com.cn/spec/48882/#pvareaid=3454492',
+    guid_price: '159900',
+    newsPrice: 135900,
+    down_price: 25000,
+    spread: '24000'
+  }
+]
+[
+  {
+    city_name: '吉安',
+    carData: '途昂X 2021款 330TSI 两驱豪华版 https://www.autohome.com.cn/spec/50846/#pvareaid=3454492',
+    guid_price: '282000',
+    newsPrice: 282000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '吉安',
+    carData: '途昂X 2021款 330TSI 两驱尊崇豪华版 https://www.autohome.com.cn/spec/50848/#pvareaid=3454492',
+    guid_price: '312000',
+    newsPrice: 312000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '吉安',
+    carData: '途昂X 2021款 380TSI 四驱豪华版 https://www.autohome.com.cn/spec/50847/#pvareaid=3454492',
+    guid_price: '302000',
+    newsPrice: 302000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '吉安',
+    carData: '途昂X 2021款 380TSI 四驱尊崇豪华版 https://www.autohome.com.cn/spec/50849/#pvareaid=3454492',
+    guid_price: '332000',
+    newsPrice: 332000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '吉安',
+    carData: '途昂X 2021款 380TSI 四驱极夜限定版 https://www.autohome.com.cn/spec/50850/#pvareaid=3454492',
+    guid_price: '350000',
+    newsPrice: 350000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '吉安',
+    carData: '途昂X 2021款 380TSI 四驱尊崇旗舰版 https://www.autohome.com.cn/spec/49536/#pvareaid=3454492',
+    guid_price: '362000',
+    newsPrice: 362000,
+    down_price: 20000,
+    spread: '0'
+  }
+]
+[
+  {
+    city_name: '上饶',
+    carData: '辉昂 2021款 380TSI 豪华版 https://www.autohome.com.cn/spec/48239/#pvareaid=3454492',
+    guid_price: '340000',
+    newsPrice: 305000,
+    down_price: 55000,
+    spread: '35000'
+  },
+  {
+    city_name: '上饶',
+    carData: '辉昂 2021款 380TSI 尊贵版 https://www.autohome.com.cn/spec/48240/#pvareaid=3454492',
+    guid_price: '407000',
+    newsPrice: 372000,
+    down_price: 55000,
+    spread: '35000'
+  },
+  {
+    city_name: '上饶',
+    carData: '辉昂 2021款 380TSI 旗舰版 https://www.autohome.com.cn/spec/48041/#pvareaid=3454492',
+    guid_price: '446000',
+    newsPrice: 411000,
+    down_price: 55000,
+    spread: '35000'
+  }
+]
+[
+  {
+    city_name: '九江',
+    carData: '途昂X 2021款 330TSI 两驱豪华版 https://www.autohome.com.cn/spec/50846/#pvareaid=3454492',
+    guid_price: '282000',
+    newsPrice: 282000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '九江',
+    carData: '途昂X 2021款 330TSI 两驱尊崇豪华版 https://www.autohome.com.cn/spec/50848/#pvareaid=3454492',
+    guid_price: '312000',
+    newsPrice: 312000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '九江',
+    carData: '途昂X 2021款 380TSI 四驱豪华版 https://www.autohome.com.cn/spec/50847/#pvareaid=3454492',
+    guid_price: '302000',
+    newsPrice: 302000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '九江',
+    carData: '途昂X 2021款 380TSI 四驱尊崇豪华版 https://www.autohome.com.cn/spec/50849/#pvareaid=3454492',
+    guid_price: '332000',
+    newsPrice: 332000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '九江',
+    carData: '途昂X 2021款 380TSI 四驱极夜限定版 https://www.autohome.com.cn/spec/50850/#pvareaid=3454492',
+    guid_price: '350000',
+    newsPrice: 350000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '九江',
+    carData: '途昂X 2021款 380TSI 四驱尊崇旗舰版 https://www.autohome.com.cn/spec/49536/#pvareaid=3454492',
+    guid_price: '362000',
+    newsPrice: 362000,
+    down_price: 20000,
+    spread: '0'
+  }
+]
+[
+  {
+    city_name: '景德镇',
+    carData: 'Polo 2021款 Plus 1.5L 手动全景乐享版 https://www.autohome.com.cn/spec/50288/#pvareaid=3454492',
+    guid_price: '99900',
+    newsPrice: 91900,
+    down_price: 10000,
+    spread: '8000'
+  },
+  {
+    city_name: '景德镇',
+    carData: 'Polo 2021款 Plus 1.5L 自动全景乐享版 https://www.autohome.com.cn/spec/50289/#pvareaid=3454492',
+    guid_price: '109900',
+    newsPrice: 101900,
+    down_price: 10000,
+    spread: '8000'
+  },
+  {
+    city_name: '景德镇',
+    carData: 'Polo 2021款 Plus 1.5L 自动炫彩科技版 https://www.autohome.com.cn/spec/50290/#pvareaid=3454492',
+    guid_price: '115900',
+    newsPrice: 107900,
+    down_price: 10000,
+    spread: '8000'
+  },
+  {
+    city_name: '景德镇',
+    carData: 'Polo 2021款 Plus 1.5L 自动潮酷智尊版 https://www.autohome.com.cn/spec/50291/#pvareaid=3454492',
+    guid_price: '123900',
+    newsPrice: 115900,
+    down_price: 10000,
+    spread: '8000'
+  }
+]
+[
+  {
+    city_name: '萍乡',
+    carData: '途昂X 2021款 330TSI 两驱豪华版 https://www.autohome.com.cn/spec/50846/#pvareaid=3454492',
+    guid_price: '282000',
+    newsPrice: 282000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '萍乡',
+    carData: '途昂X 2021款 330TSI 两驱尊崇豪华版 https://www.autohome.com.cn/spec/50848/#pvareaid=3454492',
+    guid_price: '312000',
+    newsPrice: 312000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '萍乡',
+    carData: '途昂X 2021款 380TSI 四驱豪华版 https://www.autohome.com.cn/spec/50847/#pvareaid=3454492',
+    guid_price: '302000',
+    newsPrice: 302000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '萍乡',
+    carData: '途昂X 2021款 380TSI 四驱尊崇豪华版 https://www.autohome.com.cn/spec/50849/#pvareaid=3454492',
+    guid_price: '332000',
+    newsPrice: 332000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '萍乡',
+    carData: '途昂X 2021款 380TSI 四驱极夜限定版 https://www.autohome.com.cn/spec/50850/#pvareaid=3454492',
+    guid_price: '350000',
+    newsPrice: 350000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '萍乡',
+    carData: '途昂X 2021款 380TSI 四驱尊崇旗舰版 https://www.autohome.com.cn/spec/49536/#pvareaid=3454492',
+    guid_price: '362000',
+    newsPrice: 362000,
+    down_price: 20000,
+    spread: '0'
+  }
+]
+[
+  {
+    city_name: '萍乡',
+    carData: '途昂 2021款 330TSI 两驱豪华版 https://www.autohome.com.cn/spec/50842/#pvareaid=3454492',
+    guid_price: '292000',
+    newsPrice: 292000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '萍乡',
+    carData: '途昂 2021款 330TSI 两驱尊崇豪华版 https://www.autohome.com.cn/spec/50845/#pvareaid=3454492',
+    guid_price: '322000',
+    newsPrice: 322000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '萍乡',
+    carData: '途昂 2021款 380TSI 四驱豪华版 https://www.autohome.com.cn/spec/50843/#pvareaid=3454492',
+    guid_price: '312000',
+    newsPrice: 312000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '萍乡',
+    carData: '途昂 2021款 380TSI 四驱尊崇豪华版 https://www.autohome.com.cn/spec/50844/#pvareaid=3454492',
+    guid_price: '342000',
+    newsPrice: 342000,
+    down_price: 30000,
+    spread: '0'
+  },
+  {
+    city_name: '萍乡',
+    carData: '途昂 2021款 380TSI 四驱尊崇旗舰版 https://www.autohome.com.cn/spec/49535/#pvareaid=3454492',
+    guid_price: '372000',
+    newsPrice: 372000,
+    down_price: 30000,
+    spread: '0'
+  }
+]
+[
+  {
+    city_name: '抚州',
+    carData: '途昂X 2021款 330TSI 两驱豪华版 https://www.autohome.com.cn/spec/50846/#pvareaid=3454492',
+    guid_price: '282000',
+    newsPrice: 282000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '抚州',
+    carData: '途昂X 2021款 330TSI 两驱尊崇豪华版 https://www.autohome.com.cn/spec/50848/#pvareaid=3454492',
+    guid_price: '312000',
+    newsPrice: 312000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '抚州',
+    carData: '途昂X 2021款 380TSI 四驱豪华版 https://www.autohome.com.cn/spec/50847/#pvareaid=3454492',
+    guid_price: '302000',
+    newsPrice: 302000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '抚州',
+    carData: '途昂X 2021款 380TSI 四驱尊崇豪华版 https://www.autohome.com.cn/spec/50849/#pvareaid=3454492',
+    guid_price: '332000',
+    newsPrice: 332000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '抚州',
+    carData: '途昂X 2021款 380TSI 四驱极夜限定版 https://www.autohome.com.cn/spec/50850/#pvareaid=3454492',
+    guid_price: '350000',
+    newsPrice: 350000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '抚州',
+    carData: '途昂X 2021款 380TSI 四驱尊崇旗舰版 https://www.autohome.com.cn/spec/49536/#pvareaid=3454492',
+    guid_price: '362000',
+    newsPrice: 362000,
+    down_price: 20000,
+    spread: '0'
+  }
+]
+[
+  {
+    city_name: '景德镇',
+    carData: '途昂X 2021款 330TSI 两驱豪华版 https://www.autohome.com.cn/spec/50846/#pvareaid=3454492',
+    guid_price: '282000',
+    newsPrice: 282000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '景德镇',
+    carData: '途昂X 2021款 330TSI 两驱尊崇豪华版 https://www.autohome.com.cn/spec/50848/#pvareaid=3454492',
+    guid_price: '312000',
+    newsPrice: 312000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '景德镇',
+    carData: '途昂X 2021款 380TSI 四驱豪华版 https://www.autohome.com.cn/spec/50847/#pvareaid=3454492',
+    guid_price: '302000',
+    newsPrice: 302000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '景德镇',
+    carData: '途昂X 2021款 380TSI 四驱尊崇豪华版 https://www.autohome.com.cn/spec/50849/#pvareaid=3454492',
+    guid_price: '332000',
+    newsPrice: 332000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '景德镇',
+    carData: '途昂X 2021款 380TSI 四驱极夜限定版 https://www.autohome.com.cn/spec/50850/#pvareaid=3454492',
+    guid_price: '350000',
+    newsPrice: 350000,
+    down_price: 20000,
+    spread: '0'
+  },
+  {
+    city_name: '景德镇',
+    carData: '途昂X 2021款 380TSI 四驱尊崇旗舰版 https://www.autohome.com.cn/spec/49536/#pvareaid=3454492',
+    guid_price: '362000',
+    newsPrice: 362000,
+    down_price: 20000,
+    spread: '0'
+  }
+]
+[
+  {
+    city_name: '新余',
+    carData: 'Polo 2019款 Plus 1.5L 手动全景乐享版 https://www.autohome.com.cn/spec/40007/#pvareaid=3454492',
+    guid_price: '99900',
+    newsPrice: 99900,
+    down_price: 8000,
+    spread: '0'
+  },
+  {
+    city_name: '新余',
+    carData: 'Polo 2019款 Plus 1.5L 自动全景乐享版 https://www.autohome.com.cn/spec/40008/#pvareaid=3454492',
+    guid_price: '109900',
+    newsPrice: 109900,
+    down_price: 8000,
+    spread: '0'
+  },
+  {
+    city_name: '新余',
+    carData: 'Polo 2019款 Plus 1.5L 自动炫彩科技版 https://www.autohome.com.cn/spec/40009/#pvareaid=3454492',
+    guid_price: '115900',
+    newsPrice: 115900,
+    down_price: 8000,
+    spread: '0'
+  },
+  {
+    city_name: '新余',
+    carData: 'Polo 2019款 Plus 1.5L 自动Beats潮酷版 https://www.autohome.com.cn/spec/38694/#pvareaid=3454492',
+    guid_price: '123900',
+    newsPrice: 123900,
+    down_price: 8000,
+    spread: '0'
+  }
+]
+[
+  {
+    city_name: '萍乡',
+    carData: 'Polo 2019款 Plus 1.5L 手动全景乐享版 https://www.autohome.com.cn/spec/40007/#pvareaid=3454492',
+    guid_price: '99900',
+    newsPrice: 99900,
+    down_price: 8000,
+    spread: '0'
+  },
+  {
+    city_name: '萍乡',
+    carData: 'Polo 2019款 Plus 1.5L 自动全景乐享版 https://www.autohome.com.cn/spec/40008/#pvareaid=3454492',
+    guid_price: '109900',
+    newsPrice: 109900,
+    down_price: 8000,
+    spread: '0'
+  },
+  {
+    city_name: '萍乡',
+    carData: 'Polo 2019款 Plus 1.5L 自动炫彩科技版 https://www.autohome.com.cn/spec/40009/#pvareaid=3454492',
+    guid_price: '115900',
+    newsPrice: 115900,
+    down_price: 8000,
+    spread: '0'
+  },
+  {
+    city_name: '萍乡',
+    carData: 'Polo 2019款 Plus 1.5L 自动Beats潮酷版 https://www.autohome.com.cn/spec/38694/#pvareaid=3454492',
+    guid_price: '123900',
+    newsPrice: 123900,
+    down_price: 8000,
+    spread: '0'
+  }
+]
+
+Process finished with exit code 0

@@ -1,0 +1,528 @@
+{
+  "hash_tag_type": 0,
+  "concern_and_discuss_describe": "",
+  "forum": {
+    "status": 0,
+    "introdution_url": "",
+    "participant_count": 0,
+    "banner_url": "",
+    "forum_name": "\u5e15\u8428\u7279",
+    "forum_id": 0,
+    "like_time": 0,
+    "article_count": 0,
+    "onlookers_count": 0,
+    "avatar_url": "http://p3.pstatp.com/thumb/1dd600042831fec337a2",
+    "show_et_status": 0,
+    "share_url": "",
+    "follower_count": 0,
+    "talk_count": 0,
+    "desc": "\u5e15\u8428\u7279\u7684\u6700\u65b0\u62a5\u4ef7||\u65b0\u95fb|\u914d\u7f6e|\u56fe\u7247|\u89c6\u9891|\u8ba8\u8bba\r\n"
+  },
+  "err_tips": "",
+  "tabs": [
+    {
+      "tab_et_status": 1,
+      "need_common_params": 0,
+      "name": "\u5168\u90e8",
+      "extra": {},
+      "url": "",
+      "table_type": 0,
+      "sole_name": "all",
+      "is_checked": 1,
+      "refresh_interval": 60
+    },
+    {
+      "tab_et_status": 0,
+      "need_common_params": 0,
+      "name": "\u89c6\u9891",
+      "extra": {},
+      "url": "",
+      "table_type": 0,
+      "sole_name": "video",
+      "params": {
+        "sub_category": "video"
+      },
+      "is_checked": 1,
+      "refresh_interval": 60
+    },
+    {
+      "tab_et_status": 1,
+      "need_common_params": 0,
+      "name": "\u8bc4\u8f66",
+      "extra": {},
+      "url": "",
+      "table_type": 0,
+      "sole_name": "all",
+      "params": {
+        "sub_category": "pingche"
+      },
+      "is_checked": 1,
+      "refresh_interval": 60
+    },
+    {
+      "tab_et_status": 0,
+      "need_common_params": 0,
+      "name": "\u95ee\u7b54",
+      "extra": {},
+      "url": "",
+      "table_type": 5,
+      "new_feed": true,
+      "sole_name": "wenda",
+      "is_checked": 1,
+      "refresh_interval": 60
+    }
+  ],
+  "post_content_hint": "\u5206\u4eab\u300c\u5e15\u8428\u7279\u300d\u7684\u65b0\u9c9c\u4e8b",
+  "bottom_entrance_list": [
+    {
+      "open_url": "sslocal://im_service_dialog?series_id=398&series_name=\u5e15\u8428\u7279&source_from=series_detail&page_id=page_car_series&zt=dcd_zt_series_im",
+      "text": "\u8054\u7cfb\u9500\u552e",
+      "height": 123,
+      "width": 123,
+      "key": "im_consult",
+      "icon": "https://sf1-ttcdn-tos.pstatp.com/obj/motor-img/26fbb0fc3d1867bc4a195981b0041a87"
+    }
+  ],
+  "show_describe": false,
+  "err_no": 0,
+  "show_et_status": 13,
+  "concern_obj": {
+    "extra": "{\"open_url\": \"sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Finapp%2Fwap%2Fseries.html%3Fseries_id%3D398&use_wk=1&gd_label=car_entity&hide_bar=1&bounce_disable=1\", \"urban_car_count\": 0, \"image_open_url\": \"sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Fcar_page%2Fv1%2Fget_picture%2F%3Fseries_id%3D398&gd_label=car_image&hide_bar=1&bounce_disable=1\", \"online_car_count\": 8, \"car_series\": \"\\u5e15\\u8428\\u7279\", \"series_tags\": null, \"oil_consume\": \"\\u6392\\u91cf 1.4T 2.0T\", \"white_cover_url\": \"http://p1-dcd.byteimg.com/img/motor-img/f1851fba88cf442afa5b53abe4b01aec~tplv-resize:960:0.png\", \"logo_url\": \"https://p1-dcd.byteimg.com/img/motor-img/343173efb2ab28cda1b0e5a5b49dab8e~tplv-resize:100:0.png\", \"business_status\": 0, \"brand\": \"\\u5927\\u4f17\", \"offline_car_count\": 126, \"pre_sale_price\": \"\\u6682\\u65e0\", \"price\": \"18.59-28.29\\u4e07\", \"params_open_url\": \"sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Fcar_page%2Fv1%2Fget_entity%2F%3Fhide_button%3D1%26car_id_list%3D51522%2C51523%2C51524%2C51525%2C51526%2C51527%2C51528%2C51529&gd_label=car_entity&hide_bar=1&bounce_disable=1\", \"cover_url\": \"http://p9-dcd.byteimg.com/img/mosaic-legacy/1dd600042831fec337a2~tplv-resize:960:0.jpg\", \"series_id\": 398, \"car_id_list\": \"51522,51523,51524,51525,51526,51527,51528,51529\", \"new_energy_info\": \"\", \"car_type\": \"\\u4e2d\\u578b\\u8f66\", \"country\": \"\", \"car_count\": 134, \"image_num\": 9593, \"sub_brand_id\": 49, \"no_functional_entrance_series\": 0, \"motor_id\": 10003980000000}",
+    "follow_status": 0,
+    "brand_name": "\u5927\u4f17",
+    "brand_id": 1,
+    "low_price_car_id": 51522,
+    "share_data": {
+      "content": "\u5168\u56fd\u6700\u4f4e\u4ef713.59-23.29\u4e07\uff0c\u70b9\u51fb\u67e5\u770b\u66f4\u591a\u4f18\u60e0\u4ef7\u683c\u3001\u53c2\u6570\u3001\u56fe\u7247",
+      "image_url": "http://p6-dcd.byteimg.com/img/mosaic-legacy/1dd600042831fec337a2~tplv-resize:960:0.jpg",
+      "share_url": "https://m.dcdapp.com/motor/m/car_series/index?series_id=398&zt=car_series_share",
+      "title": "\u3010\u61c2\u8f66\u5e1d\u3011\u5e15\u8428\u7279 13.59\u4e07\u8d77"
+    },
+    "head_info": "[{\"info\": {\"image_adjust\": -0.05, \"extra\": \"\", \"image_open_url\": \"sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Fcar_page%2Fv1%2Fget_picture%2F%3Fseries_id%3D398%26category%3Dwg&gd_label=car_image&hide_bar=1&bounce_disable=1\", \"tab_title\": \"\\u5916\\u89c2\", \"tab_icon_url\": \"https://p3.pstatp.com/obj/2f1e0000db716e9410cc.png\", \"appear_360_img_list\": [\"http://p9-dcd.byteimg.com/img/mosaic-legacy/bef300001fd8e7dc6c06~tplv-resize:640:0.png\", \"http://p3-dcd.byteimg.com/img/mosaic-legacy/888300011669c4396b47~tplv-resize:640:0.png\", \"http://p6-dcd.byteimg.com/img/mosaic-legacy/bef100002178eb39208d~tplv-resize:640:0.png\", \"http://p6-dcd.byteimg.com/img/mosaic-legacy/bef20000223e8c879170~tplv-resize:640:0.png\", \"http://p1-dcd.byteimg.com/img/mosaic-legacy/beef000022242ea32d3c~tplv-resize:640:0.png\", \"http://p6-dcd.byteimg.com/img/mosaic-legacy/88830001166a53e25bac~tplv-resize:640:0.png\", \"http://p3-dcd.byteimg.com/img/mosaic-legacy/bef000002245cab0f916~tplv-resize:640:0.png\", \"http://p3-dcd.byteimg.com/img/mosaic-legacy/bef0000022467fb250b4~tplv-resize:640:0.png\"], \"color_pic_list_key\": \"343539_\", \"image_num\": 3655, \"report_name\": \"exter_360\"}, \"type\": 1013}, {\"info\": {\"interior_vr_url\": \"http://p9-dcd.byteimg.com/img/mosaic-legacy/beef000076e562b05dcd~tplv-resize:960:0.jpg\", \"extra\": \"\", \"image_open_url\": \"sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Fcar_page%2Fv1%2Fget_picture%2F%3Fseries_id%3D398%26category%3Dns&gd_label=car_image&hide_bar=1&bounce_disable=1\", \"tab_title\": \"\\u5185\\u9970\", \"tab_icon_url\": \"https://p3.pstatp.com/obj/474000003e9bb94a71b6.png\", \"image_open_url_vr\": \"https://s.pstatp.com/site/motor/pano/static.html?pic=http://p6-dcd.byteimg.com/img/mosaic-legacy/beef0000224282257ea7~tplv-resize:4000:0.jpg&title=\\u5e15\\u8428\\u7279&car_name=2019\\u6b3e330TSI \\u8c6a\\u534e\\u7248 \\u56fdV\", \"report_name\": \"inter_pano\", \"image_num\": 2449}, \"type\": 1015}, {\"info\": {\"category\": \"\\u6c7d\\u8f66\", \"vid\": \"v0201ead0000bffv3n4uatlf5fifg05g\", \"title\": \"\\u5e15\\u8428\\u7279 2019\\u6b3e 330TSI \\u8c6a\\u534e\\u7248\", \"tab_title\": \"\\u5b9e\\u62cd\", \"cover\": \"http://p9-dcd.byteimg.com/img/mosaic-legacy/bef10000210309bf8682~tplv-resize:640:0.jpg\", \"tab_icon_url\": \"https://p3.pstatp.com/obj/2f1e0000db708e9a4ebc.png\", \"report_name\": \"video_video\", \"logExtra\": \"\", \"related_label\": \"\", \"item_id\": \"\", \"group_id\": \"\", \"video_suject_id\": \"\", \"aggr_type\": \"\"}, \"type\": 1017}]",
+    "show_car_list": "{\"info\": {\"count\": 134}, \"type\": \"1039\"}",
+    "introdution_url": "",
+    "pic_summary": [
+      {
+        "SeriesId": 398,
+        "Category": "wg",
+        "PicCount": 3655,
+        "CoverPicUrl": "https://p1-dcd.byteimg.com/img/tos-cn-i-0000/383ce0ea24144a1eb38830bd2370e5ae~tplv-resize:640:0.png"
+      },
+      {
+        "SeriesId": 398,
+        "Category": "ns",
+        "PicCount": 2449,
+        "CoverPicUrl": "https://p3-dcd.byteimg.com/img/tos-cn-i-0000/e2875b415269466f9b30ff7a706545ab~tplv-resize:1024:0.jpg"
+      },
+      {
+        "SeriesId": 398,
+        "Category": "kj",
+        "PicCount": 3487,
+        "CoverPicUrl": "https://p1-dcd.byteimg.com/img/tos-cn-i-0000/79bd2fb9c54744e2a1f23dabbd25aa05~tplv-resize:640:0.png"
+      },
+      {
+        "SeriesId": 398,
+        "Category": "gft",
+        "PicCount": 2,
+        "CoverPicUrl": "https://p3-dcd.byteimg.com/img/motor-img/4b5412668f6c63965b5549e65f3395ab~tplv-resize:640:0.png"
+      }
+    ],
+    "concern_time": 0,
+    "subsidy_price": "",
+    "tab_name_list": "\u53c2\u6570\u6982\u8ff0,\u5b8c\u6574\u53c2\u6570",
+    "concern_id": "398",
+    "share_url": "",
+    "pc_config": {
+      "driver_form": "\u524d\u9a71",
+      "max_speed": "210km/h",
+      "is_new_energy_type": false,
+      "seat_material": "\u771f\u76ae/\u4eff\u76ae",
+      "max_horsepower": 220,
+      "electric_drive_number": "-",
+      "electric_type": "-",
+      "environmental_standards": "\u56fdVI",
+      "air_control_model_2": "\u81ea\u52a8/\u624b\u52a8",
+      "fuel_comprehensive": "5.8-6.7L/100km",
+      "gearbox_description": "7\u6321\u53cc\u79bb\u5408",
+      "battery_charge_time": "-",
+      "recharge_mileage": "-",
+      "acceleration_time": "7.4-9.1s",
+      "fuel_form": "\u6c7d\u6cb9",
+      "fuel_label": "95#",
+      "engine_description": "150-220\u9a6c\u529b",
+      "series_displacement": "1.4T 2.0T"
+    },
+    "white_cover_url": "http://p1-dcd.byteimg.com/img/motor-img/f1851fba88cf442afa5b53abe4b01aec~tplv-resize:960:0.png",
+    "type": 6,
+    "car_eval": {
+      "VoteList": [],
+      "ItemList": [
+        {
+          "TestComment": {
+            "Content": "",
+            "VideoCover": "",
+            "Vid": ""
+          },
+          "ItemType": 28,
+          "ResultDescription": "",
+          "VideoList": [],
+          "FailReason": "",
+          "ResultFraction": 0.0,
+          "ItemTypeZh": "\u61c2\u8f66\u5e1d\u91d1\u6e2f\u8d5b\u9053",
+          "PicList": [],
+          "OffRoadPassRate": null,
+          "CategoryList": [
+            {
+              "DataList": [
+                {
+                  "Unit": null,
+                  "Code": "ce_shi_huan_jing_lun_tai_xing_hao",
+                  "Name": "\u8f6e\u80ce\u578b\u53f7",
+                  "Pass": null,
+                  "Value": "DUNLOP/ENASAVE EC300",
+                  "Rank": null
+                },
+                {
+                  "Unit": null,
+                  "Code": "ce_shi_huan_jing_lun_tai_chi_cun",
+                  "Name": "\u8f6e\u80ce\u5c3a\u5bf8",
+                  "Pass": null,
+                  "Value": "215/55 R17",
+                  "Rank": null
+                },
+                {
+                  "Unit": "bar",
+                  "Code": "ce_shi_huan_jing_tai_ya",
+                  "Name": "\u80ce\u538b",
+                  "Pass": null,
+                  "Value": "2.4/2.4",
+                  "Rank": null
+                },
+                {
+                  "Unit": "\u2103",
+                  "Code": "ce_shi_huan_jing_qi_wen",
+                  "Name": "\u6c14\u6e29",
+                  "Pass": null,
+                  "Value": "23",
+                  "Rank": null
+                },
+                {
+                  "Unit": "m/s",
+                  "Code": "ce_shi_huan_jing_feng_su",
+                  "Name": "\u98ce\u901f",
+                  "Pass": null,
+                  "Value": "0",
+                  "Rank": null
+                }
+              ],
+              "Code": "ce_shi_huan_jing",
+              "Name": "\u6d4b\u8bd5\u73af\u5883"
+            }
+          ],
+          "Id": 7694,
+          "SortWeight": 28,
+          "EvalId": 1365
+        },
+        {
+          "TestComment": {
+            "Content": "",
+            "VideoCover": "",
+            "Vid": ""
+          },
+          "ItemType": 29,
+          "ResultDescription": "",
+          "VideoList": [
+            {
+              "Gid": 6926767354253115912,
+              "CoverUrl": "tos-cn-p-0030/a6b775f05836d4330588e462b547e2c5",
+              "Vid": "v0301eed0000bt7h72pr5s6405slf600",
+              "Title": ""
+            }
+          ],
+          "FailReason": "",
+          "ResultFraction": 0.0,
+          "ItemTypeZh": "\u61c2\u8f66\u5e1d\u8d5b\u9053\u5708\u901f",
+          "PicList": [],
+          "OffRoadPassRate": null,
+          "CategoryList": [
+            {
+              "DataList": [
+                {
+                  "Unit": null,
+                  "Code": "quan_su_fen_zhong_shi_jian",
+                  "Name": "\u5206\u949f\u65f6\u95f4",
+                  "Pass": null,
+                  "Value": "1:26.80",
+                  "Rank": null
+                },
+                {
+                  "Unit": "km/h",
+                  "Code": "quan_su_zui_gao_shi_su",
+                  "Name": "\u6700\u9ad8\u65f6\u901f",
+                  "Pass": null,
+                  "Value": "143.02",
+                  "Rank": null
+                }
+              ],
+              "Code": "quan_su",
+              "Name": "\u5708\u901f"
+            }
+          ],
+          "Id": 7695,
+          "SortWeight": 29,
+          "EvalId": 1365
+        },
+        {
+          "TestComment": {
+            "Content": "",
+            "VideoCover": "",
+            "Vid": ""
+          },
+          "ItemType": 30,
+          "ResultDescription": "",
+          "VideoList": [],
+          "FailReason": "",
+          "ResultFraction": 0.0,
+          "ItemTypeZh": "\u61c2\u8f66\u5e1d\u4f4e\u901f\u5f2f",
+          "PicList": [],
+          "OffRoadPassRate": null,
+          "CategoryList": [
+            {
+              "DataList": [
+                {
+                  "Unit": "km/h",
+                  "Code": "di_su_wan_wan_xin_zui_di_su",
+                  "Name": "\u5f2f\u5fc3\u6700\u4f4e\u901f",
+                  "Pass": null,
+                  "Value": "43.21",
+                  "Rank": null
+                },
+                {
+                  "Unit": "g",
+                  "Code": "di_su_wan_zui_da_heng_xiang_jia_su_du",
+                  "Name": "\u6700\u5927\u6a2a\u5411\u52a0\u901f\u5ea6",
+                  "Pass": null,
+                  "Value": "0.956",
+                  "Rank": null
+                }
+              ],
+              "Code": "di_su_wan",
+              "Name": "\u4f4e\u901f\u5f2f"
+            }
+          ],
+          "Id": 7697,
+          "SortWeight": 30,
+          "EvalId": 1365
+        },
+        {
+          "TestComment": {
+            "Content": "",
+            "VideoCover": "",
+            "Vid": ""
+          },
+          "ItemType": 31,
+          "ResultDescription": "",
+          "VideoList": [],
+          "FailReason": "",
+          "ResultFraction": 0.0,
+          "ItemTypeZh": "\u61c2\u8f66\u5e1d\u9ad8\u901f\u5f2f",
+          "PicList": [],
+          "OffRoadPassRate": null,
+          "CategoryList": [
+            {
+              "DataList": [
+                {
+                  "Unit": "km/h",
+                  "Code": "gao_su_wan_wan_xin_zui_di_su",
+                  "Name": "\u5f2f\u5fc3\u6700\u4f4e\u901f",
+                  "Pass": null,
+                  "Value": "88.13",
+                  "Rank": null
+                },
+                {
+                  "Unit": "g",
+                  "Code": "gao_su_wan_zui_da_heng_xiang_jia_su_du",
+                  "Name": "\u6700\u5927\u6a2a\u5411\u52a0\u901f\u5ea6",
+                  "Pass": null,
+                  "Value": "0.996",
+                  "Rank": null
+                }
+              ],
+              "Code": "gao_su_wan",
+              "Name": "\u9ad8\u901f\u5f2f"
+            }
+          ],
+          "Id": 7696,
+          "SortWeight": 31,
+          "EvalId": 1365
+        },
+        {
+          "TestComment": {
+            "Content": "",
+            "VideoCover": "",
+            "Vid": ""
+          },
+          "ItemType": 32,
+          "ResultDescription": "",
+          "VideoList": [],
+          "FailReason": "",
+          "ResultFraction": 0.0,
+          "ItemTypeZh": "\u61c2\u8f66\u5e1d\u957f\u76f4\u7ebf",
+          "PicList": [],
+          "OffRoadPassRate": null,
+          "CategoryList": [
+            {
+              "DataList": [
+                {
+                  "Unit": "km/h",
+                  "Code": "chang_zhi_xian_wei_su",
+                  "Name": "\u5c3e\u901f",
+                  "Pass": null,
+                  "Value": "141.66",
+                  "Rank": null
+                },
+                {
+                  "Unit": "g",
+                  "Code": "chang_zhi_xian_zui_da_zong_xiang_jia_su_du",
+                  "Name": "\u6700\u5927\u7eb5\u5411\u52a0\u901f\u5ea6",
+                  "Pass": null,
+                  "Value": "0.330",
+                  "Rank": null
+                }
+              ],
+              "Code": "chang_zhi_xian",
+              "Name": "\u957f\u76f4\u7ebf"
+            }
+          ],
+          "Id": 7698,
+          "SortWeight": 32,
+          "EvalId": 1365
+        }
+      ],
+      "Eval": {
+        "Status": 1,
+        "EvalTypeEnum": 2,
+        "CarId": 33741,
+        "Description": "\u52a8\u529b\u5145\u8db3\uff0c\u8f6c\u5411\u867d\u8f7b\u4f46\u8def\u611f\u4e0d\u9519\uff0c\u5e95\u76d8\u6781\u9650\u9ad8\u4f46\u63a8\u5934\u4e25\u91cd\uff0c\u60ac\u6302\u8fc7\u8f6f\u8f66\u8eab\u591a\u4f59\u6643\u52a8\u660e\u663e\uff0c\u4e25\u91cd\u7684\u5239\u8f66\u70ed\u8870\u5bf9\u5708\u901f\u6709\u5f88\u5927\u7684\u5f71\u54cd\u3002",
+        "Vid": "v0301eff0000bt7h68et2jnd9rb6cbcg",
+        "EvalType": 2,
+        "VideoTitle": "",
+        "Gid": 6926768131964879368,
+        "Score": null,
+        "VideoCover": "tos-cn-p-0030/947a9ab24573d6c10621bde148913c4c",
+        "EvalTypeZh": "\u8d5b\u9053\u5708\u901f",
+        "OpenUrl": "sslocal://webview?back_button_color=white&bounce_disable=1&hide_bar=1&hide_status_bar=1&status_bar_color=white&swipe_mode=0&url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fauto_pages%2Feval.html%3FevalId%3D1365&use_offline=1",
+        "Id": 1365,
+        "ResultLevel": 0
+      }
+    },
+    "consult_style_ab": 1,
+    "consult_entrance_ab": 0,
+    "cover_url": "http://p1-dcd.byteimg.com/img/tos-cn-i-0000/383ce0ea24144a1eb38830bd2370e5ae~tplv-resize:960:0.jpg",
+    "official_price": "18.59-28.29\u4e07",
+    "series_id": 398,
+    "car_id_list": "51522,51523,51524,51525,51526,51527,51528,51529",
+    "consult_button_flash_ab": 0,
+    "head_card_list": [
+      {
+        "info": {
+          "data_list": [
+            {
+              "text": "\u89c6\u9891\u8bf4\u660e\u4e66",
+              "type": 2
+            }
+          ]
+        },
+        "type": "1121"
+      },
+      {
+        "info": {
+          "data_list": [
+            {
+              "text": "71\u6761",
+              "type": 4,
+              "title": "\u8f66\u4e3b\u6210\u4ea4\u4ef7"
+            }
+          ]
+        },
+        "type": "1123"
+      }
+    ],
+    "desc": "\u5e15\u8428\u7279\u7684\u6700\u65b0\u62a5\u4ef7||\u65b0\u95fb|\u914d\u7f6e|\u56fe\u7247|\u89c6\u9891|\u8ba8\u8bba\r\n",
+    "concern_count": 0,
+    "entrance_list": "[{\"info\": {\"content\": \"\\u6392\\u91cf 1.4T 2.0T\", \"color\": \"#999999\", \"title\": \"\\u53c2\\u6570\\u914d\\u7f6e\"}, \"type\": 1}, {\"info\": {\"content\": \"25568\\u6761\", \"count\": \"25568\", \"color\": \"#999999\", \"title\": \"\\u8f66\\u53cb\\u5708\"}, \"type\": 2}, {\"info\": {\"content\": \"13.59-23.29\\u4e07\", \"count\": \"8\", \"color\": \"#FF9100\", \"title\": \"8\\u6b3e\\u8f66\\u578b\"}, \"type\": 3}]",
+    "name": "\u5e15\u8428\u7279",
+    "can_consult_price": true,
+    "vr_image": "http://p1-dcd.byteimg.com/img/tos-cn-i-0000/38348f6040464e62bc1d380396c5e5e1~tplv-resize:960:0.jpg",
+    "tab_name_list_v2": [
+      {
+        "text": "\u53c2\u6570\u6982\u8ff0",
+        "type": 1
+      },
+      {
+        "text": "\u5b8c\u6574\u53c2\u6570",
+        "type": 2
+      }
+    ],
+    "rent_info": {
+      "show_text": "\u5206\u671f\u8d2d\u8f66",
+      "loans_button": 1,
+      "car_info": {
+        "series_id": 398,
+        "series_name": "\u5e15\u8428\u7279"
+      }
+    },
+    "avatar_url": "http://p3.pstatp.com/thumb/1dd600042831fec337a2",
+    "dealer_price": "13.59-23.29\u4e07",
+    "national_dealer_price": "13.09\u4e07\u8d77",
+    "discuss_count": 0,
+    "motor_id": 10003980000000
+  },
+  "describe_max_line_number": 2,
+  "recommended_compare_series_list": [
+    {
+      "url": "sslocal://webview?url=https%3A//m.zjurl.cn/motor/contrast/contrast/index.html%3Fseries_id%3D398%2C289&hide_bar=1&bounce_disable=1",
+      "concern_id": 289,
+      "original_series_id": 398,
+      "series_name": "\u96c5\u9601",
+      "brand_name": "\u672c\u7530",
+      "series_id": 289,
+      "dealer_price": "15.38-23.38\u4e07",
+      "cover_image": "http://p1.pstatp.com/large/w480/motor-img/84a21f550e45352c1bd39a8f42661124.png",
+      "price": "17.98-25.98\u4e07"
+    },
+    {
+      "url": "sslocal://webview?url=https%3A//m.zjurl.cn/motor/contrast/contrast/index.html%3Fseries_id%3D398%2C415&hide_bar=1&bounce_disable=1",
+      "concern_id": 415,
+      "original_series_id": 398,
+      "series_name": "\u8fc8\u817e",
+      "brand_name": "\u5927\u4f17",
+      "series_id": 415,
+      "dealer_price": "12.89-25.19\u4e07",
+      "cover_image": "http://p9.pstatp.com/large/w480/motor-img/8c83328da3313b2982cff5ccd560e2f3.png",
+      "price": "18.69-30.99\u4e07"
+    },
+    {
+      "url": "sslocal://webview?url=https%3A//m.zjurl.cn/motor/contrast/contrast/index.html%3Fseries_id%3D398%2C535&hide_bar=1&bounce_disable=1",
+      "concern_id": 535,
+      "original_series_id": 398,
+      "series_name": "\u51ef\u7f8e\u745e",
+      "brand_name": "\u4e30\u7530",
+      "series_id": 535,
+      "dealer_price": "17.68-26.48\u4e07",
+      "cover_image": "http://p1.pstatp.com/large/w480/motor-img/46a9db48bccc28d5a4aadcbcf9b5df96.png",
+      "price": "17.98-26.98\u4e07"
+    },
+    {
+      "url": "sslocal://webview?url=https%3A//m.zjurl.cn/motor/contrast/contrast/index.html%3Fseries_id%3D398%2C1147&hide_bar=1&bounce_disable=1",
+      "concern_id": 1147,
+      "original_series_id": 398,
+      "series_name": "\u5929\u7c41",
+      "brand_name": "\u65e5\u4ea7",
+      "series_id": 1147,
+      "dealer_price": "15.38-23.98\u4e07",
+      "cover_image": "http://p1.pstatp.com/large/w480/motor-img/9ba8ec7414fea05668d1b8cd7e26da46.png",
+      "price": "17.98-26.98\u4e07"
+    }
+  ]
+}

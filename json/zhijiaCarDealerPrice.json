@@ -1,0 +1,311 @@
+{
+  "returncode": 0,
+  "message": "",
+  "result": {
+    "rowcount": 4,
+    "pagecount": 1,
+    "pageindex": 1,
+    "list": [
+      {
+        "dealerId": 2115023,
+        "dealerInfoId": 2115022,
+        "seriesId": 496,
+        "specId": 36593,
+        "minNewsPrice": 309100,
+        "minOriginalPrice": 309100,
+        "maxOriginalPrice": 309100,
+        "promotionType": 0,
+        "newsId": 0,
+        "isAuthenticPrice": false,
+        "distance": null,
+        "dealerInfoBaseOut": {
+          "kindId": 1,
+          "is24h": 1,
+          "dealerName": "深圳市安进誉隆汽车销售服务有限公司南山店",
+          "companySimple": "安进南山大众",
+          "address": "深圳市南山区粤海街道粤桂社区桂庙新村108号101",
+          "starLevel": 4,
+          "sellPhone": "4008973375",
+          "appSellPhone": "4009973375",
+          "showPhone": "4009973375",
+          "businessArea": "售本省",
+          "orderRange": 1,
+          "orderRangeTitle": "仅销往广东省",
+          "provinceId": 440000,
+          "cityId": 440300,
+          "countyId": 440305,
+          "longitude": 113.9400950,
+          "latitude": 22.5318220,
+          "provinceName": "广东",
+          "cityName": "深圳",
+          "countyName": "南山",
+          "brandList": [
+            {
+              "brandId": 1,
+              "brandName": "大众"
+            }
+          ],
+          "payType": 200,
+          "callRate400": 100.0,
+          "leadsRatingScore": 0,
+          "tradeReduce": 0.0,
+          "openIM": 0,
+          "contractType": 2001
+        },
+        "dealerShowImageOut": {
+          "outScenceImg": "",
+          "mainBrandImg": "//m1.autoimg.cn/cardfs/series/g24/M07/57/D8/100x100_f40_autohomecar__ChsEeV26zOKAATwCAAAMlhPv54M195.png",
+          "saleBrandImg": "//m1.autoimg.cn/cardfs/series/g24/M07/57/D8/100x100_f40_autohomecar__ChsEeV26zOKAATwCAAAMlhPv54M195.png"
+        },
+        "newsInfoOut": {
+          "dealerId": 0,
+          "newsId": 0,
+          "newsType": 0,
+          "equipCarId": 0,
+          "title": "暂无",
+          "newsTemplateSpecRelationId": 0
+        },
+        "promotionConditions": [],
+        "yphone": "17080900487",
+        "isSupplyDealer": 1,
+        "groupContent": "当前城市暂无经销商报价，已为您推荐周边城市",
+        "hasVideo": 0,
+        "isVirtualShop": 0,
+        "isFactory": 0,
+        "virtualShowTips": "",
+        "kindStr": "4S店",
+        "mainDealerId": 2115023,
+        "mainDealerSimpleName": "安进南山大众",
+        "isShow": 1
+      },
+      {
+        "dealerId": 2120121,
+        "dealerInfoId": 2120120,
+        "seriesId": 496,
+        "specId": 36593,
+        "minNewsPrice": 309100,
+        "minOriginalPrice": 309100,
+        "maxOriginalPrice": 309100,
+        "promotionType": 1,
+        "newsId": 678197820,
+        "isAuthenticPrice": false,
+        "distance": null,
+        "dealerInfoBaseOut": {
+          "kindId": 1,
+          "is24h": 1,
+          "dealerName": "深圳众意汽车销售服务有限公司",
+          "companySimple": "深圳众意一汽大众",
+          "address": "光明国际汽车城深圳众意一汽大众4s店",
+          "starLevel": 1,
+          "sellPhone": "4009303406",
+          "appSellPhone": "4009303437",
+          "showPhone": "4009303437",
+          "businessArea": "售全国",
+          "orderRange": 0,
+          "orderRangeTitle": "可销往全国",
+          "provinceId": 440000,
+          "cityId": 440300,
+          "countyId": 440311,
+          "longitude": 113.8986880,
+          "latitude": 22.7501220,
+          "provinceName": "广东",
+          "cityName": "深圳",
+          "countyName": "光明",
+          "brandList": [
+            {
+              "brandId": 1,
+              "brandName": "大众"
+            }
+          ],
+          "payType": 200,
+          "callRate400": 100.0,
+          "leadsRatingScore": 0,
+          "tradeReduce": 0.0,
+          "openIM": 0,
+          "contractType": 2001
+        },
+        "dealerShowImageOut": {
+          "outScenceImg": "//dealer2.autoimg.cn/dealerdfs/g24/M01/C0/C6/280x210_0_q87_autohomedealer__Chtk3WC4h5eAQUqSAAFxeLf1P0Y105.jpg",
+          "mainBrandImg": "//m1.autoimg.cn/cardfs/series/g24/M07/57/D8/100x100_f40_autohomecar__ChsEeV26zOKAATwCAAAMlhPv54M195.png",
+          "saleBrandImg": "//m1.autoimg.cn/cardfs/series/g24/M07/57/D8/100x100_f40_autohomecar__ChsEeV26zOKAATwCAAAMlhPv54M195.png"
+        },
+        "newsInfoOut": {
+          "dealerId": 2120121,
+          "newsId": 678197820,
+          "newsType": 0,
+          "equipCarId": 0,
+          "title": "迈腾平价销售中 目前售价18.61万元起",
+          "newsTemplateSpecRelationId": 0
+        },
+        "promotionConditions": [],
+        "yphone": "17098980457",
+        "isSupplyDealer": 1,
+        "groupContent": "当前城市暂无经销商报价，已为您推荐周边城市",
+        "hasVideo": 0,
+        "isVirtualShop": 0,
+        "isFactory": 0,
+        "virtualShowTips": "",
+        "kindStr": "4S店",
+        "mainDealerId": 2120121,
+        "mainDealerSimpleName": "深圳众意一汽大众",
+        "isShow": 1
+      },
+      {
+        "dealerId": 2116424,
+        "dealerInfoId": 2116423,
+        "seriesId": 496,
+        "specId": 36593,
+        "minNewsPrice": 309100,
+        "minOriginalPrice": 309100,
+        "maxOriginalPrice": 309100,
+        "promotionType": 0,
+        "newsId": 0,
+        "isAuthenticPrice": false,
+        "distance": null,
+        "dealerInfoBaseOut": {
+          "kindId": 1,
+          "is24h": 1,
+          "dealerName": "深圳市北奇建贸易有限公司",
+          "companySimple": "北奇建信义车城大众店",
+          "address": "深圳市龙岗区园山街道银荷社区银盛路18号105",
+          "starLevel": 4,
+          "sellPhone": "4008680350",
+          "appSellPhone": "4008684593",
+          "showPhone": "4008684593",
+          "businessArea": "售本省",
+          "orderRange": 1,
+          "orderRangeTitle": "仅销往广东省",
+          "provinceId": 440000,
+          "cityId": 440300,
+          "countyId": 440309,
+          "longitude": 114.2300910,
+          "latitude": 22.6726140,
+          "provinceName": "广东",
+          "cityName": "深圳",
+          "countyName": "龙华区",
+          "brandList": [
+            {
+              "brandId": 1,
+              "brandName": "大众"
+            }
+          ],
+          "payType": 200,
+          "callRate400": 100.0,
+          "leadsRatingScore": 0,
+          "tradeReduce": 0.0,
+          "openIM": 0,
+          "contractType": 2001
+        },
+        "dealerShowImageOut": {
+          "outScenceImg": "",
+          "mainBrandImg": "//m1.autoimg.cn/cardfs/series/g24/M07/57/D8/100x100_f40_autohomecar__ChsEeV26zOKAATwCAAAMlhPv54M195.png",
+          "saleBrandImg": "//m1.autoimg.cn/cardfs/series/g24/M07/57/D8/100x100_f40_autohomecar__ChsEeV26zOKAATwCAAAMlhPv54M195.png"
+        },
+        "newsInfoOut": {
+          "dealerId": 0,
+          "newsId": 0,
+          "newsType": 0,
+          "equipCarId": 0,
+          "title": "暂无",
+          "newsTemplateSpecRelationId": 0
+        },
+        "promotionConditions": [],
+        "yphone": "13049417642",
+        "isSupplyDealer": 1,
+        "groupContent": "当前城市暂无经销商报价，已为您推荐周边城市",
+        "hasVideo": 0,
+        "isVirtualShop": 0,
+        "isFactory": 0,
+        "virtualShowTips": "",
+        "kindStr": "4S店",
+        "mainDealerId": 2116424,
+        "mainDealerSimpleName": "北奇建信义车城大众店",
+        "isShow": 1
+      },
+      {
+        "dealerId": 2114793,
+        "dealerInfoId": 2114792,
+        "seriesId": 496,
+        "specId": 36593,
+        "minNewsPrice": 281100,
+        "minOriginalPrice": 309100,
+        "maxOriginalPrice": 309100,
+        "promotionType": 2,
+        "newsId": 683942200,
+        "isAuthenticPrice": false,
+        "distance": null,
+        "dealerInfoBaseOut": {
+          "kindId": 1,
+          "is24h": 1,
+          "dealerName": "景德镇欧亚众盈汽车服务有限公司",
+          "companySimple": "景德镇一汽大众",
+          "address": "景德镇市昌南新区政府斜对面0798",
+          "starLevel": 4,
+          "sellPhone": "4009615260",
+          "appSellPhone": "4009615262",
+          "showPhone": "4009615262",
+          "businessArea": "售本省",
+          "orderRange": 1,
+          "orderRangeTitle": "仅销往江西省",
+          "provinceId": 360000,
+          "cityId": 360200,
+          "countyId": 360222,
+          "longitude": 117.1611620,
+          "latitude": 29.3384580,
+          "provinceName": "江西",
+          "cityName": "景德镇",
+          "countyName": "浮梁",
+          "brandList": [
+            {
+              "brandId": 1,
+              "brandName": "大众"
+            }
+          ],
+          "payType": 200,
+          "callRate400": 100.0,
+          "leadsRatingScore": 0,
+          "tradeReduce": 0.0,
+          "openIM": 0,
+          "contractType": 2001
+        },
+        "dealerShowImageOut": {
+          "outScenceImg": "",
+          "mainBrandImg": "//m1.autoimg.cn/cardfs/series/g24/M07/57/D8/100x100_f40_autohomecar__ChsEeV26zOKAATwCAAAMlhPv54M195.png",
+          "saleBrandImg": "//m1.autoimg.cn/cardfs/series/g24/M07/57/D8/100x100_f40_autohomecar__ChsEeV26zOKAATwCAAAMlhPv54M195.png"
+        },
+        "newsInfoOut": {
+          "dealerId": 2114793,
+          "newsId": 683942200,
+          "newsType": 0,
+          "equipCarId": 0,
+          "title": "迈腾热销中 促销优惠高达2.8万元",
+          "newsTemplateSpecRelationId": 0
+        },
+        "promotionConditions": [
+          {
+            "className": "搭配消费项",
+            "promotionNames": [
+              "店内贷款",
+              "店内上保险",
+              "店内上牌",
+              "店内置换",
+              "需购买精品",
+              "延长保修"
+            ]
+          }
+        ],
+        "yphone": "13044987546",
+        "isSupplyDealer": 1,
+        "groupContent": "当前城市暂无经销商报价，已为您推荐周边城市",
+        "hasVideo": 0,
+        "isVirtualShop": 0,
+        "isFactory": 0,
+        "virtualShowTips": "",
+        "kindStr": "4S店",
+        "mainDealerId": 2114793,
+        "mainDealerSimpleName": "景德镇一汽大众",
+        "isShow": 1
+      }
+    ]
+  }
+}

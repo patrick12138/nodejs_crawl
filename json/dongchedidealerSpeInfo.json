@@ -1,0 +1,1894 @@
+{
+  "message": "success",
+  "data": [
+    {
+      "info": {
+        "is_recommend": false,
+        "longi": 116.314804,
+        "fake_report": {
+          "text": "\u865a\u5047\u62a5\u4ef7\uff0c\u70b9\u51fb\u4e3e\u62a5",
+          "open_url": "sslocal://webview?url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Finapp%2Freport%2Fprice.html%3Fdealer_name%3D%25E4%25B8%258A%25E6%25B1%25BD%25E5%25A4%25A7%25E4%25BC%2597%25E6%2581%2592%25E6%2598%259F%25E5%25A4%25A9%25E8%25AF%259A%26dealer_id%3Ddcd_22421%26official_price%3D29.2%26car_name%3D330TSI%2B%25E4%25B8%25A4%25E9%25A9%25B1%25E8%25B1%25AA%25E5%258D%258E%25E7%2589%2588%26dealer_price%3D27.7%26car_id%3D53347&hide_bar=1&enable_resume_pause_js=1&bounce_disable=1"
+        },
+        "dealer_im_schema": "sslocal://im_service_dialog?series_id=0&car_id=53347&dealer_id=22421&source_from=car_detail&page_id=page_car_style&zt=dcd_zt_style_dealer_list_im",
+        "dealer_has_im_service": true,
+        "dealer_id": "dcd_22421",
+        "additional": "",
+        "dealer_price": 27.7,
+        "instalment": {
+          "first_payment": "",
+          "month_payment": "",
+          "label": "",
+          "show": false
+        },
+        "show_phone_number": 1,
+        "lati": 39.791314,
+        "max_im_user_id": 3677211865907364,
+        "dealer_phone": "17181016459",
+        "dealer_full_name": "\u5317\u4eac\u6052\u661f\u5929\u8bda\u6c7d\u8f66\u9500\u552e\u6709\u9650\u516c\u53f8",
+        "price": "27.7\u4e07",
+        "official_price": 29.2,
+        "dealer_name": "\u4e0a\u6c7d\u5927\u4f17\u6052\u661f\u5929\u8bda",
+        "addtional": "",
+        "address": "\u5317\u4eac\u5e02\u4e30\u53f0\u533a\u9ad8\u7acb\u5e84\u6751\u4eac\u826f\u8def\u5317\uff08\u9ad8\u7acb\u5e84\u94c1\u67dc\u5382\u5357300\u7c73\uff09",
+        "dealer_phone_desc": "\u7535\u8bdd\u54a8\u8be2",
+        "promotion_info": {
+          "ab_res": "v2",
+          "data": []
+        },
+        "dealer_im_desc": "\u7535\u8bdd/\u54a8\u8be2",
+        "dealer_type": "4S\u5e97",
+        "gift": {
+          "service": {
+            "text": "\u54a8\u8be2\u6b64\u5546\u5bb6\u80fd\u591f\u7acb\u5373\u83b7\u5f97\u4e13\u4eba\u8ddf\u8fdb\u670d\u52a1,\u7535\u8bdd\u63a5\u901a\u7387\u8d85\u8fc790%",
+            "show": false,
+            "label": "\u4f18\u8d28\u670d\u52a1"
+          },
+          "special": {
+            "text": "",
+            "show": false,
+            "label": "\u9650\u65f6\u7279\u4ef7"
+          },
+          "package": {
+            "text": "",
+            "show": false,
+            "label": "\u793c\u5305"
+          }
+        },
+        "url": "sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Finapp%2Fcompute%2Findex.html%3Fcar_id%3D53347%26dealer_id%3Ddcd_22421&hide_bar=1&bounce_disable=1",
+        "sale_region": "\u552e\u591a\u5730",
+        "im_uids": [
+          219493225727691,
+          4503212167273678,
+          3677211865907364,
+          2392182446626231
+        ],
+        "verification": {
+          "text": "\u61c2\u8f66\u5e1d\u7d27\u5bc6\u5408\u4f5c\u5546\u5bb6\uff0c\u4f18\u8d28\u670d\u52a1\u4fdd\u969c",
+          "show": true,
+          "icon_url": "http://sf1-ttcdn-tos.pstatp.com/obj/motor-img/e6c499cc48472d3375049ccf1ced8201"
+        }
+      },
+      "type": 1035
+    },
+    {
+      "info": {
+        "is_recommend": false,
+        "longi": 116.367744,
+        "fake_report": {
+          "text": "\u865a\u5047\u62a5\u4ef7\uff0c\u70b9\u51fb\u4e3e\u62a5",
+          "open_url": "sslocal://webview?url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Finapp%2Freport%2Fprice.html%3Fdealer_name%3D%25E6%258D%25B7%25E4%25BA%259A%25E6%25B3%25B0%25E4%25B8%25AD%25E7%259B%259B%26dealer_id%3Ddcd_1353%26official_price%3D29.2%26car_name%3D330TSI%2B%25E4%25B8%25A4%25E9%25A9%25B1%25E8%25B1%25AA%25E5%258D%258E%25E7%2589%2588%26dealer_price%3D27.7%26car_id%3D53347&hide_bar=1&enable_resume_pause_js=1&bounce_disable=1"
+        },
+        "dealer_im_schema": "sslocal://im_service_dialog?series_id=0&car_id=53347&dealer_id=1353&source_from=car_detail&page_id=page_car_style&zt=dcd_zt_style_dealer_list_im",
+        "dealer_has_im_service": true,
+        "dealer_id": "dcd_1353",
+        "additional": "",
+        "dealer_price": 27.7,
+        "instalment": {
+          "first_payment": "",
+          "month_payment": "",
+          "label": "",
+          "show": false
+        },
+        "show_phone_number": 1,
+        "lati": 40.057832,
+        "max_im_user_id": 93140314358,
+        "dealer_phone": "15501115196",
+        "dealer_full_name": "\u5317\u4eac\u6377\u4e9a\u6cf0\u4e2d\u76db\u6c7d\u8f66\u9500\u552e\u6709\u9650\u516c\u53f8",
+        "price": "27.7\u4e07",
+        "official_price": 29.2,
+        "dealer_name": "\u6377\u4e9a\u6cf0\u4e2d\u76db",
+        "addtional": "",
+        "address": "\u5317\u4eac\u5e02\u6d77\u6dc0\u533a\u897f\u4e09\u65d7\u8857\u9053\u5efa\u6750\u4e1c\u8def10\u53f7\uff08\u5c1a\u5fb7\u667a\u9020\u4ea7\u4e1a\u56ed\u533a\u5185\uff09",
+        "dealer_phone_desc": "\u7535\u8bdd\u54a8\u8be2",
+        "promotion_info": {
+          "ab_res": "v2",
+          "data": []
+        },
+        "dealer_im_desc": "\u7535\u8bdd/\u54a8\u8be2",
+        "dealer_type": "4S\u5e97",
+        "gift": {
+          "service": {
+            "text": "\u54a8\u8be2\u6b64\u5546\u5bb6\u80fd\u591f\u7acb\u5373\u83b7\u5f97\u4e13\u4eba\u8ddf\u8fdb\u670d\u52a1,\u7535\u8bdd\u63a5\u901a\u7387\u8d85\u8fc790%",
+            "show": false,
+            "label": "\u4f18\u8d28\u670d\u52a1"
+          },
+          "special": {
+            "text": "",
+            "show": false,
+            "label": "\u9650\u65f6\u7279\u4ef7"
+          },
+          "package": {
+            "text": "",
+            "show": false,
+            "label": "\u793c\u5305"
+          }
+        },
+        "url": "sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Finapp%2Fcompute%2Findex.html%3Fcar_id%3D53347%26dealer_id%3Ddcd_1353&hide_bar=1&bounce_disable=1",
+        "sale_region": "\u552e\u591a\u5730",
+        "im_uids": [
+          93140314358
+        ],
+        "verification": {
+          "text": "\u61c2\u8f66\u5e1d\u7d27\u5bc6\u5408\u4f5c\u5546\u5bb6\uff0c\u4f18\u8d28\u670d\u52a1\u4fdd\u969c",
+          "show": true,
+          "icon_url": "http://sf1-ttcdn-tos.pstatp.com/obj/motor-img/e6c499cc48472d3375049ccf1ced8201"
+        }
+      },
+      "type": 1035
+    },
+    {
+      "info": {
+        "is_recommend": false,
+        "longi": 116.44634,
+        "fake_report": {
+          "text": "\u865a\u5047\u62a5\u4ef7\uff0c\u70b9\u51fb\u4e3e\u62a5",
+          "open_url": "sslocal://webview?url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Finapp%2Freport%2Fprice.html%3Fdealer_name%3D%25E5%258C%2597%25E4%25BA%25AC%25E9%25A1%25B5%25E5%25B7%259D%26dealer_id%3Ddcd_3666%26official_price%3D29.2%26car_name%3D330TSI%2B%25E4%25B8%25A4%25E9%25A9%25B1%25E8%25B1%25AA%25E5%258D%258E%25E7%2589%2588%26dealer_price%3D27.7%26car_id%3D53347&hide_bar=1&enable_resume_pause_js=1&bounce_disable=1"
+        },
+        "dealer_im_schema": "sslocal://im_service_dialog?series_id=0&car_id=53347&dealer_id=3666&source_from=car_detail&page_id=page_car_style&zt=dcd_zt_style_dealer_list_im",
+        "dealer_has_im_service": true,
+        "dealer_id": "dcd_3666",
+        "additional": "",
+        "dealer_price": 27.7,
+        "instalment": {
+          "first_payment": "",
+          "month_payment": "",
+          "label": "",
+          "show": false
+        },
+        "show_phone_number": 1,
+        "lati": 39.842148,
+        "max_im_user_id": 2787969060835856,
+        "dealer_phone": "17181187471",
+        "dealer_full_name": "\u5317\u4eac\u9875\u5ddd\u6c7d\u8f66\u9500\u552e\u670d\u52a1\u6709\u9650\u516c\u53f8",
+        "price": "27.7\u4e07",
+        "official_price": 29.2,
+        "dealer_name": "\u5317\u4eac\u9875\u5ddd",
+        "addtional": "",
+        "address": "\u5317\u4eac\u5e02\u671d\u9633\u533a\u6210\u5bff\u5bfa\u8def133\u53f7",
+        "dealer_phone_desc": "\u7535\u8bdd\u54a8\u8be2",
+        "promotion_info": {
+          "ab_res": "v2",
+          "data": []
+        },
+        "dealer_im_desc": "\u7535\u8bdd/\u54a8\u8be2",
+        "dealer_type": "4S\u5e97",
+        "gift": {
+          "service": {
+            "text": "\u54a8\u8be2\u6b64\u5546\u5bb6\u80fd\u591f\u7acb\u5373\u83b7\u5f97\u4e13\u4eba\u8ddf\u8fdb\u670d\u52a1,\u7535\u8bdd\u63a5\u901a\u7387\u8d85\u8fc790%",
+            "show": false,
+            "label": "\u4f18\u8d28\u670d\u52a1"
+          },
+          "special": {
+            "text": "",
+            "show": false,
+            "label": "\u9650\u65f6\u7279\u4ef7"
+          },
+          "package": {
+            "text": "",
+            "show": false,
+            "label": "\u793c\u5305"
+          }
+        },
+        "url": "sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Finapp%2Fcompute%2Findex.html%3Fcar_id%3D53347%26dealer_id%3Ddcd_3666&hide_bar=1&bounce_disable=1",
+        "sale_region": "\u552e\u591a\u5730",
+        "im_uids": [
+          2787969060835856
+        ],
+        "verification": {
+          "text": "\u61c2\u8f66\u5e1d\u7d27\u5bc6\u5408\u4f5c\u5546\u5bb6\uff0c\u4f18\u8d28\u670d\u52a1\u4fdd\u969c",
+          "show": true,
+          "icon_url": "http://sf1-ttcdn-tos.pstatp.com/obj/motor-img/e6c499cc48472d3375049ccf1ced8201"
+        }
+      },
+      "type": 1035
+    },
+    {
+      "info": {
+        "is_recommend": false,
+        "longi": 116.450807,
+        "fake_report": {
+          "text": "\u865a\u5047\u62a5\u4ef7\uff0c\u70b9\u51fb\u4e3e\u62a5",
+          "open_url": "sslocal://webview?url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Finapp%2Freport%2Fprice.html%3Fdealer_name%3D%25E4%25B8%2587%25E9%2580%259A%25E6%25B4%25AA%25E5%258A%259B%25E4%25B8%258A%25E6%25B1%25BD%25E5%25A4%25A7%25E4%25BC%2597%26dealer_id%3Ddcd_6990%26official_price%3D29.2%26car_name%3D330TSI%2B%25E4%25B8%25A4%25E9%25A9%25B1%25E8%25B1%25AA%25E5%258D%258E%25E7%2589%2588%26dealer_price%3D27.2%26car_id%3D53347&hide_bar=1&enable_resume_pause_js=1&bounce_disable=1"
+        },
+        "dealer_im_schema": "sslocal://im_service_dialog?series_id=0&car_id=53347&dealer_id=6990&source_from=car_detail&page_id=page_car_style&zt=dcd_zt_style_dealer_list_im",
+        "dealer_has_im_service": true,
+        "dealer_id": "dcd_6990",
+        "additional": "",
+        "dealer_price": 27.2,
+        "instalment": {
+          "first_payment": "",
+          "month_payment": "",
+          "label": "",
+          "show": false
+        },
+        "show_phone_number": 1,
+        "lati": 39.799181,
+        "max_im_user_id": 3227803400542718,
+        "dealer_phone": "17181019704",
+        "dealer_full_name": "\u5317\u4eac\u4e07\u901a\u6d2a\u529b\u6c7d\u8f66\u9500\u552e\u670d\u52a1\u6709\u9650\u516c\u53f8",
+        "price": "27.2\u4e07",
+        "official_price": 29.2,
+        "dealer_name": "\u4e07\u901a\u6d2a\u529b\u4e0a\u6c7d\u5927\u4f17",
+        "addtional": "",
+        "address": "\u5317\u4eac\u5e02\u5927\u5174\u533a\u65e7\u5fe0\u8def\u5317\u4e1c\u75323\u53f7",
+        "dealer_phone_desc": "\u7535\u8bdd\u54a8\u8be2",
+        "promotion_info": {
+          "ab_res": "v2",
+          "data": []
+        },
+        "dealer_im_desc": "\u7535\u8bdd/\u54a8\u8be2",
+        "dealer_type": "4S\u5e97",
+        "gift": {
+          "service": {
+            "text": "\u54a8\u8be2\u6b64\u5546\u5bb6\u80fd\u591f\u7acb\u5373\u83b7\u5f97\u4e13\u4eba\u8ddf\u8fdb\u670d\u52a1,\u7535\u8bdd\u63a5\u901a\u7387\u8d85\u8fc790%",
+            "show": false,
+            "label": "\u4f18\u8d28\u670d\u52a1"
+          },
+          "special": {
+            "text": "",
+            "show": false,
+            "label": "\u9650\u65f6\u7279\u4ef7"
+          },
+          "package": {
+            "text": "",
+            "show": false,
+            "label": "\u793c\u5305"
+          }
+        },
+        "url": "sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Finapp%2Fcompute%2Findex.html%3Fcar_id%3D53347%26dealer_id%3Ddcd_6990&hide_bar=1&bounce_disable=1",
+        "sale_region": "\u552e\u591a\u5730",
+        "im_uids": [
+          3227803400542718
+        ],
+        "verification": {
+          "text": "\u61c2\u8f66\u5e1d\u7d27\u5bc6\u5408\u4f5c\u5546\u5bb6\uff0c\u4f18\u8d28\u670d\u52a1\u4fdd\u969c",
+          "show": true,
+          "icon_url": "http://sf1-ttcdn-tos.pstatp.com/obj/motor-img/e6c499cc48472d3375049ccf1ced8201"
+        }
+      },
+      "type": 1035
+    },
+    {
+      "info": {
+        "is_recommend": false,
+        "longi": 116.50795,
+        "fake_report": {
+          "text": "\u865a\u5047\u62a5\u4ef7\uff0c\u70b9\u51fb\u4e3e\u62a5",
+          "open_url": "sslocal://webview?url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Finapp%2Freport%2Fprice.html%3Fdealer_name%3D%25E5%258C%2597%25E4%25BA%25AC%25E5%2586%2580%25E8%25B4%25B5%26dealer_id%3Ddcd_29188%26official_price%3D29.2%26car_name%3D330TSI%2B%25E4%25B8%25A4%25E9%25A9%25B1%25E8%25B1%25AA%25E5%258D%258E%25E7%2589%2588%26dealer_price%3D27.7%26car_id%3D53347&hide_bar=1&enable_resume_pause_js=1&bounce_disable=1"
+        },
+        "dealer_im_schema": "sslocal://im_service_dialog?series_id=0&car_id=53347&dealer_id=29188&source_from=car_detail&page_id=page_car_style&zt=dcd_zt_style_dealer_list_im",
+        "dealer_has_im_service": true,
+        "dealer_id": "dcd_29188",
+        "additional": "",
+        "dealer_price": 27.7,
+        "instalment": {
+          "first_payment": "\u9996\u4ed85.54\u4e07\u5143",
+          "month_payment": "\u6708\u4f9b4002\u5143",
+          "label": "\u5206\u671f\u8d2d\u8f66",
+          "show": true
+        },
+        "show_phone_number": 1,
+        "lati": 39.813739,
+        "max_im_user_id": 53128946637,
+        "dealer_phone": "17181018467",
+        "dealer_full_name": "\u5317\u4eac\u5180\u8d35\u6c7d\u8f66\u8d38\u6613\u6709\u9650\u516c\u53f8",
+        "price": "27.7\u4e07",
+        "official_price": 29.2,
+        "dealer_name": "\u5317\u4eac\u5180\u8d35",
+        "addtional": "",
+        "address": "\u7ecf\u6d4e\u6280\u672f\u5f00\u53d1\u533a\u4e1c\u73af\u5317\u8def\u5317\u4e00\u53f7",
+        "dealer_phone_desc": "\u7535\u8bdd\u54a8\u8be2",
+        "promotion_info": {
+          "ab_res": "v2",
+          "data": [
+            {
+              "content": "\u9996\u4ed85.54\u4e07\u5143|\u6708\u4f9b4002\u5143",
+              "text": "\u5206\u671f\u4f18\u60e0",
+              "type": "instalment",
+              "limited_time": 0,
+              "icon": "http://p3-dcd.byteimg.com/obj/motor-img/3cbd4d6aaf83dd02767b35ee1b238bb9"
+            }
+          ]
+        },
+        "dealer_im_desc": "\u7535\u8bdd/\u54a8\u8be2",
+        "dealer_type": "4S\u5e97",
+        "gift": {
+          "service": {
+            "text": "\u54a8\u8be2\u6b64\u5546\u5bb6\u80fd\u591f\u7acb\u5373\u83b7\u5f97\u4e13\u4eba\u8ddf\u8fdb\u670d\u52a1,\u7535\u8bdd\u63a5\u901a\u7387\u8d85\u8fc790%",
+            "show": false,
+            "label": "\u4f18\u8d28\u670d\u52a1"
+          },
+          "special": {
+            "text": "",
+            "show": false,
+            "label": "\u9650\u65f6\u7279\u4ef7"
+          },
+          "package": {
+            "text": "",
+            "show": false,
+            "label": "\u793c\u5305"
+          }
+        },
+        "url": "sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Finapp%2Fcompute%2Findex.html%3Fcar_id%3D53347%26dealer_id%3Ddcd_29188&hide_bar=1&bounce_disable=1",
+        "sale_region": "\u552e\u591a\u5730",
+        "im_uids": [
+          53128946637,
+          2788016873802894
+        ],
+        "verification": {
+          "text": "\u61c2\u8f66\u5e1d\u7d27\u5bc6\u5408\u4f5c\u5546\u5bb6\uff0c\u4f18\u8d28\u670d\u52a1\u4fdd\u969c",
+          "show": true,
+          "icon_url": "http://sf1-ttcdn-tos.pstatp.com/obj/motor-img/e6c499cc48472d3375049ccf1ced8201"
+        }
+      },
+      "type": 1035
+    },
+    {
+      "info": {
+        "is_recommend": false,
+        "longi": 116.64054,
+        "fake_report": {
+          "text": "\u865a\u5047\u62a5\u4ef7\uff0c\u70b9\u51fb\u4e3e\u62a5",
+          "open_url": "sslocal://webview?url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Finapp%2Freport%2Fprice.html%3Fdealer_name%3D%25E5%258C%2597%25E4%25BA%25AC%25E6%258D%25B7%25E4%25BA%259A%25E6%25B3%25B0%25E8%25B5%25B7%25E8%258D%25A3%26dealer_id%3Ddcd_29479%26official_price%3D29.2%26car_name%3D330TSI%2B%25E4%25B8%25A4%25E9%25A9%25B1%25E8%25B1%25AA%25E5%258D%258E%25E7%2589%2588%26dealer_price%3D27.7%26car_id%3D53347&hide_bar=1&enable_resume_pause_js=1&bounce_disable=1"
+        },
+        "dealer_im_schema": "sslocal://im_service_dialog?series_id=0&car_id=53347&dealer_id=29479&source_from=car_detail&page_id=page_car_style&zt=dcd_zt_style_dealer_list_im",
+        "dealer_has_im_service": true,
+        "dealer_id": "dcd_29479",
+        "additional": "",
+        "dealer_price": 27.7,
+        "instalment": {
+          "first_payment": "",
+          "month_payment": "",
+          "label": "",
+          "show": false
+        },
+        "show_phone_number": 1,
+        "lati": 40.302631,
+        "max_im_user_id": 1776462331394936,
+        "dealer_phone": "17181017347",
+        "dealer_full_name": "\u5317\u4eac\u6377\u4e9a\u6cf0\u8d77\u8363\u6c7d\u8f66\u9500\u552e\u6709\u9650\u516c\u53f8",
+        "price": "27.7\u4e07",
+        "official_price": 29.2,
+        "dealer_name": "\u5317\u4eac\u6377\u4e9a\u6cf0\u8d77\u8363",
+        "addtional": "",
+        "address": "\u5317\u4eac\u5e02\u6000\u67d4\u533a\u8fce\u5bbe\u5357\u8def25\u53f7\u96622\u53f7\u697c\u4e00\u5c42",
+        "dealer_phone_desc": "\u7535\u8bdd\u54a8\u8be2",
+        "promotion_info": {
+          "ab_res": "v2",
+          "data": []
+        },
+        "dealer_im_desc": "\u7535\u8bdd/\u54a8\u8be2",
+        "dealer_type": "4S\u5e97",
+        "gift": {
+          "service": {
+            "text": "\u54a8\u8be2\u6b64\u5546\u5bb6\u80fd\u591f\u7acb\u5373\u83b7\u5f97\u4e13\u4eba\u8ddf\u8fdb\u670d\u52a1,\u7535\u8bdd\u63a5\u901a\u7387\u8d85\u8fc790%",
+            "show": false,
+            "label": "\u4f18\u8d28\u670d\u52a1"
+          },
+          "special": {
+            "text": "",
+            "show": false,
+            "label": "\u9650\u65f6\u7279\u4ef7"
+          },
+          "package": {
+            "text": "",
+            "show": false,
+            "label": "\u793c\u5305"
+          }
+        },
+        "url": "sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Finapp%2Fcompute%2Findex.html%3Fcar_id%3D53347%26dealer_id%3Ddcd_29479&hide_bar=1&bounce_disable=1",
+        "sale_region": "\u552e\u672c\u5e02",
+        "im_uids": [
+          1776462331394936
+        ],
+        "verification": {
+          "text": "\u61c2\u8f66\u5e1d\u7d27\u5bc6\u5408\u4f5c\u5546\u5bb6\uff0c\u4f18\u8d28\u670d\u52a1\u4fdd\u969c",
+          "show": true,
+          "icon_url": "http://sf1-ttcdn-tos.pstatp.com/obj/motor-img/e6c499cc48472d3375049ccf1ced8201"
+        }
+      },
+      "type": 1035
+    },
+    {
+      "info": {
+        "is_recommend": false,
+        "longi": 116.602335,
+        "fake_report": {
+          "text": "\u865a\u5047\u62a5\u4ef7\uff0c\u70b9\u51fb\u4e3e\u62a5",
+          "open_url": "sslocal://webview?url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Finapp%2Freport%2Fprice.html%3Fdealer_name%3D%25E5%258C%2597%25E4%25BA%25AC%25E4%25BA%25AC%25E7%2594%25B3%25E5%25AE%259D%26dealer_id%3Ddcd_21650%26official_price%3D29.2%26car_name%3D330TSI%2B%25E4%25B8%25A4%25E9%25A9%25B1%25E8%25B1%25AA%25E5%258D%258E%25E7%2589%2588%26dealer_price%3D29.2%26car_id%3D53347&hide_bar=1&enable_resume_pause_js=1&bounce_disable=1"
+        },
+        "dealer_im_schema": "sslocal://im_service_dialog?series_id=0&car_id=53347&dealer_id=21650&source_from=car_detail&page_id=page_car_style&zt=dcd_zt_style_dealer_list_im",
+        "dealer_has_im_service": true,
+        "dealer_id": "dcd_21650",
+        "additional": "",
+        "dealer_price": 29.2,
+        "instalment": {
+          "first_payment": "",
+          "month_payment": "",
+          "label": "",
+          "show": false
+        },
+        "show_phone_number": 1,
+        "lati": 39.902108,
+        "max_im_user_id": 3016672773417968,
+        "dealer_phone": "16508656481",
+        "dealer_full_name": "\u5317\u4eac\u4eac\u7533\u5b9d\u6c7d\u8f66\u9500\u552e\u670d\u52a1\u6709\u9650\u516c\u53f8",
+        "price": "29.2\u4e07",
+        "official_price": 29.2,
+        "dealer_name": "\u5317\u4eac\u4eac\u7533\u5b9d",
+        "addtional": "",
+        "address": "\u5317\u4eac\u5e02\u671d\u9633\u533a\u53cc\u6865\u4e1c\u8def8\u53f7",
+        "dealer_phone_desc": "\u7535\u8bdd\u54a8\u8be2",
+        "promotion_info": {
+          "ab_res": "v2",
+          "data": []
+        },
+        "dealer_im_desc": "\u7535\u8bdd/\u54a8\u8be2",
+        "dealer_type": "4S\u5e97",
+        "gift": {
+          "service": {
+            "text": "\u54a8\u8be2\u6b64\u5546\u5bb6\u80fd\u591f\u7acb\u5373\u83b7\u5f97\u4e13\u4eba\u8ddf\u8fdb\u670d\u52a1,\u7535\u8bdd\u63a5\u901a\u7387\u8d85\u8fc790%",
+            "show": false,
+            "label": "\u4f18\u8d28\u670d\u52a1"
+          },
+          "special": {
+            "text": "",
+            "show": false,
+            "label": "\u9650\u65f6\u7279\u4ef7"
+          },
+          "package": {
+            "text": "",
+            "show": false,
+            "label": "\u793c\u5305"
+          }
+        },
+        "url": "sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Finapp%2Fcompute%2Findex.html%3Fcar_id%3D53347%26dealer_id%3Ddcd_21650&hide_bar=1&bounce_disable=1",
+        "sale_region": "\u552e\u591a\u5730",
+        "im_uids": [
+          3016672773417968,
+          1341034860392990,
+          61777167047,
+          3861097707486303,
+          96036628005
+        ],
+        "verification": {
+          "text": "\u61c2\u8f66\u5e1d\u7d27\u5bc6\u5408\u4f5c\u5546\u5bb6\uff0c\u4f18\u8d28\u670d\u52a1\u4fdd\u969c",
+          "show": true,
+          "icon_url": "http://sf1-ttcdn-tos.pstatp.com/obj/motor-img/e6c499cc48472d3375049ccf1ced8201"
+        }
+      },
+      "type": 1035
+    },
+    {
+      "info": {
+        "is_recommend": false,
+        "longi": 116.218626,
+        "fake_report": {
+          "text": "\u865a\u5047\u62a5\u4ef7\uff0c\u70b9\u51fb\u4e3e\u62a5",
+          "open_url": "sslocal://webview?url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Finapp%2Freport%2Fprice.html%3Fdealer_name%3D%25E5%258C%2597%25E4%25BA%25AC%25E6%25B0%25B8%25E5%25AE%2589%26dealer_id%3Ddcd_21944%26official_price%3D29.2%26car_name%3D330TSI%2B%25E4%25B8%25A4%25E9%25A9%25B1%25E8%25B1%25AA%25E5%258D%258E%25E7%2589%2588%26dealer_price%3D27.7%26car_id%3D53347&hide_bar=1&enable_resume_pause_js=1&bounce_disable=1"
+        },
+        "dealer_im_schema": "sslocal://im_service_dialog?series_id=0&car_id=53347&dealer_id=21944&source_from=car_detail&page_id=page_car_style&zt=dcd_zt_style_dealer_list_im",
+        "dealer_has_im_service": true,
+        "dealer_id": "dcd_21944",
+        "additional": "",
+        "dealer_price": 27.7,
+        "instalment": {
+          "first_payment": "",
+          "month_payment": "",
+          "label": "",
+          "show": false
+        },
+        "show_phone_number": 1,
+        "lati": 40.200387,
+        "max_im_user_id": 3201416565897486,
+        "dealer_phone": "17181014285",
+        "dealer_full_name": "\u5317\u4eac\u6c38\u5b89\u6c7d\u8f66\u670d\u52a1\u6709\u9650\u516c\u53f8",
+        "price": "27.7\u4e07",
+        "official_price": 29.2,
+        "dealer_name": "\u5317\u4eac\u6c38\u5b89",
+        "addtional": "",
+        "address": "\u5317\u4eac\u5e02\u660c\u5e73\u533a\u9a6c\u6c60\u53e3\u9547\u6c34\u5357\u8def\u767e\u6cc9\u5e84652\u53f7",
+        "dealer_phone_desc": "\u7535\u8bdd\u54a8\u8be2",
+        "promotion_info": {
+          "ab_res": "v2",
+          "data": []
+        },
+        "dealer_im_desc": "\u7535\u8bdd/\u54a8\u8be2",
+        "dealer_type": "4S\u5e97",
+        "gift": {
+          "service": {
+            "text": "\u54a8\u8be2\u6b64\u5546\u5bb6\u80fd\u591f\u7acb\u5373\u83b7\u5f97\u4e13\u4eba\u8ddf\u8fdb\u670d\u52a1,\u7535\u8bdd\u63a5\u901a\u7387\u8d85\u8fc790%",
+            "show": false,
+            "label": "\u4f18\u8d28\u670d\u52a1"
+          },
+          "special": {
+            "text": "",
+            "show": false,
+            "label": "\u9650\u65f6\u7279\u4ef7"
+          },
+          "package": {
+            "text": "",
+            "show": false,
+            "label": "\u793c\u5305"
+          }
+        },
+        "url": "sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Finapp%2Fcompute%2Findex.html%3Fcar_id%3D53347%26dealer_id%3Ddcd_21944&hide_bar=1&bounce_disable=1",
+        "sale_region": "\u552e\u591a\u5730",
+        "im_uids": [
+          3201416565897486
+        ],
+        "verification": {
+          "text": "\u61c2\u8f66\u5e1d\u7d27\u5bc6\u5408\u4f5c\u5546\u5bb6\uff0c\u4f18\u8d28\u670d\u52a1\u4fdd\u969c",
+          "show": true,
+          "icon_url": "http://sf1-ttcdn-tos.pstatp.com/obj/motor-img/e6c499cc48472d3375049ccf1ced8201"
+        }
+      },
+      "type": 1035
+    },
+    {
+      "info": {
+        "is_recommend": false,
+        "longi": 116.182038,
+        "fake_report": {
+          "text": "\u865a\u5047\u62a5\u4ef7\uff0c\u70b9\u51fb\u4e3e\u62a5",
+          "open_url": "sslocal://webview?url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Finapp%2Freport%2Fprice.html%3Fdealer_name%3D%25E5%258C%2597%25E4%25BA%25AC%25E7%259C%259F%25E6%25B5%25A9%25E6%25B3%25B0%25E6%25B1%25BD%25E8%25BD%25A6%26dealer_id%3Ddcd_8152%26official_price%3D29.2%26car_name%3D330TSI%2B%25E4%25B8%25A4%25E9%25A9%25B1%25E8%25B1%25AA%25E5%258D%258E%25E7%2589%2588%26dealer_price%3D27.7%26car_id%3D53347&hide_bar=1&enable_resume_pause_js=1&bounce_disable=1"
+        },
+        "dealer_im_schema": "sslocal://im_service_dialog?series_id=0&car_id=53347&dealer_id=8152&source_from=car_detail&page_id=page_car_style&zt=dcd_zt_style_dealer_list_im",
+        "dealer_has_im_service": true,
+        "dealer_id": "dcd_8152",
+        "additional": "",
+        "dealer_price": 27.7,
+        "instalment": {
+          "first_payment": "",
+          "month_payment": "",
+          "label": "",
+          "show": false
+        },
+        "show_phone_number": 1,
+        "lati": 39.917092,
+        "max_im_user_id": 99205876563,
+        "dealer_phone": "18598842914",
+        "dealer_full_name": "\u5317\u4eac\u771f\u6d69\u6cf0\u6c7d\u8f66\u9500\u552e\u6709\u9650\u516c\u53f8",
+        "price": "27.7\u4e07",
+        "official_price": 29.2,
+        "dealer_name": "\u5317\u4eac\u771f\u6d69\u6cf0\u6c7d\u8f66",
+        "addtional": "",
+        "address": "\u5317\u4eac\u5e02\u77f3\u666f\u5c71\u533a\u53e4\u57ce\u5927\u8857\u5317\u4eac\u56fd\u9645\u6c7d\u8f66\u670d\u52a1\u56ed\u533aF\u533a8\u53f7",
+        "dealer_phone_desc": "\u7535\u8bdd\u54a8\u8be2",
+        "promotion_info": {
+          "ab_res": "v2",
+          "data": []
+        },
+        "dealer_im_desc": "\u7535\u8bdd/\u54a8\u8be2",
+        "dealer_type": "4S\u5e97",
+        "gift": {
+          "service": {
+            "text": "\u54a8\u8be2\u6b64\u5546\u5bb6\u80fd\u591f\u7acb\u5373\u83b7\u5f97\u4e13\u4eba\u8ddf\u8fdb\u670d\u52a1,\u7535\u8bdd\u63a5\u901a\u7387\u8d85\u8fc790%",
+            "show": false,
+            "label": "\u4f18\u8d28\u670d\u52a1"
+          },
+          "special": {
+            "text": "",
+            "show": false,
+            "label": "\u9650\u65f6\u7279\u4ef7"
+          },
+          "package": {
+            "text": "",
+            "show": false,
+            "label": "\u793c\u5305"
+          }
+        },
+        "url": "sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Finapp%2Fcompute%2Findex.html%3Fcar_id%3D53347%26dealer_id%3Ddcd_8152&hide_bar=1&bounce_disable=1",
+        "sale_region": "\u552e\u591a\u5730",
+        "im_uids": [
+          99205876563,
+          6401109712
+        ],
+        "verification": {
+          "text": "\u61c2\u8f66\u5e1d\u7d27\u5bc6\u5408\u4f5c\u5546\u5bb6\uff0c\u4f18\u8d28\u670d\u52a1\u4fdd\u969c",
+          "show": true,
+          "icon_url": "http://sf1-ttcdn-tos.pstatp.com/obj/motor-img/e6c499cc48472d3375049ccf1ced8201"
+        }
+      },
+      "type": 1035
+    },
+    {
+      "info": {
+        "is_recommend": false,
+        "longi": 116.330515,
+        "fake_report": {
+          "text": "\u865a\u5047\u62a5\u4ef7\uff0c\u70b9\u51fb\u4e3e\u62a5",
+          "open_url": "sslocal://webview?url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Finapp%2Freport%2Fprice.html%3Fdealer_name%3D%25E5%258C%2597%25E4%25BA%25AC%25E9%25A1%25B5%25E5%25B7%259D%25E7%2591%259E%25E5%25BE%25B7%26dealer_id%3Ddcd_8641%26official_price%3D29.2%26car_name%3D330TSI%2B%25E4%25B8%25A4%25E9%25A9%25B1%25E8%25B1%25AA%25E5%258D%258E%25E7%2589%2588%26dealer_price%3D29.2%26car_id%3D53347&hide_bar=1&enable_resume_pause_js=1&bounce_disable=1"
+        },
+        "dealer_im_schema": "sslocal://im_service_dialog?series_id=0&car_id=53347&dealer_id=8641&source_from=car_detail&page_id=page_car_style&zt=dcd_zt_style_dealer_list_im",
+        "dealer_has_im_service": true,
+        "dealer_id": "dcd_8641",
+        "additional": "",
+        "dealer_price": 29.2,
+        "instalment": {
+          "first_payment": "",
+          "month_payment": "",
+          "label": "",
+          "show": false
+        },
+        "show_phone_number": 1,
+        "lati": 40.042401,
+        "max_im_user_id": 105181683776,
+        "dealer_phone": "17181018749",
+        "dealer_full_name": "\u5317\u4eac\u9875\u5ddd\u745e\u5fb7\u6c7d\u8f66\u9500\u552e\u670d\u52a1\u6709\u9650\u516c\u53f8",
+        "price": "29.2\u4e07",
+        "official_price": 29.2,
+        "dealer_name": "\u5317\u4eac\u9875\u5ddd\u745e\u5fb7",
+        "addtional": "",
+        "address": "\u5317\u4eac\u5e02\u6d77\u6dc0\u533a\u5b89\u5b81\u5e84\u4e1c\u8def15\u53f7",
+        "dealer_phone_desc": "\u7535\u8bdd\u54a8\u8be2",
+        "promotion_info": {
+          "ab_res": "v2",
+          "data": []
+        },
+        "dealer_im_desc": "\u7535\u8bdd/\u54a8\u8be2",
+        "dealer_type": "4S\u5e97",
+        "gift": {
+          "service": {
+            "text": "\u54a8\u8be2\u6b64\u5546\u5bb6\u80fd\u591f\u7acb\u5373\u83b7\u5f97\u4e13\u4eba\u8ddf\u8fdb\u670d\u52a1,\u7535\u8bdd\u63a5\u901a\u7387\u8d85\u8fc790%",
+            "show": false,
+            "label": "\u4f18\u8d28\u670d\u52a1"
+          },
+          "special": {
+            "text": "",
+            "show": false,
+            "label": "\u9650\u65f6\u7279\u4ef7"
+          },
+          "package": {
+            "text": "",
+            "show": false,
+            "label": "\u793c\u5305"
+          }
+        },
+        "url": "sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Finapp%2Fcompute%2Findex.html%3Fcar_id%3D53347%26dealer_id%3Ddcd_8641&hide_bar=1&bounce_disable=1",
+        "sale_region": "\u552e\u591a\u5730",
+        "im_uids": [
+          105181683776
+        ],
+        "verification": {
+          "text": "\u61c2\u8f66\u5e1d\u7d27\u5bc6\u5408\u4f5c\u5546\u5bb6\uff0c\u4f18\u8d28\u670d\u52a1\u4fdd\u969c",
+          "show": true,
+          "icon_url": "http://sf1-ttcdn-tos.pstatp.com/obj/motor-img/e6c499cc48472d3375049ccf1ced8201"
+        }
+      },
+      "type": 1035
+    },
+    {
+      "info": {
+        "is_recommend": false,
+        "longi": 116.350801,
+        "fake_report": {
+          "text": "\u865a\u5047\u62a5\u4ef7\uff0c\u70b9\u51fb\u4e3e\u62a5",
+          "open_url": "sslocal://webview?url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Finapp%2Freport%2Fprice.html%3Fdealer_name%3D%25E5%258C%2597%25E4%25BA%25AC%25E8%25BD%25A6%25E8%25B0%25B7%25E4%25B8%258A%25E6%25B1%25BD%25E5%25A4%25A7%25E4%25BC%2597%26dealer_id%3Ddcd_19241%26official_price%3D29.2%26car_name%3D330TSI%2B%25E4%25B8%25A4%25E9%25A9%25B1%25E8%25B1%25AA%25E5%258D%258E%25E7%2589%2588%26dealer_price%3D27.7%26car_id%3D53347&hide_bar=1&enable_resume_pause_js=1&bounce_disable=1"
+        },
+        "dealer_im_schema": "sslocal://im_service_dialog?series_id=0&car_id=53347&dealer_id=19241&source_from=car_detail&page_id=page_car_style&zt=dcd_zt_style_dealer_list_im",
+        "dealer_has_im_service": true,
+        "dealer_id": "dcd_19241",
+        "additional": "",
+        "dealer_price": 27.7,
+        "instalment": {
+          "first_payment": "",
+          "month_payment": "",
+          "label": "",
+          "show": false
+        },
+        "show_phone_number": 1,
+        "lati": 39.759729,
+        "max_im_user_id": 2357003837510318,
+        "dealer_phone": "17181018740",
+        "dealer_full_name": "\u5317\u4eac\u8f66\u8c37\u6c7d\u8f66\u9500\u552e\u6709\u9650\u516c\u53f8",
+        "price": "27.7\u4e07",
+        "official_price": 29.2,
+        "dealer_name": "\u5317\u4eac\u8f66\u8c37\u4e0a\u6c7d\u5927\u4f17",
+        "addtional": "",
+        "address": "\u5317\u4eac\u5e02\u5927\u5174\u533a\u5de5\u4e1a\u5f00\u53d1\u533a\u91d1\u82d1\u8def15\u53f7",
+        "dealer_phone_desc": "\u7535\u8bdd\u54a8\u8be2",
+        "promotion_info": {
+          "ab_res": "v2",
+          "data": []
+        },
+        "dealer_im_desc": "\u7535\u8bdd/\u54a8\u8be2",
+        "dealer_type": "4S\u5e97",
+        "gift": {
+          "service": {
+            "text": "\u54a8\u8be2\u6b64\u5546\u5bb6\u80fd\u591f\u7acb\u5373\u83b7\u5f97\u4e13\u4eba\u8ddf\u8fdb\u670d\u52a1,\u7535\u8bdd\u63a5\u901a\u7387\u8d85\u8fc790%",
+            "show": false,
+            "label": "\u4f18\u8d28\u670d\u52a1"
+          },
+          "special": {
+            "text": "",
+            "show": false,
+            "label": "\u9650\u65f6\u7279\u4ef7"
+          },
+          "package": {
+            "text": "",
+            "show": false,
+            "label": "\u793c\u5305"
+          }
+        },
+        "url": "sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Finapp%2Fcompute%2Findex.html%3Fcar_id%3D53347%26dealer_id%3Ddcd_19241&hide_bar=1&bounce_disable=1",
+        "sale_region": "\u552e\u591a\u5730",
+        "im_uids": [
+          2357003837510318,
+          91687752734,
+          2700013742588413,
+          2287407434049160
+        ],
+        "verification": {
+          "text": "\u61c2\u8f66\u5e1d\u7d27\u5bc6\u5408\u4f5c\u5546\u5bb6\uff0c\u4f18\u8d28\u670d\u52a1\u4fdd\u969c",
+          "show": true,
+          "icon_url": "http://sf1-ttcdn-tos.pstatp.com/obj/motor-img/e6c499cc48472d3375049ccf1ced8201"
+        }
+      },
+      "type": 1035
+    },
+    {
+      "info": {
+        "is_recommend": false,
+        "longi": 116.414642,
+        "fake_report": {
+          "text": "\u865a\u5047\u62a5\u4ef7\uff0c\u70b9\u51fb\u4e3e\u62a5",
+          "open_url": "sslocal://webview?url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Finapp%2Freport%2Fprice.html%3Fdealer_name%3D%25E5%258C%2597%25E4%25BA%25AC%25E7%2594%25B3%25E9%2593%25B6%25E6%25B1%25BD%25E8%25BD%25A6%25E6%259C%258D%25E5%258A%25A1%25E6%259C%2589%25E9%2599%2590%25E5%2585%25AC%25E5%258F%25B8%26dealer_id%3Ddcd_19263%26official_price%3D29.2%26car_name%3D330TSI%2B%25E4%25B8%25A4%25E9%25A9%25B1%25E8%25B1%25AA%25E5%258D%258E%25E7%2589%2588%26dealer_price%3D27.7%26car_id%3D53347&hide_bar=1&enable_resume_pause_js=1&bounce_disable=1"
+        },
+        "dealer_im_schema": "sslocal://im_service_dialog?series_id=0&car_id=53347&dealer_id=19263&source_from=car_detail&page_id=page_car_style&zt=dcd_zt_style_dealer_list_im",
+        "dealer_has_im_service": true,
+        "dealer_id": "dcd_19263",
+        "additional": "",
+        "dealer_price": 27.7,
+        "instalment": {
+          "first_payment": "",
+          "month_payment": "",
+          "label": "",
+          "show": false
+        },
+        "show_phone_number": 1,
+        "lati": 40.093575,
+        "max_im_user_id": 1094740316011464,
+        "dealer_phone": "17181014879",
+        "dealer_full_name": "\u5317\u4eac\u7533\u94f6\u6c7d\u8f66\u670d\u52a1\u6709\u9650\u516c\u53f8",
+        "price": "27.7\u4e07",
+        "official_price": 29.2,
+        "dealer_name": "\u5317\u4eac\u7533\u94f6\u6c7d\u8f66\u670d\u52a1\u6709\u9650\u516c\u53f8",
+        "addtional": "",
+        "address": "\u5317\u4eac\u5e02\u660c\u5e73\u533a\u5317\u4e03\u5bb6\u9547\u4e1c\u4e09\u65d7\u6751\u6751\u5317\u5317\u4eac\u5317\u8fb0\u4e9a\u8fd0\u6751\u6c7d\u8f66\u4ea4\u6613\u5e02\u573a\u4e2d\u5fc336\u53f7B\u533a",
+        "dealer_phone_desc": "\u7535\u8bdd\u54a8\u8be2",
+        "promotion_info": {
+          "ab_res": "v2",
+          "data": []
+        },
+        "dealer_im_desc": "\u7535\u8bdd/\u54a8\u8be2",
+        "dealer_type": "4S\u5e97",
+        "gift": {
+          "service": {
+            "text": "\u54a8\u8be2\u6b64\u5546\u5bb6\u80fd\u591f\u7acb\u5373\u83b7\u5f97\u4e13\u4eba\u8ddf\u8fdb\u670d\u52a1,\u7535\u8bdd\u63a5\u901a\u7387\u8d85\u8fc790%",
+            "show": false,
+            "label": "\u4f18\u8d28\u670d\u52a1"
+          },
+          "special": {
+            "text": "",
+            "show": false,
+            "label": "\u9650\u65f6\u7279\u4ef7"
+          },
+          "package": {
+            "text": "",
+            "show": false,
+            "label": "\u793c\u5305"
+          }
+        },
+        "url": "sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Finapp%2Fcompute%2Findex.html%3Fcar_id%3D53347%26dealer_id%3Ddcd_19263&hide_bar=1&bounce_disable=1",
+        "sale_region": "\u552e\u591a\u5730",
+        "im_uids": [
+          1094740316011464,
+          3254205962262798,
+          792095475634896
+        ],
+        "verification": {
+          "text": "\u61c2\u8f66\u5e1d\u7d27\u5bc6\u5408\u4f5c\u5546\u5bb6\uff0c\u4f18\u8d28\u670d\u52a1\u4fdd\u969c",
+          "show": true,
+          "icon_url": "http://sf1-ttcdn-tos.pstatp.com/obj/motor-img/e6c499cc48472d3375049ccf1ced8201"
+        }
+      },
+      "type": 1035
+    },
+    {
+      "info": {
+        "is_recommend": false,
+        "longi": 116.868558,
+        "fake_report": {
+          "text": "\u865a\u5047\u62a5\u4ef7\uff0c\u70b9\u51fb\u4e3e\u62a5",
+          "open_url": "sslocal://webview?url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Finapp%2Freport%2Fprice.html%3Fdealer_name%3D%25E5%258C%2597%25E4%25BA%25AC%25E5%25BE%25B7%25E9%25A9%25BF%25E9%2580%259A%25E7%25A8%258B%26dealer_id%3Ddcd_29402%26official_price%3D29.2%26car_name%3D330TSI%2B%25E4%25B8%25A4%25E9%25A9%25B1%25E8%25B1%25AA%25E5%258D%258E%25E7%2589%2588%26dealer_price%3D27.7%26car_id%3D53347&hide_bar=1&enable_resume_pause_js=1&bounce_disable=1"
+        },
+        "dealer_im_schema": "sslocal://im_service_dialog?series_id=0&car_id=53347&dealer_id=29402&source_from=car_detail&page_id=page_car_style&zt=dcd_zt_style_dealer_list_im",
+        "dealer_has_im_service": true,
+        "dealer_id": "dcd_29402",
+        "additional": "",
+        "dealer_price": 27.7,
+        "instalment": {
+          "first_payment": "",
+          "month_payment": "",
+          "label": "",
+          "show": false
+        },
+        "show_phone_number": 1,
+        "lati": 40.377409,
+        "max_im_user_id": 85652248390,
+        "dealer_phone": "17181185384",
+        "dealer_full_name": "\u5317\u4eac\u5fb7\u9a7f\u901a\u7a0b\u6c7d\u8f66\u9500\u552e\u670d\u52a1\u6709\u9650\u516c\u53f8",
+        "price": "27.7\u4e07",
+        "official_price": 29.2,
+        "dealer_name": "\u5317\u4eac\u5fb7\u9a7f\u901a\u7a0b",
+        "addtional": "",
+        "address": "\u5317\u4eac\u5e02\u5bc6\u4e91\u533a\u65b0\u5357\u8def37\u53f7",
+        "dealer_phone_desc": "\u7535\u8bdd\u54a8\u8be2",
+        "promotion_info": {
+          "ab_res": "v2",
+          "data": []
+        },
+        "dealer_im_desc": "\u7535\u8bdd/\u54a8\u8be2",
+        "dealer_type": "4S\u5e97",
+        "gift": {
+          "service": {
+            "text": "\u54a8\u8be2\u6b64\u5546\u5bb6\u80fd\u591f\u7acb\u5373\u83b7\u5f97\u4e13\u4eba\u8ddf\u8fdb\u670d\u52a1,\u7535\u8bdd\u63a5\u901a\u7387\u8d85\u8fc790%",
+            "show": false,
+            "label": "\u4f18\u8d28\u670d\u52a1"
+          },
+          "special": {
+            "text": "",
+            "show": false,
+            "label": "\u9650\u65f6\u7279\u4ef7"
+          },
+          "package": {
+            "text": "",
+            "show": false,
+            "label": "\u793c\u5305"
+          }
+        },
+        "url": "sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Finapp%2Fcompute%2Findex.html%3Fcar_id%3D53347%26dealer_id%3Ddcd_29402&hide_bar=1&bounce_disable=1",
+        "sale_region": "\u552e\u672c\u5e02",
+        "im_uids": [
+          85652248390
+        ],
+        "verification": {
+          "text": "\u61c2\u8f66\u5e1d\u7d27\u5bc6\u5408\u4f5c\u5546\u5bb6\uff0c\u4f18\u8d28\u670d\u52a1\u4fdd\u969c",
+          "show": true,
+          "icon_url": "http://sf1-ttcdn-tos.pstatp.com/obj/motor-img/e6c499cc48472d3375049ccf1ced8201"
+        }
+      },
+      "type": 1035
+    },
+    {
+      "info": {
+        "is_recommend": false,
+        "longi": 116.334489,
+        "fake_report": {
+          "text": "\u865a\u5047\u62a5\u4ef7\uff0c\u70b9\u51fb\u4e3e\u62a5",
+          "open_url": "sslocal://webview?url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Finapp%2Freport%2Fprice.html%3Fdealer_name%3D%25E6%258D%25B7%25E4%25BA%259A%25E6%25B3%25B0%25E4%25B8%25AD%25E5%2585%25B4%25E4%25B8%258A%25E6%25B1%25BD%25E5%25A4%25A7%25E4%25BC%2597%26dealer_id%3Ddcd_9717%26official_price%3D29.2%26car_name%3D330TSI%2B%25E4%25B8%25A4%25E9%25A9%25B1%25E8%25B1%25AA%25E5%258D%258E%25E7%2589%2588%26dealer_price%3D27.7%26car_id%3D53347&hide_bar=1&enable_resume_pause_js=1&bounce_disable=1"
+        },
+        "dealer_im_schema": "sslocal://im_service_dialog?series_id=0&car_id=53347&dealer_id=9717&source_from=car_detail&page_id=page_car_style&zt=dcd_zt_style_dealer_list_im",
+        "dealer_has_im_service": true,
+        "dealer_id": "dcd_9717",
+        "additional": "",
+        "dealer_price": 27.7,
+        "instalment": {
+          "first_payment": "",
+          "month_payment": "",
+          "label": "",
+          "show": false
+        },
+        "show_phone_number": 1,
+        "lati": 39.697541,
+        "max_im_user_id": 98455445604,
+        "dealer_phone": "17181019428",
+        "dealer_full_name": "\u5317\u4eac\u6377\u4e9a\u6cf0\u4e2d\u5174\u6c7d\u8f66\u9500\u552e\u6709\u9650\u516c\u53f8",
+        "price": "27.7\u4e07",
+        "official_price": 29.2,
+        "dealer_name": "\u6377\u4e9a\u6cf0\u4e2d\u5174\u4e0a\u6c7d\u5927\u4f17",
+        "addtional": "",
+        "address": "\u5317\u4eac\u5e02\u5927\u5174\u533a\u5e86\u7965\u5317\u8def1\u53f7\u96623\u53f7\u697c",
+        "dealer_phone_desc": "\u7535\u8bdd\u54a8\u8be2",
+        "promotion_info": {
+          "ab_res": "v2",
+          "data": []
+        },
+        "dealer_im_desc": "\u7535\u8bdd/\u54a8\u8be2",
+        "dealer_type": "4S\u5e97",
+        "gift": {
+          "service": {
+            "text": "\u54a8\u8be2\u6b64\u5546\u5bb6\u80fd\u591f\u7acb\u5373\u83b7\u5f97\u4e13\u4eba\u8ddf\u8fdb\u670d\u52a1,\u7535\u8bdd\u63a5\u901a\u7387\u8d85\u8fc790%",
+            "show": false,
+            "label": "\u4f18\u8d28\u670d\u52a1"
+          },
+          "special": {
+            "text": "",
+            "show": false,
+            "label": "\u9650\u65f6\u7279\u4ef7"
+          },
+          "package": {
+            "text": "",
+            "show": false,
+            "label": "\u793c\u5305"
+          }
+        },
+        "url": "sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Finapp%2Fcompute%2Findex.html%3Fcar_id%3D53347%26dealer_id%3Ddcd_9717&hide_bar=1&bounce_disable=1",
+        "sale_region": "\u552e\u591a\u5730",
+        "im_uids": [
+          108044932553,
+          98455445604
+        ],
+        "verification": {
+          "text": "\u61c2\u8f66\u5e1d\u7d27\u5bc6\u5408\u4f5c\u5546\u5bb6\uff0c\u4f18\u8d28\u670d\u52a1\u4fdd\u969c",
+          "show": true,
+          "icon_url": "http://sf1-ttcdn-tos.pstatp.com/obj/motor-img/e6c499cc48472d3375049ccf1ced8201"
+        }
+      },
+      "type": 1035
+    },
+    {
+      "info": {
+        "is_recommend": false,
+        "longi": 116.31878,
+        "fake_report": {
+          "text": "\u865a\u5047\u62a5\u4ef7\uff0c\u70b9\u51fb\u4e3e\u62a5",
+          "open_url": "sslocal://webview?url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Finapp%2Freport%2Fprice.html%3Fdealer_name%3D%25E5%258C%2597%25E4%25BA%25AC%25E9%25A6%2596%25E6%25B1%25BD%26dealer_id%3Ddcd_12657%26official_price%3D29.2%26car_name%3D330TSI%2B%25E4%25B8%25A4%25E9%25A9%25B1%25E8%25B1%25AA%25E5%258D%258E%25E7%2589%2588%26dealer_price%3D27.7%26car_id%3D53347&hide_bar=1&enable_resume_pause_js=1&bounce_disable=1"
+        },
+        "dealer_im_schema": "sslocal://im_service_dialog?series_id=0&car_id=53347&dealer_id=12657&source_from=car_detail&page_id=page_car_style&zt=dcd_zt_style_dealer_list_im",
+        "dealer_has_im_service": true,
+        "dealer_id": "dcd_12657",
+        "additional": "",
+        "dealer_price": 27.7,
+        "instalment": {
+          "first_payment": "",
+          "month_payment": "",
+          "label": "",
+          "show": false
+        },
+        "show_phone_number": 1,
+        "lati": 39.938247,
+        "max_im_user_id": 184351362122334,
+        "dealer_phone": "17065478644",
+        "dealer_full_name": "\u5317\u4eac\u9996\u6c7d\u6c7d\u8f66\u4fee\u7406\u6709\u9650\u516c\u53f8",
+        "price": "27.7\u4e07",
+        "official_price": 29.2,
+        "dealer_name": "\u5317\u4eac\u9996\u6c7d",
+        "addtional": "",
+        "address": "\u5317\u4eac\u5e02\u6d77\u6dc0\u533a\u7d2b\u7af9\u9662\u5357\u8def5\u53f7",
+        "dealer_phone_desc": "\u7535\u8bdd\u54a8\u8be2",
+        "promotion_info": {
+          "ab_res": "v2",
+          "data": []
+        },
+        "dealer_im_desc": "\u7535\u8bdd/\u54a8\u8be2",
+        "dealer_type": "4S\u5e97",
+        "gift": {
+          "service": {
+            "text": "\u54a8\u8be2\u6b64\u5546\u5bb6\u80fd\u591f\u7acb\u5373\u83b7\u5f97\u4e13\u4eba\u8ddf\u8fdb\u670d\u52a1,\u7535\u8bdd\u63a5\u901a\u7387\u8d85\u8fc790%",
+            "show": false,
+            "label": "\u4f18\u8d28\u670d\u52a1"
+          },
+          "special": {
+            "text": "",
+            "show": false,
+            "label": "\u9650\u65f6\u7279\u4ef7"
+          },
+          "package": {
+            "text": "",
+            "show": false,
+            "label": "\u793c\u5305"
+          }
+        },
+        "url": "sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Finapp%2Fcompute%2Findex.html%3Fcar_id%3D53347%26dealer_id%3Ddcd_12657&hide_bar=1&bounce_disable=1",
+        "sale_region": "\u552e\u591a\u5730",
+        "im_uids": [
+          3412532074645917,
+          1653316821197799,
+          184351362122334
+        ],
+        "verification": {
+          "text": "\u61c2\u8f66\u5e1d\u7d27\u5bc6\u5408\u4f5c\u5546\u5bb6\uff0c\u4f18\u8d28\u670d\u52a1\u4fdd\u969c",
+          "show": true,
+          "icon_url": "http://sf1-ttcdn-tos.pstatp.com/obj/motor-img/e6c499cc48472d3375049ccf1ced8201"
+        }
+      },
+      "type": 1035
+    },
+    {
+      "info": {
+        "is_recommend": false,
+        "longi": 116.412534,
+        "fake_report": {
+          "text": "\u865a\u5047\u62a5\u4ef7\uff0c\u70b9\u51fb\u4e3e\u62a5",
+          "open_url": "sslocal://webview?url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Finapp%2Freport%2Fprice.html%3Fdealer_name%3D%25E4%25B8%25AD%25E6%25B1%25BD%25E5%258D%258E%25E4%25B8%2596%25E7%2594%25B0%25E9%259D%2592%25E6%25B3%2589%25E4%25B8%258A%25E6%25B1%25BD%25E5%25A4%25A7%25E4%25BC%2597%26dealer_id%3Ddcd_14901%26official_price%3D29.2%26car_name%3D330TSI%2B%25E4%25B8%25A4%25E9%25A9%25B1%25E8%25B1%25AA%25E5%258D%258E%25E7%2589%2588%26dealer_price%3D27.7%26car_id%3D53347&hide_bar=1&enable_resume_pause_js=1&bounce_disable=1"
+        },
+        "dealer_im_schema": "sslocal://im_service_dialog?series_id=0&car_id=53347&dealer_id=14901&source_from=car_detail&page_id=page_car_style&zt=dcd_zt_style_dealer_list_im",
+        "dealer_has_im_service": true,
+        "dealer_id": "dcd_14901",
+        "additional": "",
+        "dealer_price": 27.7,
+        "instalment": {
+          "first_payment": "",
+          "month_payment": "",
+          "label": "",
+          "show": false
+        },
+        "show_phone_number": 1,
+        "lati": 40.062667,
+        "max_im_user_id": 2260245886545052,
+        "dealer_phone": "18511453949",
+        "dealer_full_name": "\u5317\u4eac\u4e2d\u6c7d\u534e\u4e16\u7530\u6c7d\u8f66\u8d38\u6613\u6709\u9650\u516c\u53f8\u9752\u6cc9\u5206\u516c\u53f8",
+        "price": "27.7\u4e07",
+        "official_price": 29.2,
+        "dealer_name": "\u4e2d\u6c7d\u534e\u4e16\u7530\u9752\u6cc9\u4e0a\u6c7d\u5927\u4f17",
+        "addtional": "",
+        "address": "\u5317\u4eac\u5e02\u660c\u5e73\u533a\u7acb\u6c64\u8def177\u53f77\u53f7\u96621\u53f7\u697c",
+        "dealer_phone_desc": "\u7535\u8bdd\u54a8\u8be2",
+        "promotion_info": {
+          "ab_res": "v2",
+          "data": []
+        },
+        "dealer_im_desc": "\u7535\u8bdd/\u54a8\u8be2",
+        "dealer_type": "4S\u5e97",
+        "gift": {
+          "service": {
+            "text": "\u54a8\u8be2\u6b64\u5546\u5bb6\u80fd\u591f\u7acb\u5373\u83b7\u5f97\u4e13\u4eba\u8ddf\u8fdb\u670d\u52a1,\u7535\u8bdd\u63a5\u901a\u7387\u8d85\u8fc790%",
+            "show": false,
+            "label": "\u4f18\u8d28\u670d\u52a1"
+          },
+          "special": {
+            "text": "",
+            "show": false,
+            "label": "\u9650\u65f6\u7279\u4ef7"
+          },
+          "package": {
+            "text": "",
+            "show": false,
+            "label": "\u793c\u5305"
+          }
+        },
+        "url": "sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Finapp%2Fcompute%2Findex.html%3Fcar_id%3D53347%26dealer_id%3Ddcd_14901&hide_bar=1&bounce_disable=1",
+        "sale_region": "\u552e\u591a\u5730",
+        "im_uids": [
+          2260245886545052,
+          2216205540669536
+        ],
+        "verification": {
+          "text": "\u61c2\u8f66\u5e1d\u7d27\u5bc6\u5408\u4f5c\u5546\u5bb6\uff0c\u4f18\u8d28\u670d\u52a1\u4fdd\u969c",
+          "show": true,
+          "icon_url": "http://sf1-ttcdn-tos.pstatp.com/obj/motor-img/e6c499cc48472d3375049ccf1ced8201"
+        }
+      },
+      "type": 1035
+    },
+    {
+      "info": {
+        "is_recommend": false,
+        "longi": 116.133453,
+        "fake_report": {
+          "text": "\u865a\u5047\u62a5\u4ef7\uff0c\u70b9\u51fb\u4e3e\u62a5",
+          "open_url": "sslocal://webview?url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Finapp%2Freport%2Fprice.html%3Fdealer_name%3D%25E4%25B8%258A%25E6%25B1%25BD%25E5%25A4%25A7%25E4%25BC%2597%25E5%2587%25AF%25E5%25A8%2581%25E5%25AF%258C%25E6%25AA%25914S%25E5%25BA%2597%26dealer_id%3Ddcd_15153%26official_price%3D29.2%26car_name%3D330TSI%2B%25E4%25B8%25A4%25E9%25A9%25B1%25E8%25B1%25AA%25E5%258D%258E%25E7%2589%2588%26dealer_price%3D29.2%26car_id%3D53347&hide_bar=1&enable_resume_pause_js=1&bounce_disable=1"
+        },
+        "dealer_im_schema": "sslocal://im_service_dialog?series_id=0&car_id=53347&dealer_id=15153&source_from=car_detail&page_id=page_car_style&zt=dcd_zt_style_dealer_list_im",
+        "dealer_has_im_service": true,
+        "dealer_id": "dcd_15153",
+        "additional": "",
+        "dealer_price": 29.2,
+        "instalment": {
+          "first_payment": "",
+          "month_payment": "",
+          "label": "",
+          "show": false
+        },
+        "show_phone_number": 1,
+        "lati": 39.715999,
+        "max_im_user_id": 2959535803741016,
+        "dealer_phone": "17181180746",
+        "dealer_full_name": "\u5317\u4eac\u51ef\u5a01\u5bcc\u6a91\u6c7d\u8f66\u9500\u552e\u670d\u52a1\u6709\u9650\u516c\u53f8",
+        "price": "29.2\u4e07",
+        "official_price": 29.2,
+        "dealer_name": "\u4e0a\u6c7d\u5927\u4f17\u51ef\u5a01\u5bcc\u6a914S\u5e97",
+        "addtional": "",
+        "address": "\u5317\u4eac\u5e02\u623f\u5c71\u533a\u826f\u4e61\u51ef\u65cb\u5927\u885750\u53f7",
+        "dealer_phone_desc": "\u7535\u8bdd\u54a8\u8be2",
+        "promotion_info": {
+          "ab_res": "v2",
+          "data": []
+        },
+        "dealer_im_desc": "\u7535\u8bdd/\u54a8\u8be2",
+        "dealer_type": "4S\u5e97",
+        "gift": {
+          "service": {
+            "text": "\u54a8\u8be2\u6b64\u5546\u5bb6\u80fd\u591f\u7acb\u5373\u83b7\u5f97\u4e13\u4eba\u8ddf\u8fdb\u670d\u52a1,\u7535\u8bdd\u63a5\u901a\u7387\u8d85\u8fc790%",
+            "show": false,
+            "label": "\u4f18\u8d28\u670d\u52a1"
+          },
+          "special": {
+            "text": "",
+            "show": false,
+            "label": "\u9650\u65f6\u7279\u4ef7"
+          },
+          "package": {
+            "text": "",
+            "show": false,
+            "label": "\u793c\u5305"
+          }
+        },
+        "url": "sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Finapp%2Fcompute%2Findex.html%3Fcar_id%3D53347%26dealer_id%3Ddcd_15153&hide_bar=1&bounce_disable=1",
+        "sale_region": "\u552e\u591a\u5730",
+        "im_uids": [
+          67904668502,
+          2994703169224923,
+          2959535803741016,
+          55969201772,
+          110979055026
+        ],
+        "verification": {
+          "text": "\u61c2\u8f66\u5e1d\u7d27\u5bc6\u5408\u4f5c\u5546\u5bb6\uff0c\u4f18\u8d28\u670d\u52a1\u4fdd\u969c",
+          "show": true,
+          "icon_url": "http://sf1-ttcdn-tos.pstatp.com/obj/motor-img/e6c499cc48472d3375049ccf1ced8201"
+        }
+      },
+      "type": 1035
+    },
+    {
+      "info": {
+        "is_recommend": false,
+        "longi": 116.546091,
+        "fake_report": {
+          "text": "\u865a\u5047\u62a5\u4ef7\uff0c\u70b9\u51fb\u4e3e\u62a5",
+          "open_url": "sslocal://webview?url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Finapp%2Freport%2Fprice.html%3Fdealer_name%3D%25E5%259B%25BD%25E6%259C%258D%25E4%25BF%25A1%25E9%25AB%2598%25E5%25BE%25B7%26dealer_id%3Ddcd_17398%26official_price%3D29.2%26car_name%3D330TSI%2B%25E4%25B8%25A4%25E9%25A9%25B1%25E8%25B1%25AA%25E5%258D%258E%25E7%2589%2588%26dealer_price%3D27.7%26car_id%3D53347&hide_bar=1&enable_resume_pause_js=1&bounce_disable=1"
+        },
+        "dealer_im_schema": "sslocal://im_service_dialog?series_id=0&car_id=53347&dealer_id=17398&source_from=car_detail&page_id=page_car_style&zt=dcd_zt_style_dealer_list_im",
+        "dealer_has_im_service": true,
+        "dealer_id": "dcd_17398",
+        "additional": "",
+        "dealer_price": 27.7,
+        "instalment": {
+          "first_payment": "",
+          "month_payment": "",
+          "label": "",
+          "show": false
+        },
+        "show_phone_number": 1,
+        "lati": 39.865946,
+        "max_im_user_id": 2963890996773572,
+        "dealer_phone": "15501131630",
+        "dealer_full_name": "\u5317\u4eac\u56fd\u670d\u4fe1\u9ad8\u5fb7\u6c7d\u8f66\u9500\u552e\u6709\u9650\u516c\u53f8",
+        "price": "27.7\u4e07",
+        "official_price": 29.2,
+        "dealer_name": "\u56fd\u670d\u4fe1\u9ad8\u5fb7",
+        "addtional": "",
+        "address": "\u5317\u4eac\u671d\u9633\u533a\u738b\u56db\u8425\u6751339\u53f7",
+        "dealer_phone_desc": "\u7535\u8bdd\u54a8\u8be2",
+        "promotion_info": {
+          "ab_res": "v2",
+          "data": []
+        },
+        "dealer_im_desc": "\u7535\u8bdd/\u54a8\u8be2",
+        "dealer_type": "4S\u5e97",
+        "gift": {
+          "service": {
+            "text": "\u54a8\u8be2\u6b64\u5546\u5bb6\u80fd\u591f\u7acb\u5373\u83b7\u5f97\u4e13\u4eba\u8ddf\u8fdb\u670d\u52a1,\u7535\u8bdd\u63a5\u901a\u7387\u8d85\u8fc790%",
+            "show": false,
+            "label": "\u4f18\u8d28\u670d\u52a1"
+          },
+          "special": {
+            "text": "",
+            "show": false,
+            "label": "\u9650\u65f6\u7279\u4ef7"
+          },
+          "package": {
+            "text": "",
+            "show": false,
+            "label": "\u793c\u5305"
+          }
+        },
+        "url": "sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Finapp%2Fcompute%2Findex.html%3Fcar_id%3D53347%26dealer_id%3Ddcd_17398&hide_bar=1&bounce_disable=1",
+        "sale_region": "\u552e\u591a\u5730",
+        "im_uids": [
+          4107383092819027,
+          2963890996773572
+        ],
+        "verification": {
+          "text": "\u61c2\u8f66\u5e1d\u7d27\u5bc6\u5408\u4f5c\u5546\u5bb6\uff0c\u4f18\u8d28\u670d\u52a1\u4fdd\u969c",
+          "show": true,
+          "icon_url": "http://sf1-ttcdn-tos.pstatp.com/obj/motor-img/e6c499cc48472d3375049ccf1ced8201"
+        }
+      },
+      "type": 1035
+    },
+    {
+      "info": {
+        "is_recommend": false,
+        "longi": 116.634086,
+        "fake_report": {
+          "text": "\u865a\u5047\u62a5\u4ef7\uff0c\u70b9\u51fb\u4e3e\u62a5",
+          "open_url": "sslocal://webview?url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Finapp%2Freport%2Fprice.html%3Fdealer_name%3D%25E5%258C%2597%25E4%25BA%25AC%25E5%25AF%258C%25E7%2586%2599%25E5%258D%259A%25E6%259E%2597%26dealer_id%3Ddcd_19068%26official_price%3D29.2%26car_name%3D330TSI%2B%25E4%25B8%25A4%25E9%25A9%25B1%25E8%25B1%25AA%25E5%258D%258E%25E7%2589%2588%26dealer_price%3D29.2%26car_id%3D53347&hide_bar=1&enable_resume_pause_js=1&bounce_disable=1"
+        },
+        "dealer_im_schema": "sslocal://im_service_dialog?series_id=0&car_id=53347&dealer_id=19068&source_from=car_detail&page_id=page_car_style&zt=dcd_zt_style_dealer_list_im",
+        "dealer_has_im_service": true,
+        "dealer_id": "dcd_19068",
+        "additional": "",
+        "dealer_price": 29.2,
+        "instalment": {
+          "first_payment": "",
+          "month_payment": "",
+          "label": "",
+          "show": false
+        },
+        "show_phone_number": 1,
+        "lati": 40.116628,
+        "max_im_user_id": 93210868014,
+        "dealer_phone": "17137616575",
+        "dealer_full_name": "\u5317\u4eac\u5bcc\u7199\u535a\u6797\u6c7d\u8f66\u9500\u552e\u670d\u52a1\u6709\u9650\u516c\u53f8",
+        "price": "29.2\u4e07",
+        "official_price": 29.2,
+        "dealer_name": "\u5317\u4eac\u5bcc\u7199\u535a\u6797",
+        "addtional": "",
+        "address": "\u5317\u4eac\u5e02\u987a\u4e49\u533a\u897f\u8def\u6885\u6c9f\u8425\u8425\u6751\u897f",
+        "dealer_phone_desc": "\u7535\u8bdd\u54a8\u8be2",
+        "promotion_info": {
+          "ab_res": "v2",
+          "data": []
+        },
+        "dealer_im_desc": "\u7535\u8bdd/\u54a8\u8be2",
+        "dealer_type": "4S\u5e97",
+        "gift": {
+          "service": {
+            "text": "\u54a8\u8be2\u6b64\u5546\u5bb6\u80fd\u591f\u7acb\u5373\u83b7\u5f97\u4e13\u4eba\u8ddf\u8fdb\u670d\u52a1,\u7535\u8bdd\u63a5\u901a\u7387\u8d85\u8fc790%",
+            "show": false,
+            "label": "\u4f18\u8d28\u670d\u52a1"
+          },
+          "special": {
+            "text": "",
+            "show": false,
+            "label": "\u9650\u65f6\u7279\u4ef7"
+          },
+          "package": {
+            "text": "",
+            "show": false,
+            "label": "\u793c\u5305"
+          }
+        },
+        "url": "sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Finapp%2Fcompute%2Findex.html%3Fcar_id%3D53347%26dealer_id%3Ddcd_19068&hide_bar=1&bounce_disable=1",
+        "sale_region": "\u552e\u591a\u5730",
+        "im_uids": [
+          3869932478281767,
+          93210868014,
+          2744832970472429
+        ],
+        "verification": {
+          "text": "\u61c2\u8f66\u5e1d\u7d27\u5bc6\u5408\u4f5c\u5546\u5bb6\uff0c\u4f18\u8d28\u670d\u52a1\u4fdd\u969c",
+          "show": true,
+          "icon_url": "http://sf1-ttcdn-tos.pstatp.com/obj/motor-img/e6c499cc48472d3375049ccf1ced8201"
+        }
+      },
+      "type": 1035
+    },
+    {
+      "info": {
+        "is_recommend": false,
+        "longi": 116.519602,
+        "fake_report": {
+          "text": "\u865a\u5047\u62a5\u4ef7\uff0c\u70b9\u51fb\u4e3e\u62a5",
+          "open_url": "sslocal://webview?url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Finapp%2Freport%2Fprice.html%3Fdealer_name%3D%25E5%258C%2597%25E4%25BA%25AC%25E8%2589%25BE%25E6%25BD%2587%25E4%25B8%258A%25E6%25B1%25BD%25E5%25A4%25A7%25E4%25BC%2597%26dealer_id%3Ddcd_6886%26official_price%3D29.2%26car_name%3D330TSI%2B%25E4%25B8%25A4%25E9%25A9%25B1%25E8%25B1%25AA%25E5%258D%258E%25E7%2589%2588%26dealer_price%3D27.7%26car_id%3D53347&hide_bar=1&enable_resume_pause_js=1&bounce_disable=1"
+        },
+        "dealer_im_schema": "sslocal://im_service_dialog?series_id=0&car_id=53347&dealer_id=6886&source_from=car_detail&page_id=page_car_style&zt=dcd_zt_style_dealer_list_im",
+        "dealer_has_im_service": true,
+        "dealer_id": "dcd_6886",
+        "additional": "",
+        "dealer_price": 27.7,
+        "instalment": {
+          "first_payment": "",
+          "month_payment": "",
+          "label": "",
+          "show": false
+        },
+        "show_phone_number": 1,
+        "lati": 39.939139,
+        "max_im_user_id": 3245349266261708,
+        "dealer_phone": "17181016646",
+        "dealer_full_name": "\u5317\u4eac\u5e02\u827e\u6f47\u6c7d\u8f66\u6709\u9650\u516c\u53f8",
+        "price": "27.7\u4e07",
+        "official_price": 29.2,
+        "dealer_name": "\u5317\u4eac\u827e\u6f47\u4e0a\u6c7d\u5927\u4f17",
+        "addtional": "",
+        "address": "\u671d\u9633\u533a\u59da\u5bb6\u56ed\u8def\u75321\u53f7\u5317\u4eac\u4e1c\u65b9\u57fa\u4e1a\u56fd\u9645\u6c7d\u8f66\u57ce\u5e02\u573aG\u533a6\u53f7",
+        "dealer_phone_desc": "\u7535\u8bdd\u54a8\u8be2",
+        "promotion_info": {
+          "ab_res": "v2",
+          "data": []
+        },
+        "dealer_im_desc": "\u7535\u8bdd/\u54a8\u8be2",
+        "dealer_type": "4S\u5e97",
+        "gift": {
+          "service": {
+            "text": "\u54a8\u8be2\u6b64\u5546\u5bb6\u80fd\u591f\u7acb\u5373\u83b7\u5f97\u4e13\u4eba\u8ddf\u8fdb\u670d\u52a1,\u7535\u8bdd\u63a5\u901a\u7387\u8d85\u8fc790%",
+            "show": false,
+            "label": "\u4f18\u8d28\u670d\u52a1"
+          },
+          "special": {
+            "text": "",
+            "show": false,
+            "label": "\u9650\u65f6\u7279\u4ef7"
+          },
+          "package": {
+            "text": "",
+            "show": false,
+            "label": "\u793c\u5305"
+          }
+        },
+        "url": "sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Finapp%2Fcompute%2Findex.html%3Fcar_id%3D53347%26dealer_id%3Ddcd_6886&hide_bar=1&bounce_disable=1",
+        "sale_region": "\u552e\u591a\u5730",
+        "im_uids": [
+          3245349266261708
+        ],
+        "verification": {
+          "text": "\u61c2\u8f66\u5e1d\u7d27\u5bc6\u5408\u4f5c\u5546\u5bb6\uff0c\u4f18\u8d28\u670d\u52a1\u4fdd\u969c",
+          "show": true,
+          "icon_url": "http://sf1-ttcdn-tos.pstatp.com/obj/motor-img/e6c499cc48472d3375049ccf1ced8201"
+        }
+      },
+      "type": 1035
+    },
+    {
+      "info": {
+        "is_recommend": false,
+        "longi": 116.492195,
+        "fake_report": {
+          "text": "\u865a\u5047\u62a5\u4ef7\uff0c\u70b9\u51fb\u4e3e\u62a5",
+          "open_url": "sslocal://webview?url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Finapp%2Freport%2Fprice.html%3Fdealer_name%3D%25E5%25A4%25A7%25E4%25BC%2597%25E6%25B1%25BD%25E8%25BD%25A6%25E9%25A2%2590%25E5%25A0%25A4%25E6%25B8%25AF%25E4%25B8%25AD%25E5%25BF%2583%26dealer_id%3Ddcd_14899%26official_price%3D29.2%26car_name%3D330TSI%2B%25E4%25B8%25A4%25E9%25A9%25B1%25E8%25B1%25AA%25E5%258D%258E%25E7%2589%2588%26dealer_price%3D29.2%26car_id%3D53347&hide_bar=1&enable_resume_pause_js=1&bounce_disable=1"
+        },
+        "dealer_im_schema": "sslocal://im_service_dialog?series_id=0&car_id=53347&dealer_id=14899&source_from=car_detail&page_id=page_car_style&zt=dcd_zt_style_dealer_list_im",
+        "dealer_has_im_service": true,
+        "dealer_id": "dcd_14899",
+        "additional": "",
+        "dealer_price": 29.2,
+        "instalment": {
+          "first_payment": "",
+          "month_payment": "",
+          "label": "",
+          "show": false
+        },
+        "show_phone_number": 1,
+        "lati": 39.96798,
+        "max_im_user_id": 4085416600288935,
+        "dealer_phone": "15501131993",
+        "dealer_full_name": "\u5317\u4eac\u9a8f\u5b9d\u6377\u6c7d\u8f66\u9500\u552e\u670d\u52a1\u6709\u9650\u516c\u53f8",
+        "price": "29.2\u4e07",
+        "official_price": 29.2,
+        "dealer_name": "\u5927\u4f17\u6c7d\u8f66\u9890\u5824\u6e2f\u4e2d\u5fc3",
+        "addtional": "",
+        "address": "\u5317\u4eac\u5e02\u671d\u9633\u533a\u5c06\u53f0\u4e61\u575d\u6cb3\u5317\u5cb88\u53f7",
+        "dealer_phone_desc": "\u7535\u8bdd\u54a8\u8be2",
+        "promotion_info": {
+          "ab_res": "v2",
+          "data": []
+        },
+        "dealer_im_desc": "\u7535\u8bdd/\u54a8\u8be2",
+        "dealer_type": "4S\u5e97",
+        "gift": {
+          "service": {
+            "text": "\u54a8\u8be2\u6b64\u5546\u5bb6\u80fd\u591f\u7acb\u5373\u83b7\u5f97\u4e13\u4eba\u8ddf\u8fdb\u670d\u52a1,\u7535\u8bdd\u63a5\u901a\u7387\u8d85\u8fc790%",
+            "show": false,
+            "label": "\u4f18\u8d28\u670d\u52a1"
+          },
+          "special": {
+            "text": "",
+            "show": false,
+            "label": "\u9650\u65f6\u7279\u4ef7"
+          },
+          "package": {
+            "text": "",
+            "show": false,
+            "label": "\u793c\u5305"
+          }
+        },
+        "url": "sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Finapp%2Fcompute%2Findex.html%3Fcar_id%3D53347%26dealer_id%3Ddcd_14899&hide_bar=1&bounce_disable=1",
+        "sale_region": "\u552e\u591a\u5730",
+        "im_uids": [
+          4085416600288935
+        ],
+        "verification": {
+          "text": "\u61c2\u8f66\u5e1d\u7d27\u5bc6\u5408\u4f5c\u5546\u5bb6\uff0c\u4f18\u8d28\u670d\u52a1\u4fdd\u969c",
+          "show": true,
+          "icon_url": "http://sf1-ttcdn-tos.pstatp.com/obj/motor-img/e6c499cc48472d3375049ccf1ced8201"
+        }
+      },
+      "type": 1035
+    },
+    {
+      "info": {
+        "is_recommend": false,
+        "longi": 116.342151,
+        "fake_report": {
+          "text": "\u865a\u5047\u62a5\u4ef7\uff0c\u70b9\u51fb\u4e3e\u62a5",
+          "open_url": "sslocal://webview?url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Finapp%2Freport%2Fprice.html%3Fdealer_name%3D%25E4%25B8%258A%25E6%25B1%25BD%25E5%25A4%25A7%25E4%25BC%2597%25E5%25A4%25A7%25E5%2585%25B4%25E5%25BA%2597%26dealer_id%3Ddcd_34089%26official_price%3D29.2%26car_name%3D330TSI%2B%25E4%25B8%25A4%25E9%25A9%25B1%25E8%25B1%25AA%25E5%258D%258E%25E7%2589%2588%26dealer_price%3D29.2%26car_id%3D53347&hide_bar=1&enable_resume_pause_js=1&bounce_disable=1"
+        },
+        "dealer_im_schema": "sslocal://im_service_dialog?series_id=0&car_id=53347&dealer_id=34089&source_from=car_detail&page_id=page_car_style&zt=dcd_zt_style_dealer_list_im",
+        "dealer_has_im_service": true,
+        "dealer_id": "dcd_34089",
+        "additional": "",
+        "dealer_price": 29.2,
+        "instalment": {
+          "first_payment": "",
+          "month_payment": "",
+          "label": "",
+          "show": false
+        },
+        "show_phone_number": 1,
+        "lati": 39.759456,
+        "max_im_user_id": 3579665340969741,
+        "dealer_phone": "17160035733",
+        "dealer_full_name": "\u5317\u4eac\u660e\u535a\u4f73\u4e1a\u6c7d\u8f66\u9500\u552e\u670d\u52a1\u6709\u9650\u516c\u53f8",
+        "price": "29.2\u4e07",
+        "official_price": 29.2,
+        "dealer_name": "\u4e0a\u6c7d\u5927\u4f17\u5927\u5174\u5e97",
+        "addtional": "",
+        "address": "\u5317\u4eac\u5e02\u5927\u5174\u533a\u5eb7\u987a\u56ed\u5c0f\u533a13\u53f7\u697c\u5e95\u5546(\u5eb7\u5e84\u8def\u4e1c\u53e3)",
+        "dealer_phone_desc": "\u7535\u8bdd\u54a8\u8be2",
+        "promotion_info": {
+          "ab_res": "v2",
+          "data": []
+        },
+        "dealer_im_desc": "\u7535\u8bdd/\u54a8\u8be2",
+        "dealer_type": "4S\u5e97",
+        "gift": {
+          "service": {
+            "text": "\u54a8\u8be2\u6b64\u5546\u5bb6\u80fd\u591f\u7acb\u5373\u83b7\u5f97\u4e13\u4eba\u8ddf\u8fdb\u670d\u52a1,\u7535\u8bdd\u63a5\u901a\u7387\u8d85\u8fc790%",
+            "show": false,
+            "label": "\u4f18\u8d28\u670d\u52a1"
+          },
+          "special": {
+            "text": "",
+            "show": false,
+            "label": "\u9650\u65f6\u7279\u4ef7"
+          },
+          "package": {
+            "text": "",
+            "show": false,
+            "label": "\u793c\u5305"
+          }
+        },
+        "url": "sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Finapp%2Fcompute%2Findex.html%3Fcar_id%3D53347%26dealer_id%3Ddcd_34089&hide_bar=1&bounce_disable=1",
+        "sale_region": "\u552e\u672c\u5e02",
+        "im_uids": [
+          3579665340969741
+        ],
+        "verification": {
+          "text": "\u61c2\u8f66\u5e1d\u7d27\u5bc6\u5408\u4f5c\u5546\u5bb6\uff0c\u4f18\u8d28\u670d\u52a1\u4fdd\u969c",
+          "show": true,
+          "icon_url": "http://sf1-ttcdn-tos.pstatp.com/obj/motor-img/e6c499cc48472d3375049ccf1ced8201"
+        }
+      },
+      "type": 1035
+    },
+    {
+      "info": {
+        "is_recommend": false,
+        "longi": 116.266176,
+        "fake_report": {
+          "text": "\u865a\u5047\u62a5\u4ef7\uff0c\u70b9\u51fb\u4e3e\u62a5",
+          "open_url": "sslocal://webview?url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Finapp%2Freport%2Fprice.html%3Fdealer_name%3D%25E5%258C%2597%25E4%25BA%25AC%25E4%25B8%258A%25E6%25B1%25BD%25E4%25B8%25B0%25E5%258D%258E%25E6%25B1%25BD%25E8%25BD%25A6%25E9%2594%2580%25E5%2594%25AE%25E6%259C%258D%25E5%258A%25A1%25E6%259C%2589%25E9%2599%2590%25E5%2585%25AC%25E5%258F%25B8%26dealer_id%3Ddcd_10530%26official_price%3D29.2%26car_name%3D330TSI%2B%25E4%25B8%25A4%25E9%25A9%25B1%25E8%25B1%25AA%25E5%258D%258E%25E7%2589%2588%26dealer_price%3D27.7%26car_id%3D53347&hide_bar=1&enable_resume_pause_js=1&bounce_disable=1"
+        },
+        "dealer_im_schema": "sslocal://im_service_dialog?series_id=0&car_id=53347&dealer_id=10530&source_from=car_detail&page_id=page_car_style&zt=dcd_zt_style_dealer_list_im",
+        "dealer_has_im_service": true,
+        "dealer_id": "dcd_10530",
+        "additional": "",
+        "dealer_price": 27.7,
+        "instalment": {
+          "first_payment": "",
+          "month_payment": "",
+          "label": "",
+          "show": false
+        },
+        "show_phone_number": 1,
+        "lati": 39.885105,
+        "max_im_user_id": 852834069528173,
+        "dealer_phone": "18511374408",
+        "dealer_full_name": "\u5317\u4eac\u4e0a\u6c7d\u4e30\u534e\u6c7d\u8f66\u9500\u552e\u670d\u52a1\u6709\u9650\u516c\u53f8",
+        "price": "27.7\u4e07",
+        "official_price": 29.2,
+        "dealer_name": "\u5317\u4eac\u4e0a\u6c7d\u4e30\u534e\u6c7d\u8f66\u9500\u552e\u670d\u52a1\u6709\u9650\u516c\u53f8",
+        "addtional": "",
+        "address": "\u5317\u4eac\u5e02\u4e30\u53f0\u533a\u9752\u5854\u897f\u8def46\u53f7",
+        "dealer_phone_desc": "\u7535\u8bdd\u54a8\u8be2",
+        "promotion_info": {
+          "ab_res": "v2",
+          "data": []
+        },
+        "dealer_im_desc": "\u7535\u8bdd/\u54a8\u8be2",
+        "dealer_type": "4S\u5e97",
+        "gift": {
+          "service": {
+            "text": "\u54a8\u8be2\u6b64\u5546\u5bb6\u80fd\u591f\u7acb\u5373\u83b7\u5f97\u4e13\u4eba\u8ddf\u8fdb\u670d\u52a1,\u7535\u8bdd\u63a5\u901a\u7387\u8d85\u8fc790%",
+            "show": false,
+            "label": "\u4f18\u8d28\u670d\u52a1"
+          },
+          "special": {
+            "text": "",
+            "show": false,
+            "label": "\u9650\u65f6\u7279\u4ef7"
+          },
+          "package": {
+            "text": "",
+            "show": false,
+            "label": "\u793c\u5305"
+          }
+        },
+        "url": "sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Finapp%2Fcompute%2Findex.html%3Fcar_id%3D53347%26dealer_id%3Ddcd_10530&hide_bar=1&bounce_disable=1",
+        "sale_region": "\u552e\u591a\u5730",
+        "im_uids": [
+          566989615793239,
+          852834069528173,
+          3029905344830324
+        ],
+        "verification": {
+          "text": "\u61c2\u8f66\u5e1d\u7d27\u5bc6\u5408\u4f5c\u5546\u5bb6\uff0c\u4f18\u8d28\u670d\u52a1\u4fdd\u969c",
+          "show": true,
+          "icon_url": "http://sf1-ttcdn-tos.pstatp.com/obj/motor-img/e6c499cc48472d3375049ccf1ced8201"
+        }
+      },
+      "type": 1035
+    },
+    {
+      "info": {
+        "is_recommend": false,
+        "longi": 116.419982,
+        "fake_report": {
+          "text": "\u865a\u5047\u62a5\u4ef7\uff0c\u70b9\u51fb\u4e3e\u62a5",
+          "open_url": "sslocal://webview?url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Finapp%2Freport%2Fprice.html%3Fdealer_name%3D%25E5%258C%2597%25E4%25BA%25AC%25E5%258C%2597%25E4%25BA%259A%25E5%2590%2588%25E4%25BC%2597%26dealer_id%3Ddcd_28628%26official_price%3D29.2%26car_name%3D330TSI%2B%25E4%25B8%25A4%25E9%25A9%25B1%25E8%25B1%25AA%25E5%258D%258E%25E7%2589%2588%26dealer_price%3D27.7%26car_id%3D53347&hide_bar=1&enable_resume_pause_js=1&bounce_disable=1"
+        },
+        "dealer_im_schema": "sslocal://im_service_dialog?series_id=0&car_id=53347&dealer_id=28628&source_from=car_detail&page_id=page_car_style&zt=dcd_zt_style_dealer_list_im",
+        "dealer_has_im_service": true,
+        "dealer_id": "dcd_28628",
+        "additional": "",
+        "dealer_price": 27.7,
+        "instalment": {
+          "first_payment": "",
+          "month_payment": "",
+          "label": "",
+          "show": false
+        },
+        "show_phone_number": 1,
+        "lati": 40.002597,
+        "max_im_user_id": 109759264611,
+        "dealer_phone": "17181014687",
+        "dealer_full_name": "\u5317\u4eac\u5317\u4e9a\u5408\u4f17\u6c7d\u8f66\u9500\u552e\u6709\u9650\u516c\u53f8",
+        "price": "27.7\u4e07",
+        "official_price": 29.2,
+        "dealer_name": "\u5317\u4eac\u5317\u4e9a\u5408\u4f17",
+        "addtional": "",
+        "address": "\u5317\u4eac\u5e02\u671d\u9633\u533a\u5927\u5c6f225\u53f7",
+        "dealer_phone_desc": "\u7535\u8bdd\u54a8\u8be2",
+        "promotion_info": {
+          "ab_res": "v2",
+          "data": []
+        },
+        "dealer_im_desc": "\u7535\u8bdd/\u54a8\u8be2",
+        "dealer_type": "4S\u5e97",
+        "gift": {
+          "service": {
+            "text": "\u54a8\u8be2\u6b64\u5546\u5bb6\u80fd\u591f\u7acb\u5373\u83b7\u5f97\u4e13\u4eba\u8ddf\u8fdb\u670d\u52a1,\u7535\u8bdd\u63a5\u901a\u7387\u8d85\u8fc790%",
+            "show": false,
+            "label": "\u4f18\u8d28\u670d\u52a1"
+          },
+          "special": {
+            "text": "",
+            "show": false,
+            "label": "\u9650\u65f6\u7279\u4ef7"
+          },
+          "package": {
+            "text": "",
+            "show": false,
+            "label": "\u793c\u5305"
+          }
+        },
+        "url": "sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Finapp%2Fcompute%2Findex.html%3Fcar_id%3D53347%26dealer_id%3Ddcd_28628&hide_bar=1&bounce_disable=1",
+        "sale_region": "\u552e\u672c\u5e02",
+        "im_uids": [
+          109759264611,
+          1231885502787932
+        ],
+        "verification": {
+          "text": "\u61c2\u8f66\u5e1d\u7d27\u5bc6\u5408\u4f5c\u5546\u5bb6\uff0c\u4f18\u8d28\u670d\u52a1\u4fdd\u969c",
+          "show": true,
+          "icon_url": "http://sf1-ttcdn-tos.pstatp.com/obj/motor-img/e6c499cc48472d3375049ccf1ced8201"
+        }
+      },
+      "type": 1035
+    },
+    {
+      "info": {
+        "is_recommend": false,
+        "longi": 116.41867,
+        "fake_report": {
+          "text": "\u865a\u5047\u62a5\u4ef7\uff0c\u70b9\u51fb\u4e3e\u62a5",
+          "open_url": "sslocal://webview?url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Finapp%2Freport%2Fprice.html%3Fdealer_name%3D%25E5%259B%25BD%25E6%259C%258D%25E4%25BF%25A1%25E4%25B8%258A%25E6%25B1%25BD%25E5%25A4%25A7%25E4%25BC%2597%26dealer_id%3Ddcd_17337%26official_price%3D29.2%26car_name%3D330TSI%2B%25E4%25B8%25A4%25E9%25A9%25B1%25E8%25B1%25AA%25E5%258D%258E%25E7%2589%2588%26dealer_price%3D27.7%26car_id%3D53347&hide_bar=1&enable_resume_pause_js=1&bounce_disable=1"
+        },
+        "dealer_im_schema": "sslocal://im_service_dialog?series_id=0&car_id=53347&dealer_id=17337&source_from=car_detail&page_id=page_car_style&zt=dcd_zt_style_dealer_list_im",
+        "dealer_has_im_service": true,
+        "dealer_id": "dcd_17337",
+        "additional": "",
+        "dealer_price": 27.7,
+        "instalment": {
+          "first_payment": "",
+          "month_payment": "",
+          "label": "",
+          "show": false
+        },
+        "show_phone_number": 1,
+        "lati": 40.02162,
+        "max_im_user_id": 59976753601,
+        "dealer_phone": "13263229453",
+        "dealer_full_name": "\u5317\u4eac\u56fd\u670d\u4fe1\u6c7d\u8f66\u8d38\u6613\u6709\u9650\u516c\u53f8",
+        "price": "27.7\u4e07",
+        "official_price": 29.2,
+        "dealer_name": "\u56fd\u670d\u4fe1\u4e0a\u6c7d\u5927\u4f17",
+        "addtional": "",
+        "address": "\u5317\u4eac\u5e02\u671d\u9633\u533a\u6765\u5e7f\u8425\u897f\u8def108\u53f7(\u5317\u4e94\u73af\u5317\u82d1\u6865\u4e1c\u5357\u89d2)",
+        "dealer_phone_desc": "\u7535\u8bdd\u54a8\u8be2",
+        "promotion_info": {
+          "ab_res": "v2",
+          "data": []
+        },
+        "dealer_im_desc": "\u7535\u8bdd/\u54a8\u8be2",
+        "dealer_type": "4S\u5e97",
+        "gift": {
+          "service": {
+            "text": "\u54a8\u8be2\u6b64\u5546\u5bb6\u80fd\u591f\u7acb\u5373\u83b7\u5f97\u4e13\u4eba\u8ddf\u8fdb\u670d\u52a1,\u7535\u8bdd\u63a5\u901a\u7387\u8d85\u8fc790%",
+            "show": false,
+            "label": "\u4f18\u8d28\u670d\u52a1"
+          },
+          "special": {
+            "text": "",
+            "show": false,
+            "label": "\u9650\u65f6\u7279\u4ef7"
+          },
+          "package": {
+            "text": "",
+            "show": false,
+            "label": "\u793c\u5305"
+          }
+        },
+        "url": "sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Finapp%2Fcompute%2Findex.html%3Fcar_id%3D53347%26dealer_id%3Ddcd_17337&hide_bar=1&bounce_disable=1",
+        "sale_region": "\u552e\u591a\u5730",
+        "im_uids": [
+          813279879628819,
+          59976753601,
+          3570861807246030,
+          2145890287488894
+        ],
+        "verification": {
+          "text": "\u61c2\u8f66\u5e1d\u7d27\u5bc6\u5408\u4f5c\u5546\u5bb6\uff0c\u4f18\u8d28\u670d\u52a1\u4fdd\u969c",
+          "show": true,
+          "icon_url": "http://sf1-ttcdn-tos.pstatp.com/obj/motor-img/e6c499cc48472d3375049ccf1ced8201"
+        }
+      },
+      "type": 1035
+    },
+    {
+      "info": {
+        "is_recommend": false,
+        "longi": 116.311488,
+        "fake_report": {
+          "text": "\u865a\u5047\u62a5\u4ef7\uff0c\u70b9\u51fb\u4e3e\u62a5",
+          "open_url": "sslocal://webview?url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Finapp%2Freport%2Fprice.html%3Fdealer_name%3D%25E5%258C%2597%25E4%25BA%25AC%25E6%25B5%25B7%25E6%2596%2587%25E6%258D%25B7%26dealer_id%3Ddcd_29720%26official_price%3D29.2%26car_name%3D330TSI%2B%25E4%25B8%25A4%25E9%25A9%25B1%25E8%25B1%25AA%25E5%258D%258E%25E7%2589%2588%26dealer_price%3D28.76%26car_id%3D53347&hide_bar=1&enable_resume_pause_js=1&bounce_disable=1"
+        },
+        "dealer_im_schema": "sslocal://im_service_dialog?series_id=0&car_id=53347&dealer_id=29720&source_from=car_detail&page_id=page_car_style&zt=dcd_zt_style_dealer_list_im",
+        "dealer_has_im_service": true,
+        "dealer_id": "dcd_29720",
+        "additional": "",
+        "dealer_price": 28.76,
+        "instalment": {
+          "first_payment": "",
+          "month_payment": "",
+          "label": "",
+          "show": false
+        },
+        "show_phone_number": 1,
+        "lati": 39.881195,
+        "max_im_user_id": 85871037899,
+        "dealer_phone": "16508807427",
+        "dealer_full_name": "\u5317\u4eac\u6d77\u6587\u6377\u6c7d\u8f66\u9500\u552e\u670d\u52a1\u6709\u9650\u516c\u53f8",
+        "price": "28.76\u4e07",
+        "official_price": 29.2,
+        "dealer_name": "\u5317\u4eac\u6d77\u6587\u6377",
+        "addtional": "",
+        "address": "\u5317\u4eac\u4e30\u53f0\u533a\u516d\u91cc\u6865\u5357\u91cc10\u53f7",
+        "dealer_phone_desc": "\u7535\u8bdd\u54a8\u8be2",
+        "promotion_info": {
+          "ab_res": "v2",
+          "data": []
+        },
+        "dealer_im_desc": "\u7535\u8bdd/\u54a8\u8be2",
+        "dealer_type": "4S\u5e97",
+        "gift": {
+          "service": {
+            "text": "\u54a8\u8be2\u6b64\u5546\u5bb6\u80fd\u591f\u7acb\u5373\u83b7\u5f97\u4e13\u4eba\u8ddf\u8fdb\u670d\u52a1,\u7535\u8bdd\u63a5\u901a\u7387\u8d85\u8fc790%",
+            "show": false,
+            "label": "\u4f18\u8d28\u670d\u52a1"
+          },
+          "special": {
+            "text": "",
+            "show": false,
+            "label": "\u9650\u65f6\u7279\u4ef7"
+          },
+          "package": {
+            "text": "",
+            "show": false,
+            "label": "\u793c\u5305"
+          }
+        },
+        "url": "sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Finapp%2Fcompute%2Findex.html%3Fcar_id%3D53347%26dealer_id%3Ddcd_29720&hide_bar=1&bounce_disable=1",
+        "sale_region": "\u552e\u672c\u5e02",
+        "im_uids": [
+          2568109801355021,
+          1019997433904733,
+          3377350360437895,
+          822043095080348,
+          71063681098,
+          85871037899
+        ],
+        "verification": {
+          "text": "\u61c2\u8f66\u5e1d\u7d27\u5bc6\u5408\u4f5c\u5546\u5bb6\uff0c\u4f18\u8d28\u670d\u52a1\u4fdd\u969c",
+          "show": true,
+          "icon_url": "http://sf1-ttcdn-tos.pstatp.com/obj/motor-img/e6c499cc48472d3375049ccf1ced8201"
+        }
+      },
+      "type": 1035
+    },
+    {
+      "info": {
+        "is_recommend": false,
+        "longi": 117.113687,
+        "fake_report": {
+          "text": "\u865a\u5047\u62a5\u4ef7\uff0c\u70b9\u51fb\u4e3e\u62a5",
+          "open_url": "sslocal://webview?url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Finapp%2Freport%2Fprice.html%3Fdealer_name%3D%25E5%258C%2597%25E4%25BA%25AC%25E5%25AE%258F%25E4%25BC%259F%25E5%2585%25B4%25E4%25B8%259A%26dealer_id%3Ddcd_30918%26official_price%3D29.2%26car_name%3D330TSI%2B%25E4%25B8%25A4%25E9%25A9%25B1%25E8%25B1%25AA%25E5%258D%258E%25E7%2589%2588%26dealer_price%3D27.7%26car_id%3D53347&hide_bar=1&enable_resume_pause_js=1&bounce_disable=1"
+        },
+        "dealer_im_schema": "sslocal://im_service_dialog?series_id=0&car_id=53347&dealer_id=30918&source_from=car_detail&page_id=page_car_style&zt=dcd_zt_style_dealer_list_im",
+        "dealer_has_im_service": true,
+        "dealer_id": "dcd_30918",
+        "additional": "",
+        "dealer_price": 27.7,
+        "instalment": {
+          "first_payment": "",
+          "month_payment": "",
+          "label": "",
+          "show": false
+        },
+        "show_phone_number": 1,
+        "lati": 40.108087,
+        "max_im_user_id": 2651631213093623,
+        "dealer_phone": "17181181341",
+        "dealer_full_name": "\u5317\u4eac\u5b8f\u4f1f\u5174\u4e1a\u6c7d\u8f66\u9500\u552e\u6709\u9650\u516c\u53f8",
+        "price": "27.7\u4e07",
+        "official_price": 29.2,
+        "dealer_name": "\u5317\u4eac\u5b8f\u4f1f\u5174\u4e1a",
+        "addtional": "",
+        "address": "\u5317\u4eac\u5e02\u5e73\u8c37\u533a\u4e1c\u9ad8\u6751\u9547\u4e1c\u9ad8\u6751\u5174\u4e1a\u8def15\u53f7",
+        "dealer_phone_desc": "\u7535\u8bdd\u54a8\u8be2",
+        "promotion_info": {
+          "ab_res": "v2",
+          "data": []
+        },
+        "dealer_im_desc": "\u7535\u8bdd/\u54a8\u8be2",
+        "dealer_type": "4S\u5e97",
+        "gift": {
+          "service": {
+            "text": "\u54a8\u8be2\u6b64\u5546\u5bb6\u80fd\u591f\u7acb\u5373\u83b7\u5f97\u4e13\u4eba\u8ddf\u8fdb\u670d\u52a1,\u7535\u8bdd\u63a5\u901a\u7387\u8d85\u8fc790%",
+            "show": false,
+            "label": "\u4f18\u8d28\u670d\u52a1"
+          },
+          "special": {
+            "text": "",
+            "show": false,
+            "label": "\u9650\u65f6\u7279\u4ef7"
+          },
+          "package": {
+            "text": "",
+            "show": false,
+            "label": "\u793c\u5305"
+          }
+        },
+        "url": "sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Finapp%2Fcompute%2Findex.html%3Fcar_id%3D53347%26dealer_id%3Ddcd_30918&hide_bar=1&bounce_disable=1",
+        "sale_region": "\u552e\u591a\u5730",
+        "im_uids": [
+          2651631213093623
+        ],
+        "verification": {
+          "text": "\u61c2\u8f66\u5e1d\u7d27\u5bc6\u5408\u4f5c\u5546\u5bb6\uff0c\u4f18\u8d28\u670d\u52a1\u4fdd\u969c",
+          "show": true,
+          "icon_url": "http://sf1-ttcdn-tos.pstatp.com/obj/motor-img/e6c499cc48472d3375049ccf1ced8201"
+        }
+      },
+      "type": 1035
+    },
+    {
+      "info": {
+        "is_recommend": false,
+        "longi": 116.662063,
+        "fake_report": {
+          "text": "\u865a\u5047\u62a5\u4ef7\uff0c\u70b9\u51fb\u4e3e\u62a5",
+          "open_url": "sslocal://webview?url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Finapp%2Freport%2Fprice.html%3Fdealer_name%3D%25E5%258C%2597%25E4%25BA%25AC%25E4%25B8%259C%25E6%2596%25B9%25E5%258D%258E%25E6%2599%259F%26dealer_id%3Ddcd_21720%26official_price%3D29.2%26car_name%3D330TSI%2B%25E4%25B8%25A4%25E9%25A9%25B1%25E8%25B1%25AA%25E5%258D%258E%25E7%2589%2588%26dealer_price%3D27.7%26car_id%3D53347&hide_bar=1&enable_resume_pause_js=1&bounce_disable=1"
+        },
+        "dealer_im_schema": "",
+        "dealer_has_im_service": false,
+        "dealer_id": "dcd_21720",
+        "additional": "",
+        "dealer_price": 27.7,
+        "instalment": {
+          "first_payment": "",
+          "month_payment": "",
+          "label": "",
+          "show": false
+        },
+        "show_phone_number": 1,
+        "lati": 39.866086,
+        "max_im_user_id": 0,
+        "dealer_phone": "18501374331",
+        "dealer_full_name": "\u5317\u4eac\u4e1c\u65b9\u534e\u665f\u6c7d\u8f66\u9500\u552e\u670d\u52a1\u6709\u9650\u516c\u53f8",
+        "price": "27.7\u4e07",
+        "official_price": 29.2,
+        "dealer_name": "\u5317\u4eac\u4e1c\u65b9\u534e\u665f",
+        "addtional": "",
+        "address": "\u5317\u4eac\u5e02\u901a\u5dde\u533a\u4e91\u666f\u4e1c\u8def88\u53f7",
+        "dealer_phone_desc": "\u7535\u8bdd\u54a8\u8be2",
+        "promotion_info": {
+          "ab_res": "v2",
+          "data": []
+        },
+        "dealer_im_desc": "",
+        "dealer_type": "4S\u5e97",
+        "gift": {
+          "service": {
+            "text": "\u54a8\u8be2\u6b64\u5546\u5bb6\u80fd\u591f\u7acb\u5373\u83b7\u5f97\u4e13\u4eba\u8ddf\u8fdb\u670d\u52a1,\u7535\u8bdd\u63a5\u901a\u7387\u8d85\u8fc790%",
+            "show": false,
+            "label": "\u4f18\u8d28\u670d\u52a1"
+          },
+          "special": {
+            "text": "",
+            "show": false,
+            "label": "\u9650\u65f6\u7279\u4ef7"
+          },
+          "package": {
+            "text": "",
+            "show": false,
+            "label": "\u793c\u5305"
+          }
+        },
+        "url": "sslocal://webview?url=https%3A%2F%2Fi.snssdk.com%2Fmotor%2Finapp%2Fcompute%2Findex.html%3Fcar_id%3D53347%26dealer_id%3Ddcd_21720&hide_bar=1&bounce_disable=1",
+        "sale_region": "\u552e\u591a\u5730",
+        "verification": {
+          "text": "\u61c2\u8f66\u5e1d\u7d27\u5bc6\u5408\u4f5c\u5546\u5bb6\uff0c\u4f18\u8d28\u670d\u52a1\u4fdd\u969c",
+          "show": true,
+          "icon_url": "http://sf1-ttcdn-tos.pstatp.com/obj/motor-img/e6c499cc48472d3375049ccf1ced8201"
+        }
+      },
+      "type": 1035
+    }
+  ]
+}

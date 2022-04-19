@@ -1,0 +1,3367 @@
+{
+    "status": "success",
+    "prompts": "\u64cd\u4f5c\u6210\u529f",
+    "data": {
+        "live_icon": {
+            "icon_text": "\u8bb2\u89e3\u4e2d",
+            "display": true,
+            "open_url": "sslocal://livechat?enter_from=series_configuration&orientation=0&room_id=6971710700767218462&stream_data={\"common\":{\"session_id\":\"000-20210609184307010212065159090D1B57\",\"rule_ids\":\"{\\\"sched\\\":\\\"{\\\\\\\"result\\\\\\\":{\\\\\\\"hit\\\\\\\":\\\\\\\"default\\\\\\\",\\\\\\\"cdn\\\\\\\":52}}\\\",\\\"schedParam\\\":\\\"\\\",\\\"sdkParams\\\":\\\"{\\\\\\\"ids\\\\\\\":[]}\\\"}\"},\"data\":{\"sd\":{\"main\":{\"flv\":\"http://pull-flv-l1-xg.ixigua.com/normal/stream-108933036623527951_sd.flv\",\"hls\":\"http://pull-hls-l1-xg.ixigua.com/normal/stream-108933036623527951_sd/playlist.m3u8\",\"cmaf\":\"\",\"dash\":\"\",\"lls\":\"\",\"tsl\":\"\",\"sdk_params\":\"{\\\"VCodec\\\":\\\"h264\\\",\\\"gop\\\":4,\\\"resolution\\\":\\\"540x960\\\",\\\"vbitrate\\\":1600000}\"}},\"ld\":{\"main\":{\"flv\":\"http://pull-flv-l1-xg.ixigua.com/normal/stream-108933036623527951_ld.flv\",\"hls\":\"http://pull-hls-l1-xg.ixigua.com/normal/stream-108933036623527951_ld/playlist.m3u8\",\"cmaf\":\"\",\"dash\":\"\",\"lls\":\"\",\"tsl\":\"\",\"sdk_params\":\"{\\\"VCodec\\\":\\\"h264\\\",\\\"gop\\\":4,\\\"resolution\\\":\\\"480x853\\\",\\\"vbitrate\\\":1000000}\"}},\"origin\":{\"main\":{\"flv\":\"http://pull-flv-l1-xg.ixigua.com/normal/stream-108933036623527951.flv\",\"hls\":\"http://pull-hls-l1-xg.ixigua.com/normal/stream-108933036623527951/playlist.m3u8\",\"cmaf\":\"\",\"dash\":\"\",\"lls\":\"\",\"tsl\":\"\",\"sdk_params\":\"{\\\"VCodec\\\":\\\"h264\\\",\\\"gop\\\":4,\\\"resolution\\\":\\\"720x1280\\\",\\\"vbitrate\\\":1029299}\"}}}}&anchor_id=86050135743&source_detail=%7B%22source_name%22%3A%22series%22%2C%22source_id%22%3A398%2C%22enter_from%22%3A%22series_configuration%22%7D"
+        },
+        "share_data": {
+            "share_image": "",
+            "share_image_url": "",
+            "share_desc": "\u70b9\u51fb\u67e5\u770b\u8f66\u7cfb\u8be6\u7ec6\u53c2\u6570\u914d\u7f6e",
+            "share_url": "https://m.dcdapp.com/motor/m/car_series/index?series_id=398",
+            "share_title": "\u3010\u61c2\u8f66\u5e1d\u3011\u70b9\u51fb\u67e5\u770b \u5e15\u8428\u7279 \u53c2\u6570\u914d\u7f6e"
+        },
+        "disclaimer_info": {
+            "feedback_text": "\u6b22\u8fce\u4e3a\u6211\u4eec\u63d0\u4f9b\u5efa\u8bae",
+            "disclaimer_text": "*\u4ee5\u4e0a\u53c2\u6570\u914d\u7f6e\u4fe1\u606f\u4ec5\u4f9b\u53c2\u8003\uff0c\u5177\u4f53\u8bf7\u4ee5\u5b9e\u8f66\u4e3a\u51c6",
+            "feedback_title": "\u53c2\u6570\u5185\u5bb9\u662f\u5426\u6709\u9519\u8bef\uff1f"
+        },
+        "search_info": {
+            "hint_text_list": ["\u81ea\u52a8\u5927\u706f", "\u5012\u8f66\u5f71\u50cf", "\u5b9a\u901f\u5de1\u822a"]
+        },
+        "filter_group": [],
+        "properties": [{
+            "text": "\u57fa\u672c\u4fe1\u606f",
+            "type": 0,
+            "key": ""
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6909425099711971847&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6909425099711971847",
+                "type": 2
+            },
+            "comparable": 1,
+            "compare_type": 0,
+            "text": "\u5b98\u65b9\u6307\u5bfc\u4ef7",
+            "key": "official_price",
+            "compare_std": 1,
+            "type": 1
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904430707259654670&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904430707259654670",
+                "type": 2
+            },
+            "text": "\u5382\u5546",
+            "type": 1,
+            "key": "sub_brand_name"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6914561908712636935&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6914561908712636935",
+                "type": 2
+            },
+            "text": "\u7ea7\u522b",
+            "type": 1,
+            "key": "jb"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904430733536854535&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904430733536854535",
+                "type": 2
+            },
+            "text": "\u80fd\u6e90\u7c7b\u578b",
+            "type": 1,
+            "key": "fuel_form"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6909333420372247048&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6909333420372247048",
+                "type": 2
+            },
+            "text": "\u4e0a\u5e02\u65f6\u95f4",
+            "type": 1,
+            "key": "market_time"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904430732827968008&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904430732827968008",
+                "type": 2
+            },
+            "text": "\u53d1\u52a8\u673a",
+            "type": 1,
+            "key": "engine_description"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904430728172503566&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904430728172503566",
+                "type": 2
+            },
+            "comparable": 1,
+            "compare_type": 0,
+            "text": "\u6700\u5927\u529f\u7387(kW)",
+            "key": "energy_elect_max_power",
+            "compare_std": 1,
+            "type": 1
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904430732408734222&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904430732408734222",
+                "type": 2
+            },
+            "comparable": 1,
+            "compare_type": 0,
+            "text": "\u6700\u5927\u626d\u77e9(N\u00b7m)",
+            "key": "energy_elect_max_torque",
+            "compare_std": 1,
+            "type": 1
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904430733788611086&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904430733788611086",
+                "type": 2
+            },
+            "text": "\u53d8\u901f\u7bb1",
+            "type": 1,
+            "key": "gearbox_description"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904430737827611144&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904430737827611144",
+                "type": 2
+            },
+            "text": "\u957fx\u5bbdx\u9ad8(mm)",
+            "type": 1,
+            "key": "length_width_height"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904430731829772808&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904430731829772808",
+                "type": 2
+            },
+            "text": "\u8f66\u8eab\u7ed3\u6784",
+            "type": 1,
+            "key": "car_body_struct"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904523532974162446&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904523532974162446",
+                "type": 2
+            },
+            "comparable": 1,
+            "compare_type": 0,
+            "text": "\u6700\u9ad8\u8f66\u901f(Km/h)",
+            "key": "max_speed",
+            "compare_std": 1,
+            "type": 1
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904523530965123592&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904523530965123592",
+                "type": 2
+            },
+            "comparable": 1,
+            "compare_type": 0,
+            "text": "\u5b98\u65b9\u767e\u516c\u91cc\u52a0\u901f\u65f6\u95f4(s)",
+            "key": "acceleration_time",
+            "compare_std": 0,
+            "type": 1
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904523531371987464&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904523531371987464",
+                "type": 2
+            },
+            "comparable": 1,
+            "compare_type": 0,
+            "text": "\u5de5\u4fe1\u90e8\u767e\u516c\u91cc\u6cb9\u8017(L)",
+            "key": "fuel_comprehensive",
+            "compare_std": 0,
+            "type": 1
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904523538145739272&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904523538145739272",
+                "type": 2
+            },
+            "text": "\u6574\u8f66\u4fdd\u4fee\u671f\u9650",
+            "type": 1,
+            "key": "period"
+        }, {
+            "text": "\u8f66\u8eab",
+            "type": 0,
+            "key": ""
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6908497063097401864&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6908497063097401864",
+                "type": 2
+            },
+            "comparable": 1,
+            "compare_type": 0,
+            "text": "\u957f(mm)",
+            "key": "length",
+            "compare_std": 1,
+            "type": 1
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6908498235149550088&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6908498235149550088",
+                "type": 2
+            },
+            "comparable": 1,
+            "compare_type": 0,
+            "text": "\u5bbd(mm)",
+            "key": "width",
+            "compare_std": 1,
+            "type": 1
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6908498234969195016&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6908498234969195016",
+                "type": 2
+            },
+            "comparable": 1,
+            "compare_type": 0,
+            "text": "\u9ad8(mm)",
+            "key": "height",
+            "compare_std": 1,
+            "type": 1
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904523536455451149&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904523536455451149",
+                "type": 2
+            },
+            "comparable": 1,
+            "compare_type": 0,
+            "text": "\u8f74\u8ddd(mm)",
+            "key": "wheelbase",
+            "compare_std": 1,
+            "type": 1
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904523536065413639&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904523536065413639",
+                "type": 2
+            },
+            "comparable": 1,
+            "compare_type": 0,
+            "text": "\u524d\u8f6e\u8ddd(mm)",
+            "key": "front_track",
+            "compare_std": 1,
+            "type": 1
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904523534509343246&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904523534509343246",
+                "type": 2
+            },
+            "comparable": 1,
+            "compare_type": 0,
+            "text": "\u540e\u8f6e\u8ddd(mm)",
+            "key": "rear_track",
+            "compare_std": 1,
+            "type": 1
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904523529921085965&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904523529921085965",
+                "type": 2
+            },
+            "comparable": 1,
+            "compare_type": 0,
+            "text": "\u6700\u5c0f\u79bb\u5730\u95f4\u9699(mm)",
+            "key": "min_clearance",
+            "compare_std": 1,
+            "type": 1
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904430731829772808&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904430731829772808",
+                "type": 2
+            },
+            "text": "\u8f66\u8eab\u7ed3\u6784",
+            "type": 1,
+            "key": "body_struct"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904523541497053709&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904523541497053709",
+                "type": 2
+            },
+            "text": "\u8f66\u95e8\u6570(\u4e2a)",
+            "type": 1,
+            "key": "door_nums"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904523554134606349&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904523554134606349",
+                "type": 2
+            },
+            "text": "\u8f66\u95e8\u5f00\u542f\u65b9\u5f0f",
+            "type": 1,
+            "key": "door_open_way"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6909239286961275400&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6909239286961275400",
+                "type": 2
+            },
+            "text": "\u5ea7\u4f4d\u6570(\u4e2a)",
+            "type": 1,
+            "key": "seat_count"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904523538238030349&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904523538238030349",
+                "type": 2
+            },
+            "text": "\u6574\u5907\u8d28\u91cf(Kg)",
+            "type": 1,
+            "key": "curb_weight"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904523545506955790&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904523545506955790",
+                "type": 2
+            },
+            "text": "\u6ee1\u8f7d\u8d28\u91cf(Kg)",
+            "type": 1,
+            "key": "full_load_weight"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904523541551530509&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904523541551530509",
+                "type": 2
+            },
+            "comparable": 1,
+            "compare_type": 0,
+            "text": "\u6cb9\u7bb1\u5bb9\u79ef(L)",
+            "key": "oil_tank_volume",
+            "compare_std": 1,
+            "type": 1
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904523541463761415&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904523541463761415",
+                "type": 2
+            },
+            "comparable": 1,
+            "compare_type": 0,
+            "text": "\u884c\u674e\u8231\u5bb9\u79ef(L)",
+            "key": "baggage_volume",
+            "compare_std": 1,
+            "type": 1
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904523541505720840&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904523541505720840",
+                "type": 2
+            },
+            "text": "\u98ce\u963b\u7cfb\u6570(Cd)",
+            "type": 1,
+            "key": "drag_coefficient"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904430732827968008&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904430732827968008",
+                "type": 2
+            },
+            "text": "\u53d1\u52a8\u673a",
+            "type": 0,
+            "key": ""
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906750933833843213&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906750933833843213",
+                "type": 2
+            },
+            "text": "\u53d1\u52a8\u673a\u578b\u53f7",
+            "type": 1,
+            "key": "model"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904523565035487757&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904523565035487757",
+                "type": 2
+            },
+            "comparable": 1,
+            "compare_type": 0,
+            "text": "\u6392\u91cf(mL)",
+            "key": "cylinder_volume_ml",
+            "compare_std": 1,
+            "type": 1
+        }, {
+            "text": "\u6392\u91cf(L)",
+            "type": 1,
+            "key": "capacity_l"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904523574292316686&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904523574292316686",
+                "type": 2
+            },
+            "comparable": 1,
+            "compare_type": 1,
+            "text": "\u8fdb\u6c14\u5f62\u5f0f",
+            "key": "gas_form",
+            "compare_std": 1,
+            "type": 1
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904523581334487566&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904523581334487566",
+                "type": 2
+            },
+            "comparable": 1,
+            "compare_type": 1,
+            "text": "\u6c14\u7f38\u6392\u5217\u5f62\u5f0f",
+            "key": "cylinder_arrangement",
+            "compare_std": 1,
+            "type": 1
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904523579166081549&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904523579166081549",
+                "type": 2
+            },
+            "comparable": 1,
+            "compare_type": 0,
+            "text": "\u6c14\u7f38\u6570(\u4e2a)",
+            "key": "cylinder_nums",
+            "compare_std": 1,
+            "type": 1
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904523578226573838&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904523578226573838",
+                "type": 2
+            },
+            "comparable": 1,
+            "compare_type": 0,
+            "text": "\u6bcf\u7f38\u6c14\u95e8\u6570(\u4e2a)",
+            "key": "valves_per_cylinder_nums",
+            "compare_std": 1,
+            "type": 1
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904523584975307278&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904523584975307278",
+                "type": 2
+            },
+            "text": "\u538b\u7f29\u6bd4",
+            "type": 1,
+            "key": "compression_ratio_s"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6908220112378216974&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6908220112378216974",
+                "type": 2
+            },
+            "comparable": 1,
+            "compare_type": 1,
+            "text": "\u914d\u6c14\u673a\u6784",
+            "key": "air_supply",
+            "compare_std": 1,
+            "type": 1
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6909332009391407629&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6909332009391407629",
+                "type": 2
+            },
+            "comparable": 1,
+            "compare_type": 0,
+            "text": "\u6700\u5927\u9a6c\u529b(Ps)",
+            "key": "max_horsepower",
+            "compare_std": 1,
+            "type": 1
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904430728172503566&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904430728172503566",
+                "type": 2
+            },
+            "comparable": 1,
+            "compare_type": 0,
+            "text": "\u6700\u5927\u529f\u7387(kW)",
+            "key": "max_power",
+            "compare_std": 1,
+            "type": 1
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904566154556293639&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904566154556293639",
+                "type": 2
+            },
+            "text": "\u6700\u5927\u529f\u7387\u8f6c\u901f(rpm)",
+            "type": 1,
+            "key": "max_power_revolution"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904430732408734222&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904430732408734222",
+                "type": 2
+            },
+            "comparable": 1,
+            "compare_type": 0,
+            "text": "\u6700\u5927\u626d\u77e9(N\u00b7m)",
+            "key": "max_torque",
+            "compare_std": 1,
+            "type": 1
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904567798865871367&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904567798865871367",
+                "type": 2
+            },
+            "text": "\u6700\u5927\u626d\u77e9\u8f6c\u901f(rpm)",
+            "type": 1,
+            "key": "max_torque_revolution"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904574217690464782&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904574217690464782",
+                "type": 2
+            },
+            "text": "\u53d1\u52a8\u673a\u7279\u6709\u6280\u672f",
+            "type": 1,
+            "key": "unique_tech"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6908589898538697223&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6908589898538697223",
+                "type": 2
+            },
+            "text": "\u71c3\u6599\u5f62\u5f0f",
+            "type": 1,
+            "key": "fuel_form"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904575622547276296&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904575622547276296",
+                "type": 2
+            },
+            "text": "\u71c3\u6cb9\u6807\u53f7",
+            "type": 1,
+            "key": "fuel_label"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904613746002739726&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904613746002739726",
+                "type": 2
+            },
+            "comparable": 1,
+            "compare_type": 1,
+            "text": "\u4f9b\u6cb9\u65b9\u5f0f",
+            "key": "oil_supply",
+            "compare_std": 1,
+            "type": 1
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904430695209271821&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904430695209271821",
+                "type": 2
+            },
+            "comparable": 1,
+            "compare_type": 1,
+            "text": "\u7f38\u76d6\u6750\u6599",
+            "key": "cylinder_head_material",
+            "compare_std": 1,
+            "type": 1
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904614205475799560&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904614205475799560",
+                "type": 2
+            },
+            "comparable": 1,
+            "compare_type": 1,
+            "text": "\u7f38\u4f53\u6750\u6599",
+            "key": "cylinder_material",
+            "compare_std": 1,
+            "type": 1
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904614277492032007&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904614277492032007",
+                "type": 2
+            },
+            "comparable": 1,
+            "compare_type": 1,
+            "text": "\u73af\u4fdd\u6807\u51c6",
+            "key": "environmental_standards",
+            "compare_std": 1,
+            "type": 1
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904430733788611086&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904430733788611086",
+                "type": 2
+            },
+            "text": "\u53d8\u901f\u7bb1",
+            "type": 0,
+            "key": ""
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6908589902376518152&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6908589902376518152",
+                "type": 2
+            },
+            "text": "\u53d8\u901f\u7bb1\u63cf\u8ff0",
+            "type": 1,
+            "key": "gearbox_description"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906750928200712711&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906750928200712711",
+                "type": 2
+            },
+            "comparable": 1,
+            "compare_type": 0,
+            "text": "\u6321\u4f4d\u6570",
+            "key": "stalls",
+            "compare_std": 1,
+            "type": 1
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6905915083277238791&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6905915083277238791",
+                "type": 2
+            },
+            "text": "\u53d8\u901f\u7bb1\u7c7b\u578b",
+            "type": 1,
+            "key": "gearbox_type"
+        }, {
+            "text": "\u5e95\u76d8/\u8f6c\u5411",
+            "type": 0,
+            "key": ""
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6907503150400340488&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6907503150400340488",
+                "type": 2
+            },
+            "text": "\u9a71\u52a8\u65b9\u5f0f",
+            "type": 1,
+            "key": "driver_form"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6905915097122767374&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6905915097122767374",
+                "type": 2
+            },
+            "text": "\u56db\u9a71\u7c7b\u578b",
+            "type": 1,
+            "key": "fourwheel_drive_type"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6907476583473250830&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6907476583473250830",
+                "type": 2
+            },
+            "text": "\u4e2d\u592e\u5dee\u901f\u5668\u7ed3\u6784",
+            "type": 1,
+            "key": "central_differential_structure"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6908218866225168903&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6908218866225168903",
+                "type": 2
+            },
+            "text": "\u524d\u60ac\u6302\u5f62\u5f0f",
+            "type": 1,
+            "key": "front_suspension_form"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6905915105997816327&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6905915105997816327",
+                "type": 2
+            },
+            "text": "\u540e\u60ac\u6302\u5f62\u5f0f",
+            "type": 1,
+            "key": "rear_suspension_form"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6908220117021426190&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6908220117021426190",
+                "type": 2
+            },
+            "text": "\u8f6c\u5411\u7c7b\u578b",
+            "type": 1,
+            "key": "power_steering_type"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6905915108204167694&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6905915108204167694",
+                "type": 2
+            },
+            "text": "\u8f66\u4f53\u7ed3\u6784",
+            "type": 1,
+            "key": "car_body_structure"
+        }, {
+            "text": "\u8f66\u8f6e/\u5236\u52a8",
+            "type": 0,
+            "key": ""
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6905915108191584775&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6905915108191584775",
+                "type": 2
+            },
+            "comparable": 1,
+            "compare_type": 1,
+            "text": "\u524d\u5236\u52a8\u5668\u7c7b\u578b",
+            "key": "front_brake_type",
+            "compare_std": 1,
+            "type": 1
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6905915105821622797&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6905915105821622797",
+                "type": 2
+            },
+            "comparable": 1,
+            "compare_type": 1,
+            "text": "\u540e\u5236\u52a8\u5668\u7c7b\u578b",
+            "key": "rear_brake_type",
+            "compare_std": 1,
+            "type": 1
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6905915105569997325&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6905915105569997325",
+                "type": 2
+            },
+            "text": "\u9a7b\u8f66\u5236\u52a8\u7c7b\u578b",
+            "type": 1,
+            "key": "park_brake_type"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6907476589605306894&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6907476589605306894",
+                "type": 2
+            },
+            "text": "\u524d\u8f6e\u80ce\u89c4\u683c\u5c3a\u5bf8",
+            "type": 1,
+            "key": "front_tire_size"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6907476592079995405&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6907476592079995405",
+                "type": 2
+            },
+            "text": "\u540e\u8f6e\u80ce\u89c4\u683c\u5c3a\u5bf8",
+            "type": 1,
+            "key": "rear_tire_size"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6905915106899591688&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6905915106899591688",
+                "type": 2
+            },
+            "text": "\u5907\u80ce\u89c4\u683c",
+            "type": 1,
+            "key": "spare_tire_specification_2"
+        }, {
+            "text": "\u4e3b\u52a8\u5b89\u5168",
+            "type": 2,
+            "title_flag": "\u25cf\u6807\u914d  \u25cb\u9009\u914d  -\u65e0",
+            "key": "",
+            "title_flag_list": [{
+                "icon_url": "https://p3.pstatp.com/origin/bef30001291e0cbcc002",
+                "value": "\u6807\u914d",
+                "icon_type": 1
+            }, {
+                "icon_url": "https://p3.pstatp.com/origin/bef000012bfb80550a72",
+                "value": "\u9009\u88c5",
+                "icon_type": 2
+            }, {
+                "icon_url": "https://p3.pstatp.com/obj/bef1000132ec6c1a1830",
+                "value": "\u65e0",
+                "icon_type": 3
+            }]
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6905999931069334024&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6905999931069334024",
+                "type": 2
+            },
+            "text": "ABS\u9632\u62b1\u6b7b",
+            "type": 1,
+            "key": "abs_anti_lock"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6905915135941083662&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6905915135941083662",
+                "type": 2
+            },
+            "text": "\u5236\u52a8\u529b\u5206\u914d(EBD/CBC\u7b49)",
+            "type": 1,
+            "key": "brake_force"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6905915111475675661&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6905915111475675661",
+                "type": 2
+            },
+            "text": "\u5239\u8f66\u8f85\u52a9(EBA/BA\u7b49)",
+            "type": 1,
+            "key": "brake_assist"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6905915110322127367&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6905915110322127367",
+                "type": 2
+            },
+            "text": "\u7275\u5f15\u529b\u63a7\u5236(TCS/ASR\u7b49)",
+            "type": 1,
+            "key": "traction_control"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6905915111979205127&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6905915111979205127",
+                "type": 2
+            },
+            "text": "\u8f66\u8eab\u7a33\u5b9a\u7cfb\u7edf(ESP/DSC\u7b49)",
+            "type": 1,
+            "key": "body_stability_system"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906006771844841998&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906006771844841998",
+                "type": 2
+            },
+            "text": "\u4e3b\u52a8\u5b89\u5168\u9884\u8b66\u7cfb\u7edf",
+            "type": 3,
+            "sub_list": [{
+                "text": "\u8f66\u9053\u504f\u79bb\u9884\u8b66",
+                "key": "lane_warning_system"
+            }, {
+                "text": "\u524d\u65b9\u78b0\u649e\u9884\u8b66",
+                "key": "front_collision_warning"
+            }, {
+                "text": "\u540e\u65b9\u4ea4\u901a\u9884\u8b66",
+                "key": "rear_traffic_warning"
+            }, {
+                "text": "\u5012\u8f66\u8f66\u4fa7\u9884\u8b66",
+                "key": "reversing_warning_system_v2"
+            }, {
+                "text": "DOW\u5f00\u95e8\u9884\u8b66",
+                "key": "dow_open_door_warning_system_v3"
+            }],
+            "key": "car_warning_system"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906006771794493960&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906006771794493960",
+                "type": 2
+            },
+            "text": "\u4e3b\u52a8\u5239\u8f66",
+            "type": 1,
+            "key": "active_brake"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906007989757608462&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906007989757608462",
+                "type": 2
+            },
+            "text": "\u5e76\u7ebf\u8f85\u52a9",
+            "type": 1,
+            "key": "line_support"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906007989509997070&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906007989509997070",
+                "type": 2
+            },
+            "text": "\u8f66\u9053\u4fdd\u6301\u8f85\u52a9\u7cfb\u7edf",
+            "type": 1,
+            "key": "lane_keeping_assist_v2"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906007996992602637&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906007996992602637",
+                "type": 2
+            },
+            "text": "\u75b2\u52b3\u9a7e\u9a76\u63d0\u793a",
+            "type": 1,
+            "key": "fatigue_driving_warning"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906007997806772749&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906007997806772749",
+                "type": 2
+            },
+            "text": "\u9053\u8def\u4ea4\u901a\u6807\u8bc6\u8bc6\u522b",
+            "type": 1,
+            "key": "road_traffic_sign_recognition_v2"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906007998607786509&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906007998607786509",
+                "type": 2
+            },
+            "text": "\u591c\u89c6\u7cfb\u7edf",
+            "type": 1,
+            "key": "night_vision_system"
+        }, {
+            "text": "\u88ab\u52a8\u5b89\u5168",
+            "type": 2,
+            "title_flag": "\u25cf\u6807\u914d  \u25cb\u9009\u914d  -\u65e0",
+            "key": "",
+            "title_flag_list": [{
+                "icon_url": "https://p3.pstatp.com/origin/bef30001291e0cbcc002",
+                "value": "\u6807\u914d",
+                "icon_type": 1
+            }, {
+                "icon_url": "https://p3.pstatp.com/origin/bef000012bfb80550a72",
+                "value": "\u9009\u88c5",
+                "icon_type": 2
+            }, {
+                "icon_url": "https://p3.pstatp.com/obj/bef1000132ec6c1a1830",
+                "value": "\u65e0",
+                "icon_type": 3
+            }]
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906007998783783437&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906007998783783437",
+                "type": 2
+            },
+            "text": "\u524d\u6392\u5b89\u5168\u6c14\u56ca",
+            "type": 3,
+            "sub_list": [{
+                "text": "\u4e3b\u9a7e\u9a76\u4f4d",
+                "key": "main_airbag"
+            }, {
+                "text": "\u526f\u9a7e\u9a76\u4f4d",
+                "key": "vice_airbag"
+            }],
+            "key": "main_vice_airbag"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906018283405754887&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906018283405754887",
+                "type": 2
+            },
+            "text": "\u4fa7\u5b89\u5168\u6c14\u56ca",
+            "type": 3,
+            "sub_list": [{
+                "text": "\u524d\u6392",
+                "key": "front_airbag"
+            }, {
+                "text": "\u540e\u6392",
+                "key": "rear_airbag"
+            }],
+            "key": "front_rear_airbag"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906008002784936455&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906008002784936455",
+                "type": 2
+            },
+            "text": "\u4e2d\u592e\u5b89\u5168\u6c14\u56ca",
+            "type": 3,
+            "sub_list": [{
+                "text": "\u524d\u6392",
+                "key": "front_center_airbag_v2"
+            }, {
+                "text": "\u540e\u6392",
+                "key": "rear_center_airbag_v2"
+            }],
+            "key": "front_near_center_airbag"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906008014579696135&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906008014579696135",
+                "type": 2
+            },
+            "text": "\u4fa7\u5b89\u5168\u6c14\u5e18",
+            "type": 1,
+            "key": "side_air_curtain"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6908589906717639176&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6908589906717639176",
+                "type": 2
+            },
+            "text": "\u524d\u6392\u819d\u90e8\u6c14\u56ca",
+            "type": 3,
+            "sub_list": [{
+                "text": "\u4e3b\u9a7e\u9a76\u4f4d",
+                "key": "main_knee_airbag"
+            }, {
+                "text": "\u526f\u9a7e\u9a76\u4f4d",
+                "key": "vice_knee_airbag"
+            }],
+            "key": "main_vice_knee_airbag"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906008012918374920&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906008012918374920",
+                "type": 2
+            },
+            "text": "\u526f\u9a7e\u9a76\u5ea7\u57ab\u5f0f\u6c14\u56ca",
+            "type": 1,
+            "key": "vice_cushion_airbag_v3"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906008014206173704&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906008014206173704",
+                "type": 2
+            },
+            "text": "\u540e\u6392\u5ea7\u6905\u9632\u4e0b\u6ed1\u6c14\u56ca",
+            "type": 1,
+            "key": "rear_anti_slide_airbag_v3"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906008005100241415&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906008005100241415",
+                "type": 2
+            },
+            "text": "\u540e\u6392\u6c14\u56ca\u5f0f\u5b89\u5168\u5e26",
+            "type": 1,
+            "key": "rear_seat_belt"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906008007335772686&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906008007335772686",
+                "type": 2
+            },
+            "text": "\u5b89\u5168\u5e26\u672a\u7cfb\u63d0\u793a",
+            "type": 1,
+            "key": "seat_belt_prompted"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906008016722772488&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906008016722772488",
+                "type": 2
+            },
+            "text": "\u80ce\u538b\u76d1\u6d4b\u7cfb\u7edf",
+            "type": 1,
+            "key": "tire_pressure_system_v2_2"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6908961016672289294&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6908961016672289294",
+                "type": 2
+            },
+            "text": "\u5b89\u5168\u8f6e\u80ce",
+            "type": 1,
+            "key": "explosion_tire"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906008022477177351&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906008022477177351",
+                "type": 2
+            },
+            "text": "\u513f\u7ae5\u5ea7\u6905\u63a5\u53e3(ISOFIX)",
+            "type": 1,
+            "key": "child_seat_interface"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906008018605867527&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906008018605867527",
+                "type": 2
+            },
+            "text": "\u88ab\u52a8\u884c\u4eba\u4fdd\u62a4",
+            "type": 1,
+            "key": "passive_pedestrian_protection_v2"
+        }, {
+            "text": "\u8f85\u52a9/\u64cd\u63a7\u914d\u7f6e",
+            "type": 2,
+            "title_flag": "\u25cf\u6807\u914d  \u25cb\u9009\u914d  -\u65e0",
+            "key": "",
+            "title_flag_list": [{
+                "icon_url": "https://p3.pstatp.com/origin/bef30001291e0cbcc002",
+                "value": "\u6807\u914d",
+                "icon_type": 1
+            }, {
+                "icon_url": "https://p3.pstatp.com/origin/bef000012bfb80550a72",
+                "value": "\u9009\u88c5",
+                "icon_type": 2
+            }, {
+                "icon_url": "https://p3.pstatp.com/obj/bef1000132ec6c1a1830",
+                "value": "\u65e0",
+                "icon_type": 3
+            }]
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906008029297132045&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906008029297132045",
+                "type": 2
+            },
+            "text": "\u9a7b\u8f66\u96f7\u8fbe",
+            "type": 3,
+            "sub_list": [{
+                "text": "\u524d",
+                "key": "front_parking_radar"
+            }, {
+                "text": "\u540e",
+                "key": "rear_parking_radar"
+            }],
+            "key": "parking_radar"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906008036179968520&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906008036179968520",
+                "type": 2
+            },
+            "text": "\u9a7e\u9a76\u8f85\u52a9\u5f71\u50cf",
+            "type": 3,
+            "sub_list": [{
+                "text": "\u5012\u8f66\u5f71\u50cf",
+                "key": "reversing_camera"
+            }, {
+                "text": "\u8f66\u4fa7\u76f2\u533a\u5f71\u50cf",
+                "key": "fade_zone_camera_v2"
+            }, {
+                "text": "360\u00b0\u5168\u666f\u5f71\u50cf",
+                "key": "panoramic_camera"
+            }],
+            "key": "driving_assistant_camera"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906008059131363853&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906008059131363853",
+                "type": 2
+            },
+            "text": "\u5de1\u822a\u7cfb\u7edf",
+            "type": 3,
+            "sub_list": [{
+                "text": "\u5b9a\u901f\u5de1\u822a",
+                "key": "cruise"
+            }, {
+                "text": "\u81ea\u9002\u5e94\u5de1\u822a",
+                "key": "adaptive_cruise"
+            }, {
+                "text": "\u5168\u901f\u81ea\u9002\u5e94\u5de1\u822a",
+                "key": "full_speed_adaptive_cruise_v3"
+            }],
+            "key": "cruise_system"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906008405115666951&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906008405115666951",
+                "type": 2
+            },
+            "text": "\u81ea\u52a8\u9a7e\u9a76\u7ea7\u522b",
+            "type": 1,
+            "key": "automatic_drive_level_v2_3"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906008057978110471&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906008057978110471",
+                "type": 2
+            },
+            "text": "\u81ea\u52a8\u6cca\u8f66\u5165\u4f4d",
+            "type": 1,
+            "key": "auto_park_entry"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906008056740610573&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906008056740610573",
+                "type": 2
+            },
+            "text": "\u81ea\u52a8\u9a7b\u8f66(AUTOHOLD)",
+            "type": 1,
+            "key": "auto_park"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906008059068301831&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906008059068301831",
+                "type": 2
+            },
+            "text": "\u4e0a\u5761\u8f85\u52a9(HAC)",
+            "type": 1,
+            "key": "uphill_support"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906008058808271368&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906008058808271368",
+                "type": 2
+            },
+            "text": "\u9661\u5761\u7f13\u964d(HDC)",
+            "type": 1,
+            "key": "steep_slope"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906008060901212686&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906008060901212686",
+                "type": 2
+            },
+            "text": "\u53d1\u52a8\u673a\u542f\u505c\u6280\u672f",
+            "type": 1,
+            "key": "engine_sas_tech"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906008412207759886&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906008412207759886",
+                "type": 2
+            },
+            "text": "\u7a7a\u6c14\u60ac\u6302",
+            "type": 1,
+            "key": "air_suspension"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906049096088355341&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906049096088355341",
+                "type": 2
+            },
+            "text": "\u7535\u78c1\u611f\u5e94\u60ac\u6302",
+            "type": 1,
+            "key": "electromagnetic_induct_suspension"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6908589909020312072&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6908589909020312072",
+                "type": 2
+            },
+            "text": "\u53ef\u53d8\u8f6c\u5411\u6bd4\u7cfb\u7edf",
+            "type": 1,
+            "key": "variable_steer_system"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906054027763515917&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906054027763515917",
+                "type": 2
+            },
+            "text": "\u4e2d\u592e\u5dee\u901f\u5668\u9501\u6b62\u529f\u80fd",
+            "type": 1,
+            "key": "central_differential_lock"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906078764472500749&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906078764472500749",
+                "type": 2
+            },
+            "text": "\u6574\u4f53\u4e3b\u52a8\u8f6c\u5411\u7cfb\u7edf",
+            "type": 1,
+            "key": "overall_turn"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906097764048880142&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906097764048880142",
+                "type": 2
+            },
+            "text": "\u9a7e\u9a76\u6a21\u5f0f\u9009\u62e9",
+            "type": 3,
+            "sub_list": [{
+                "text": "\u6807\u51c6\u8212\u9002",
+                "key": "drive_mode_v2_3"
+            }, {
+                "text": "ECO",
+                "key": "drive_mode_v2_2"
+            }, {
+                "text": "\u8fd0\u52a8",
+                "key": "drive_mode_v2_1"
+            }, {
+                "text": "\u4e2a\u6027\u5316",
+                "key": "drive_mode_v2_6"
+            }],
+            "key": "drive_mode_v2"
+        }, {
+            "text": "\u5916\u90e8\u914d\u7f6e",
+            "type": 2,
+            "title_flag": "\u25cf\u6807\u914d  \u25cb\u9009\u914d  -\u65e0",
+            "key": "",
+            "title_flag_list": [{
+                "icon_url": "https://p3.pstatp.com/origin/bef30001291e0cbcc002",
+                "value": "\u6807\u914d",
+                "icon_type": 1
+            }, {
+                "icon_url": "https://p3.pstatp.com/origin/bef000012bfb80550a72",
+                "value": "\u9009\u88c5",
+                "icon_type": 2
+            }, {
+                "icon_url": "https://p3.pstatp.com/obj/bef1000132ec6c1a1830",
+                "value": "\u65e0",
+                "icon_type": 3
+            }]
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906286223464071688&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906286223464071688",
+                "type": 2
+            },
+            "text": "\u5929\u7a97\u7c7b\u578b",
+            "type": 1,
+            "key": "skylight_type_v2_3"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906286222885470734&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906286222885470734",
+                "type": 2
+            },
+            "text": "\u8f66\u9876\u884c\u674e\u67b6",
+            "type": 1,
+            "key": "roof_racks"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906286217072017927&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906286217072017927",
+                "type": 2
+            },
+            "text": "\u8fd0\u52a8\u5916\u89c2\u5957\u4ef6",
+            "type": 1,
+            "key": "sports_appearance_kit"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906286224739353101&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906286224739353101",
+                "type": 2
+            },
+            "text": "\u4e3b\u52a8\u95ed\u5408\u5f0f\u8fdb\u6c14\u683c\u6805",
+            "type": 1,
+            "key": "active_closed_inlet_grid_v3"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906286226962121230&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906286226962121230",
+                "type": 2
+            },
+            "text": "\u94dd\u5408\u91d1\u8f6e\u6bc2",
+            "type": 1,
+            "key": "alloy_wheel"
+        }, {
+            "text": "\u5185\u90e8\u914d\u7f6e",
+            "type": 2,
+            "title_flag": "\u25cf\u6807\u914d  \u25cb\u9009\u914d  -\u65e0",
+            "key": "",
+            "title_flag_list": [{
+                "icon_url": "https://p3.pstatp.com/origin/bef30001291e0cbcc002",
+                "value": "\u6807\u914d",
+                "icon_type": 1
+            }, {
+                "icon_url": "https://p3.pstatp.com/origin/bef000012bfb80550a72",
+                "value": "\u9009\u88c5",
+                "icon_type": 2
+            }, {
+                "icon_url": "https://p3.pstatp.com/obj/bef1000132ec6c1a1830",
+                "value": "\u65e0",
+                "icon_type": 3
+            }]
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906286224965665288&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906286224965665288",
+                "type": 2
+            },
+            "text": "\u65b9\u5411\u76d8\u6750\u8d28",
+            "type": 1,
+            "key": "steer_wheel_material_v3_3"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906286225552867854&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906286225552867854",
+                "type": 2
+            },
+            "text": "\u65b9\u5411\u76d8\u8c03\u8282",
+            "type": 1,
+            "key": "steer_wheel_adjustment_3"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906286227071173127&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906286227071173127",
+                "type": 2
+            },
+            "text": "\u65b9\u5411\u76d8\u7535\u52a8\u8c03\u8282",
+            "type": 1,
+            "key": "elec_steer_wheel_adjustment"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906286225250910734&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906286225250910734",
+                "type": 2
+            },
+            "text": "\u65b9\u5411\u76d8\u529f\u80fd",
+            "type": 3,
+            "sub_list": [{
+                "text": "\u591a\u529f\u80fd\u63a7\u5236",
+                "key": "multifunction_steer_wheel"
+            }, {
+                "text": "\u6362\u6321",
+                "key": "steer_wheel_shift"
+            }, {
+                "text": "\u8bb0\u5fc6",
+                "key": "steer_wheel_memory"
+            }, {
+                "text": "\u52a0\u70ed",
+                "key": "steer_wheel_heating"
+            }],
+            "key": "steer_wheel_functional"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906286229625700872&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906286229625700872",
+                "type": 2
+            },
+            "text": "\u884c\u8f66\u7535\u8111\u5c4f\u5e55",
+            "type": 1,
+            "key": "driving_computer_display_screen_v2_1"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906286262194274824&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906286262194274824",
+                "type": 2
+            },
+            "text": "\u6db2\u6676\u4eea\u8868\u6837\u5f0f",
+            "type": 1,
+            "key": "lcd_dashboard_type_v2_1"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906286267252638221&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906286267252638221",
+                "type": 2
+            },
+            "text": "\u6db2\u6676\u4eea\u8868\u5c3a\u5bf8(in)",
+            "type": 1,
+            "key": "lcd_dashboard_size_v2_10.2"
+        }, {
+            "text": "\u8212\u9002/\u9632\u76d7\u914d\u7f6e",
+            "type": 2,
+            "title_flag": "\u25cf\u6807\u914d  \u25cb\u9009\u914d  -\u65e0",
+            "key": "",
+            "title_flag_list": [{
+                "icon_url": "https://p3.pstatp.com/origin/bef30001291e0cbcc002",
+                "value": "\u6807\u914d",
+                "icon_type": 1
+            }, {
+                "icon_url": "https://p3.pstatp.com/origin/bef000012bfb80550a72",
+                "value": "\u9009\u88c5",
+                "icon_type": 2
+            }, {
+                "icon_url": "https://p3.pstatp.com/obj/bef1000132ec6c1a1830",
+                "value": "\u65e0",
+                "icon_type": 3
+            }]
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906286264962581006&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906286264962581006",
+                "type": 2
+            },
+            "text": "\u7535\u52a8\u5438\u5408\u95e8",
+            "type": 1,
+            "key": "electric_door"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906286263725244935&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906286263725244935",
+                "type": 2
+            },
+            "text": "\u7535\u52a8\u540e\u5c3e\u95e8",
+            "type": 1,
+            "key": "electric_back_door"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906286264752865799&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906286264752865799",
+                "type": 2
+            },
+            "text": "\u611f\u5e94\u5f0f\u540e\u5c3e\u95e8",
+            "type": 1,
+            "key": "inductive_back_door"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906286279399358990&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906286279399358990",
+                "type": 2
+            },
+            "text": "\u7535\u52a8\u540e\u5c3e\u95e8\u4f4d\u7f6e\u8bb0\u5fc6",
+            "type": 1,
+            "key": "electric_back_door_memory_v2"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906286264324997639&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906286264324997639",
+                "type": 2
+            },
+            "text": "\u53d1\u52a8\u673a\u7535\u5b50\u9632\u76d7",
+            "type": 1,
+            "key": "engine_anti_theft"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906286267462500878&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906286267462500878",
+                "type": 2
+            },
+            "text": "\u8f66\u5185\u4e2d\u63a7\u9501",
+            "type": 1,
+            "key": "central_locking_car"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906286272730530318&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906286272730530318",
+                "type": 2
+            },
+            "text": "\u9065\u63a7\u94a5\u5319\u7c7b\u578b",
+            "type": 1,
+            "key": "remote_key_v2_3"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906286272436765198&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906286272436765198",
+                "type": 2
+            },
+            "text": "\u65e0\u94a5\u5319\u8fdb\u5165",
+            "type": 1,
+            "key": "keyless_entry_v2_2"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6927914925239075341&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6927914925239075341",
+                "type": 2
+            },
+            "text": "\u65e0\u94a5\u5319\u542f\u52a8",
+            "type": 1,
+            "key": "keyless_start"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6908961020132229645&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6908961020132229645",
+                "type": 2
+            },
+            "text": "\u8fdc\u7a0b\u542f\u52a8",
+            "type": 1,
+            "key": "engine_remote_start"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906377863830716935&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906377863830716935",
+                "type": 2
+            },
+            "text": "\u9065\u63a7\u79fb\u52a8\u8f66\u8f86",
+            "type": 1,
+            "key": "remote_control_move_v3"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906377865747513864&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906377865747513864",
+                "type": 2
+            },
+            "text": "\u8f66\u8f86\u53ec\u5524\u529f\u80fd",
+            "type": 1,
+            "key": "car_call_v3"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906379128807621127&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906379128807621127",
+                "type": 2
+            },
+            "text": "\u62ac\u5934\u663e\u793a\u7cfb\u7edf(HUD)",
+            "type": 1,
+            "key": "header_display_system"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906379130385007118&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906379130385007118",
+                "type": 2
+            },
+            "text": "\u5185\u7f6e\u884c\u8f66\u8bb0\u5f55\u4eea",
+            "type": 1,
+            "key": "built_in_tachograph"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906379128702812685&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906379128702812685",
+                "type": 2
+            },
+            "text": "\u4e3b\u52a8\u964d\u566a",
+            "type": 1,
+            "key": "active_noise_reduction"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906379129977881096&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906379129977881096",
+                "type": 2
+            },
+            "text": "\u624b\u673a\u65e0\u7ebf\u5145\u7535",
+            "type": 1,
+            "key": "mobile_wireless_charging"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906379130934133255&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906379130934133255",
+                "type": 2
+            },
+            "text": "110V/220V/230V\u7535\u6e90\u63d2\u5ea7",
+            "type": 1,
+            "key": "power_outlet"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6906379132175647245&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6906379132175647245",
+                "type": 2
+            },
+            "text": "\u884c\u674e\u823112V\u7535\u6e90\u63a5\u53e3",
+            "type": 1,
+            "key": "baggage_12v_power_outlet_v2"
+        }, {
+            "text": "\u5ea7\u6905\u914d\u7f6e",
+            "type": 2,
+            "title_flag": "\u25cf\u6807\u914d  \u25cb\u9009\u914d  -\u65e0",
+            "key": "",
+            "title_flag_list": [{
+                "icon_url": "https://p3.pstatp.com/origin/bef30001291e0cbcc002",
+                "value": "\u6807\u914d",
+                "icon_type": 1
+            }, {
+                "icon_url": "https://p3.pstatp.com/origin/bef000012bfb80550a72",
+                "value": "\u9009\u88c5",
+                "icon_type": 2
+            }, {
+                "icon_url": "https://p3.pstatp.com/obj/bef1000132ec6c1a1830",
+                "value": "\u65e0",
+                "icon_type": 3
+            }]
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6902953244004221447&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6902953244004221447",
+                "type": 2
+            },
+            "text": "\u5ea7\u6905\u6750\u8d28",
+            "type": 1,
+            "key": "seat_material_1"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903039195598569998&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903039195598569998",
+                "type": 2
+            },
+            "text": "\u8fd0\u52a8\u98ce\u683c\u5ea7\u6905",
+            "type": 1,
+            "key": "sport_style_seat"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904059643060814343&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904059643060814343",
+                "type": 2
+            },
+            "text": "\u5ea7\u6905\u7535\u52a8\u8c03\u8282",
+            "type": 3,
+            "sub_list": [{
+                "text": "\u4e3b\u9a7e\u9a76\u4f4d",
+                "key": "main_drive_seat_adjustment"
+            }, {
+                "text": "\u526f\u9a7e\u9a76\u4f4d",
+                "key": "vice_drive_seat_adjustment"
+            }, {
+                "text": "\u7b2c\u4e8c\u6392",
+                "key": "second_row_seat_electrical_adjustment"
+            }],
+            "key": "seat_electrical_adjustment"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904059658575561230&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904059658575561230",
+                "type": 2
+            },
+            "text": "\u4e3b\u9a7e\u5ea7\u6905\u6574\u4f53\u8c03\u8282",
+            "type": 3,
+            "sub_list": [{
+                "text": "\u524d\u540e\u79fb\u52a8",
+                "key": "main_drive_back_and_forth_adjustment_v2"
+            }, {
+                "text": "\u9760\u80cc\u89d2\u5ea6",
+                "key": "main_drive_backrest_adjustment_v2"
+            }, {
+                "text": "\u9ad8\u4f4e\u8c03\u8282",
+                "key": "main_drive_height_adjustment_v2"
+            }],
+            "key": "main_drive_whole_adjustment"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904108898949726727&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904108898949726727",
+                "type": 2
+            },
+            "text": "\u4e3b\u9a7e\u5ea7\u6905\u5c40\u90e8\u8c03\u8282",
+            "type": 3,
+            "sub_list": [{
+                "text": "\u5934\u6795",
+                "key": "main_drive_pillow_adjustment_v2"
+            }, {
+                "text": "\u8170\u90e8",
+                "key": "main_drive_waist_adjustment_v2"
+            }, {
+                "text": "\u80a9\u90e8",
+                "key": "main_drive_shoulder_adjustment_v2"
+            }, {
+                "text": "\u817f\u6258",
+                "key": "main_drive_leg_adjustment_v2"
+            }],
+            "key": "main_drive_part_adjustment"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904116545996194318&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904116545996194318",
+                "type": 2
+            },
+            "text": "\u526f\u9a7e\u5ea7\u6905\u6574\u4f53\u8c03\u8282",
+            "type": 3,
+            "sub_list": [{
+                "text": "\u524d\u540e\u79fb\u52a8",
+                "key": "vice_drive_back_and_forth_adjustment_v2"
+            }, {
+                "text": "\u9ad8\u4f4e\u8c03\u8282",
+                "key": "vice_drive_height_adjustment_v2"
+            }, {
+                "text": "\u9760\u80cc\u89d2\u5ea6",
+                "key": "vice_drive_backrest_adjustment_v2"
+            }],
+            "key": "vice_drive_whole_adjustment"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904114066344673805&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904114066344673805",
+                "type": 2
+            },
+            "text": "\u526f\u9a7e\u5ea7\u6905\u5c40\u90e8\u8c03\u8282",
+            "type": 3,
+            "sub_list": [{
+                "text": "\u5934\u6795",
+                "key": "vice_drive_pillow_adjustment_v2"
+            }, {
+                "text": "\u8170\u90e8",
+                "key": "vice_drive_waist_adjustment_v2"
+            }, {
+                "text": "\u80a9\u90e8",
+                "key": "vice_drive_shoulder_adjustment_v2"
+            }, {
+                "text": "\u817f\u6258",
+                "key": "vice_drive_leg_adjustment_v2"
+            }],
+            "key": "vice_drive_part_adjustment"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904152543044207111&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904152543044207111",
+                "type": 2
+            },
+            "text": "\u524d\u6392\u5ea7\u6905\u529f\u80fd",
+            "type": 3,
+            "sub_list": [{
+                "text": "\u52a0\u70ed",
+                "key": "front_seat_heating"
+            }, {
+                "text": "\u901a\u98ce",
+                "key": "front_seat_ventilation"
+            }, {
+                "text": "\u8bb0\u5fc6",
+                "key": "front_seat_memory_v2"
+            }, {
+                "text": "\u6309\u6469",
+                "key": "front_seat_massage"
+            }],
+            "key": "front_seat_functional"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904152970829545992&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904152970829545992",
+                "type": 2
+            },
+            "text": "\u7b2c\u4e8c\u6392\u5ea7\u6905\u529f\u80fd",
+            "type": 3,
+            "sub_list": [{
+                "text": "\u52a0\u70ed",
+                "key": "rear_seat_heating"
+            }, {
+                "text": "\u901a\u98ce",
+                "key": "rear_seat_ventilation"
+            }, {
+                "text": "\u8bb0\u5fc6",
+                "key": "second_row_seat_memory_v2"
+            }, {
+                "text": "\u6309\u6469",
+                "key": "rear_seat_massage"
+            }],
+            "key": "rear_seat_functional"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904152975019622920&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904152975019622920",
+                "type": 2
+            },
+            "text": "\u7b2c\u4e8c\u6392\u72ec\u7acb\u5ea7\u6905",
+            "type": 1,
+            "key": "second_independent_seat"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6907383903590466061&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6907383903590466061",
+                "type": 2
+            },
+            "text": "\u7b2c\u4e8c\u6392\u5ea7\u6905\u6574\u4f53\u8c03\u8282",
+            "type": 3,
+            "sub_list": [{
+                "text": "\u524d\u540e\u79fb\u52a8",
+                "key": "second_row_seat_back_and_forth_adjustment"
+            }, {
+                "text": "\u9760\u80cc\u89d2\u5ea6\u8c03\u8282",
+                "key": "second_row_seat_backrest_adjustment"
+            }, {
+                "text": "\u8001\u677f\u952e",
+                "key": "co_pilot_rear_adjustable_button"
+            }, {
+                "text": "\u65cb\u8f6c\u8c03\u8282",
+                "key": "second_row_seat_rotation_adjustment_v3"
+            }],
+            "key": "second_seat_control_functional"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6907462836578992648&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6907462836578992648",
+                "type": 2
+            },
+            "text": "\u7b2c\u4e8c\u6392\u5ea7\u6905\u5c40\u90e8\u8c03\u8282",
+            "type": 3,
+            "sub_list": [{
+                "text": "\u817f\u6258",
+                "key": "second_row_seat_leg_adjustment_v3"
+            }, {
+                "text": "\u80a9\u90e8",
+                "key": "second_row_seat_shoulder_adjustment_v3"
+            }, {
+                "text": "\u8170\u90e8",
+                "key": "second_row_seat_lumbar_adjustment_v3"
+            }, {
+                "text": "\u5934\u6795",
+                "key": "second_row_seat_head_adjustment_v3"
+            }],
+            "key": "second_local_seat"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904152980006683143&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904152980006683143",
+                "type": 2
+            },
+            "text": "\u7b2c\u4e8c\u6392\u5c0f\u684c\u677f",
+            "type": 1,
+            "key": "second_row_small_desktop_v2"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904175091555254792&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904175091555254792",
+                "type": 2
+            },
+            "text": "\u540e\u6392\u5ea7\u6905\u653e\u5012\u6bd4\u4f8b",
+            "type": 1,
+            "key": "second_row_seat_down_ratio_3"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6907476235224351245&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6907476235224351245",
+                "type": 2
+            },
+            "text": "\u524d/\u540e\u6276\u624b",
+            "type": 3,
+            "sub_list": [{
+                "text": "\u524d\u6392",
+                "key": "front_armrest"
+            }, {
+                "text": "\u540e\u6392",
+                "key": "back_armrest"
+            }],
+            "key": "centre_armrest"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904175348645315079&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904175348645315079",
+                "type": 2
+            },
+            "text": "\u540e\u6392\u676f\u67b6",
+            "type": 1,
+            "key": "rear_cup_holder"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6904152984423301640&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6904152984423301640",
+                "type": 2
+            },
+            "text": "\u53ef\u52a0\u70ed/\u5236\u51b7\u676f\u67b6",
+            "type": 1,
+            "key": "hot_cold_cup_holder"
+        }, {
+            "text": "\u667a\u80fd\u4e92\u8054",
+            "type": 2,
+            "title_flag": "\u25cf\u6807\u914d  \u25cb\u9009\u914d  -\u65e0",
+            "key": "",
+            "title_flag_list": [{
+                "icon_url": "https://p3.pstatp.com/origin/bef30001291e0cbcc002",
+                "value": "\u6807\u914d",
+                "icon_type": 1
+            }, {
+                "icon_url": "https://p3.pstatp.com/origin/bef000012bfb80550a72",
+                "value": "\u9009\u88c5",
+                "icon_type": 2
+            }, {
+                "icon_url": "https://p3.pstatp.com/obj/bef1000132ec6c1a1830",
+                "value": "\u65e0",
+                "icon_type": 3
+            }]
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903039209582428686&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903039209582428686",
+                "type": 2
+            },
+            "text": "\u4e2d\u63a7\u5f69\u8272\u5c4f\u5e55",
+            "type": 1,
+            "key": "center_screen_1"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903039228444672526&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903039228444672526",
+                "type": 2
+            },
+            "text": "\u4e2d\u63a7\u5c4f\u5c3a\u5bf8",
+            "type": 1,
+            "key": "center_screen_size_9.2\u540b"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903039229451338248&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903039229451338248",
+                "type": 2
+            },
+            "text": "GPS\u5bfc\u822a\u7cfb\u7edf",
+            "type": 1,
+            "key": "gps"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6908961033713533453&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6908961033713533453",
+                "type": 2
+            },
+            "text": "\u5bfc\u822a\u8def\u51b5\u4fe1\u606f\u5c55\u793a",
+            "type": 1,
+            "key": "navigation_system_v2"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903039232831439374&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903039232831439374",
+                "type": 2
+            },
+            "text": "\u9053\u8def\u6551\u63f4\u670d\u52a1",
+            "type": 1,
+            "key": "position_service"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903039234525938190&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903039234525938190",
+                "type": 2
+            },
+            "text": "\u84dd\u7259/\u8f66\u8f7d\u7535\u8bdd",
+            "type": 1,
+            "key": "bluetooth_and_car_phone"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6908311754183328264&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6908311754183328264",
+                "type": 2
+            },
+            "text": "\u624b\u673a\u4e92\u8054\u6620\u5c04",
+            "type": 3,
+            "sub_list": [{
+                "text": "CarLife",
+                "key": "mobile_system_v2_2"
+            }, {
+                "text": "CarPlay",
+                "key": "mobile_system_v2_1"
+            }, {
+                "text": "\u539f\u5382\u539f\u673a",
+                "key": "mobile_system_v2_5"
+            }],
+            "key": "mobile_system_v2"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6910554676635304462&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6910554676635304462",
+                "type": 2
+            },
+            "text": "\u8f66\u8054\u7f51",
+            "type": 1,
+            "key": "car_networking"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6908961032769651207&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6908961032769651207",
+                "type": 2
+            },
+            "text": "OTA\u5347\u7ea7",
+            "type": 1,
+            "key": "ota_upgrade_v3"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903039237856199181&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903039237856199181",
+                "type": 2
+            },
+            "text": "\u9762\u90e8\u8bc6\u522b",
+            "type": 1,
+            "key": "facial_recognition_v3"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903039238560875015&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903039238560875015",
+                "type": 2
+            },
+            "text": "\u8bed\u97f3\u8bc6\u522b\u63a7\u5236\u7cfb\u7edf",
+            "type": 1,
+            "key": "speech_recognition_system_v2"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903039244915196423&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903039244915196423",
+                "type": 2
+            },
+            "text": "\u624b\u52bf\u63a7\u5236\u529f\u80fd",
+            "type": 1,
+            "key": "gesture_control_system_v2"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6909239284721533453&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6909239284721533453",
+                "type": 2
+            },
+            "text": "Wi-Fi\u70ed\u70b9",
+            "type": 1,
+            "key": "wifi_v2"
+        }, {
+            "text": "\u5f71\u97f3\u5a31\u4e50",
+            "type": 2,
+            "title_flag": "\u25cf\u6807\u914d  \u25cb\u9009\u914d  -\u65e0",
+            "key": "",
+            "title_flag_list": [{
+                "icon_url": "https://p3.pstatp.com/origin/bef30001291e0cbcc002",
+                "value": "\u6807\u914d",
+                "icon_type": 1
+            }, {
+                "icon_url": "https://p3.pstatp.com/origin/bef000012bfb80550a72",
+                "value": "\u9009\u88c5",
+                "icon_type": 2
+            }, {
+                "icon_url": "https://p3.pstatp.com/obj/bef1000132ec6c1a1830",
+                "value": "\u65e0",
+                "icon_type": 3
+            }]
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903039250367775245&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903039250367775245",
+                "type": 2
+            },
+            "text": "\u4e2d\u63a7\u5206\u5c4f\u663e\u793a",
+            "type": 1,
+            "key": "control_lcd_screen_display"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903039248295821832&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903039248295821832",
+                "type": 2
+            },
+            "text": "\u591a\u5a92\u4f53\u63a5\u53e3",
+            "type": 1,
+            "key": "multimedia_interface_1"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6963914709380825631&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6963914709380825631",
+                "type": 2
+            },
+            "text": "USB/Type-C\u63a5\u53e3\u6570\u91cf",
+            "type": 3,
+            "sub_list": [{
+                "text": "\u540e\u6392",
+                "key": "rear_usb_typec_interface_count"
+            }, {
+                "text": "\u524d\u6392",
+                "key": "front_usb_typec_interface_count"
+            }],
+            "key": "usb_typec_interface_count"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903039250581701134&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903039250581701134",
+                "type": 2
+            },
+            "text": "\u8f66\u8f7d\u7535\u89c6",
+            "type": 1,
+            "key": "car_tv"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903039256588157448&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903039256588157448",
+                "type": 2
+            },
+            "text": "\u540e\u6392\u6db2\u6676\u5c4f",
+            "type": 1,
+            "key": "rear_lcd_screen"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903039645215375885&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903039645215375885",
+                "type": 2
+            },
+            "text": "\u97f3\u54cd\u54c1\u724c",
+            "type": 1,
+            "key": "sound_brand_29"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903041130980508174&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903041130980508174",
+                "type": 2
+            },
+            "text": "\u626c\u58f0\u5668\u6570\u91cf(\u4e2a)",
+            "type": 1,
+            "key": "speaker_speaker_count_12"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903042461875044871&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903042461875044871",
+                "type": 2
+            },
+            "text": "\u540e\u6392\u591a\u5a92\u4f53\u63a7\u5236",
+            "type": 1,
+            "key": "rear_touch_control_system_v2"
+        }, {
+            "text": "\u706f\u5149\u914d\u7f6e",
+            "type": 2,
+            "title_flag": "\u25cf\u6807\u914d  \u25cb\u9009\u914d  -\u65e0",
+            "key": "",
+            "title_flag_list": [{
+                "icon_url": "https://p3.pstatp.com/origin/bef30001291e0cbcc002",
+                "value": "\u6807\u914d",
+                "icon_type": 1
+            }, {
+                "icon_url": "https://p3.pstatp.com/origin/bef000012bfb80550a72",
+                "value": "\u9009\u88c5",
+                "icon_type": 2
+            }, {
+                "icon_url": "https://p3.pstatp.com/obj/bef1000132ec6c1a1830",
+                "value": "\u65e0",
+                "icon_type": 3
+            }]
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903317513627550216&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903317513627550216",
+                "type": 2
+            },
+            "text": "\u8fd1\u5149\u706f",
+            "type": 1,
+            "key": "low_headlamp_type_2"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903317514302816775&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903317514302816775",
+                "type": 2
+            },
+            "text": "\u8fdc\u5149\u706f",
+            "type": 1,
+            "key": "high_headlamp_type_2"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903317528466948621&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903317528466948621",
+                "type": 2
+            },
+            "text": "\u65e5\u95f4\u884c\u8f66\u706f",
+            "type": 1,
+            "key": "daytime_light"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903317526185312775&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903317526185312775",
+                "type": 2
+            },
+            "text": "\u81ea\u9002\u5e94\u8fdc\u8fd1\u5149",
+            "type": 1,
+            "key": "adaptive_light"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903317529545261576&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903317529545261576",
+                "type": 2
+            },
+            "text": "\u81ea\u52a8\u5927\u706f",
+            "type": 1,
+            "key": "auto_headlamp"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903317553569874439&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903317553569874439",
+                "type": 2
+            },
+            "text": "\u8f6c\u5411\u8f85\u52a9\u706f",
+            "type": 1,
+            "key": "steer_assist_light"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903317555021120014&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903317555021120014",
+                "type": 2
+            },
+            "text": "\u524d\u96fe\u706f",
+            "type": 1,
+            "key": "front_fog_light"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903317547555258894&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903317547555258894",
+                "type": 2
+            },
+            "text": "\u5927\u706f\u968f\u52a8\u8f6c\u5411(AFS)",
+            "type": 1,
+            "key": "headlamp_follow_up"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903317557223145992&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903317557223145992",
+                "type": 2
+            },
+            "text": "\u5927\u706f\u9ad8\u5ea6\u8c03\u8282",
+            "type": 1,
+            "key": "headlight_height_adjustment"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903317559664181768&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903317559664181768",
+                "type": 2
+            },
+            "text": "\u5927\u706f\u6e05\u6d17\u529f\u80fd",
+            "type": 1,
+            "key": "headlight_clean_function"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903317562118226446&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903317562118226446",
+                "type": 2
+            },
+            "text": "\u8f66\u5185\u6c1b\u56f4\u706f",
+            "type": 1,
+            "key": "interior_light_v2_10\u8272"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6908961037492961799&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6908961037492961799",
+                "type": 2
+            },
+            "text": "\u5927\u706f\u5ef6\u65f6\u5173\u95ed",
+            "type": 1,
+            "key": "headlamp_delay_off_v3"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903410338604057101&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903410338604057101",
+                "type": 2
+            },
+            "text": "\u524d\u5927\u706f\u96e8\u96fe\u6a21\u5f0f",
+            "type": 1,
+            "key": "headlamp_rain_fog_mode_v3"
+        }, {
+            "text": "\u73bb\u7483/\u540e\u89c6\u955c",
+            "type": 2,
+            "title_flag": "\u25cf\u6807\u914d  \u25cb\u9009\u914d  -\u65e0",
+            "key": "",
+            "title_flag_list": [{
+                "icon_url": "https://p3.pstatp.com/origin/bef30001291e0cbcc002",
+                "value": "\u6807\u914d",
+                "icon_type": 1
+            }, {
+                "icon_url": "https://p3.pstatp.com/origin/bef000012bfb80550a72",
+                "value": "\u9009\u88c5",
+                "icon_type": 2
+            }, {
+                "icon_url": "https://p3.pstatp.com/obj/bef1000132ec6c1a1830",
+                "value": "\u65e0",
+                "icon_type": 3
+            }]
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903410359386817031&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903410359386817031",
+                "type": 2
+            },
+            "text": "\u7535\u52a8\u8f66\u7a97",
+            "type": 3,
+            "sub_list": [{
+                "text": "\u524d\u6392",
+                "key": "front_electric_window"
+            }, {
+                "text": "\u540e\u6392",
+                "key": "rear_electric_window"
+            }],
+            "key": "electric_window"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903410362423493128&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903410362423493128",
+                "type": 2
+            },
+            "text": "\u8f66\u7a97\u4e00\u952e\u5347\u964d",
+            "type": 1,
+            "key": "window_one_key_lift_2"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903410368232604168&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903410368232604168",
+                "type": 2
+            },
+            "text": "\u8f66\u7a97\u9632\u5939\u624b\u529f\u80fd",
+            "type": 1,
+            "key": "window_anti_clip_function"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6907476577810973191&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6907476577810973191",
+                "type": 2
+            },
+            "text": "\u5916\u540e\u89c6\u955c\u529f\u80fd",
+            "type": 3,
+            "sub_list": [{
+                "text": "\u7535\u52a8\u8c03\u8282",
+                "key": "exter_mirror_elec_adjustment"
+            }, {
+                "text": "\u52a0\u70ed",
+                "key": "external_mirror_heat"
+            }, {
+                "text": "\u8bb0\u5fc6",
+                "key": "outside_mirror_memory"
+            }, {
+                "text": "\u7535\u52a8\u6298\u53e0",
+                "key": "outside_mirror_electric_folding"
+            }, {
+                "text": "\u5012\u8f66\u81ea\u52a8\u4e0b\u7ffb",
+                "key": "external_mirror_auto_flip_v2"
+            }, {
+                "text": "\u9501\u8f66\u81ea\u52a8\u6298\u53e0",
+                "key": "external_mirror_auto_fold_v2"
+            }, {
+                "text": "\u81ea\u52a8\u9632\u7729\u76ee",
+                "key": "exter_mirror_auto_prev_glare"
+            }],
+            "key": "exter_mirror_functional"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903410375383892487&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903410375383892487",
+                "type": 2
+            },
+            "text": "\u5185\u540e\u89c6\u955c\u529f\u80fd",
+            "type": 3,
+            "sub_list": [{
+                "text": "\u81ea\u52a8\u9632\u7729\u76ee",
+                "key": "inside_mirror_auto_anti_glare"
+            }, {
+                "text": "\u6d41\u5a92\u4f53",
+                "key": "stream_media_inside_mirror"
+            }],
+            "key": "inside_mirror_functional"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6909053929209037326&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6909053929209037326",
+                "type": 2
+            },
+            "text": "\u8f66\u5185\u5316\u5986\u955c",
+            "type": 3,
+            "sub_list": [{
+                "text": "\u4e3b\u9a7e\u5316\u5986\u955c",
+                "key": "main_drive_window_sunshade_mirror_v2"
+            }, {
+                "text": "\u526f\u9a7e\u5316\u5986\u955c",
+                "key": "vice_drive_window_sunshade_mirror_v2"
+            }, {
+                "text": "\u540e\u6392\u5316\u5986\u955c",
+                "key": "rear_makeup_mirror_v2"
+            }],
+            "key": "car_window_sunshade_mirror"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903410378487955976&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903410378487955976",
+                "type": 2
+            },
+            "text": "\u540e\u6392\u9690\u79c1\u73bb\u7483",
+            "type": 1,
+            "key": "backside_privacy_glass"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903410766922154504&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903410766922154504",
+                "type": 2
+            },
+            "text": "\u8f66\u5185\u906e\u9633\u5e18",
+            "type": 3,
+            "sub_list": [{
+                "text": "\u540e\u7a97\u4fa7\u906e\u9633\u5e18",
+                "key": "rear_window_sunshade"
+            }, {
+                "text": "\u540e\u98ce\u6321\u906e\u9633\u5e18",
+                "key": "rear_windshield_sunshade"
+            }],
+            "key": "window_sunshade"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903410771448316423&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903410771448316423",
+                "type": 2
+            },
+            "text": "\u96e8\u91cf\u611f\u5e94\u5f0f\u96e8\u5237",
+            "type": 1,
+            "key": "rain_induction_wiper"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903410785486144013&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903410785486144013",
+                "type": 2
+            },
+            "text": "\u540e\u96e8\u5237",
+            "type": 1,
+            "key": "rear_wiper"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6909053928881537549&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6909053928881537549",
+                "type": 2
+            },
+            "text": "\u53ef\u52a0\u70ed\u55b7\u6c34\u5634",
+            "type": 1,
+            "key": "heated_nozzle_v3"
+        }, {
+            "text": "\u7a7a\u8c03/\u51b0\u7bb1",
+            "type": 2,
+            "title_flag": "\u25cf\u6807\u914d  \u25cb\u9009\u914d  -\u65e0",
+            "key": "",
+            "title_flag_list": [{
+                "icon_url": "https://p3.pstatp.com/origin/bef30001291e0cbcc002",
+                "value": "\u6807\u914d",
+                "icon_type": 1
+            }, {
+                "icon_url": "https://p3.pstatp.com/origin/bef000012bfb80550a72",
+                "value": "\u9009\u88c5",
+                "icon_type": 2
+            }, {
+                "icon_url": "https://p3.pstatp.com/obj/bef1000132ec6c1a1830",
+                "value": "\u65e0",
+                "icon_type": 3
+            }]
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903416889746358798&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903416889746358798",
+                "type": 2
+            },
+            "text": "\u7a7a\u8c03\u63a7\u5236\u65b9\u5f0f",
+            "type": 1,
+            "key": "air_control_model_2"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903426237373694478&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903426237373694478",
+                "type": 2
+            },
+            "text": "\u540e\u6392\u72ec\u7acb\u7a7a\u8c03",
+            "type": 1,
+            "key": "rear_independent_air_conditioning"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903452163213656584&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903452163213656584",
+                "type": 2
+            },
+            "text": "\u540e\u6392\u51fa\u98ce\u53e3",
+            "type": 1,
+            "key": "rear_exhaust"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903451653320507912&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903451653320507912",
+                "type": 2
+            },
+            "text": "\u6e29\u5ea6\u5206\u533a\u63a7\u5236",
+            "type": 1,
+            "key": "temperature_partition_control"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6909332140215779854&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6909332140215779854",
+                "type": 2
+            },
+            "text": "\u8f66\u5185\u7a7a\u6c14\u8c03\u8282/\u82b1\u7c89\u8fc7\u6ee4",
+            "type": 1,
+            "key": "air_purification"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6907476578935013901&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6907476578935013901",
+                "type": 2
+            },
+            "text": "\u8f66\u8f7d\u7a7a\u6c14\u51c0\u5316\u5668",
+            "type": 1,
+            "key": "car_purifier_v3"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903456137845326350&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903456137845326350",
+                "type": 2
+            },
+            "text": "\u8f66\u5185PM2.5\u8fc7\u6ee4\u88c5\u7f6e",
+            "type": 1,
+            "key": "pm25_filtrating_equipment_v2"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903457531574813191&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903457531574813191",
+                "type": 2
+            },
+            "text": "\u8d1f\u79bb\u5b50\u53d1\u751f\u5668",
+            "type": 1,
+            "key": "negative_ion_generator_v2"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903471515300594189&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903471515300594189",
+                "type": 2
+            },
+            "text": "\u8f66\u5185\u9999\u6c1b\u88c5\u7f6e",
+            "type": 1,
+            "key": "car_fragrance_device_v2"
+        }, {
+            "entrance_info": {
+                "open_url": "sslocal://dcd_wiki?tid=6903688652472238606&no_community=0&gd_label=car_parameter_page&web_url=https%3A%2F%2Fis.snssdk.com%2Fmotor%2Ffeoffline%2Fcontent%2Fwiki.html%3Fgroup_id%3D6903688652472238606",
+                "type": 2
+            },
+            "text": "\u8f66\u8f7d\u51b0\u7bb1",
+            "type": 1,
+            "key": "car_refrigerator"
+        }],
+        "car_info": [{
+            "info": {
+                "electric_description": {
+                    "value": "-"
+                },
+                "tire_pressure_system_v2_2": {
+                    "value": "\u80ce\u538b\u663e\u793a"
+                },
+                "min_clearance": {
+                    "value": "-",
+                    "compare_value": -2
+                },
+                "battery_warranty_v3": {
+                    "value": "-"
+                },
+                "baggage_12v_power_outlet_v2": {
+                    "value": "-"
+                },
+                "acceleration_time": {
+                    "value": "7.4",
+                    "compare_value": 7.4
+                },
+                "rear_windshield_sunshade": {
+                    "value": "\u25cf"
+                },
+                "mobile_system_v2_1": {
+                    "is_optional": 0,
+                    "value": "\u25cf"
+                },
+                "vice_drive_waist_adjustment_v2": {
+                    "value": "\u25cf"
+                },
+                "daytime_light": {
+                    "value": "\u25cf"
+                },
+                "four_wd_low": {
+                    "value": "-"
+                },
+                "cylinder_nums": {
+                    "value": "4",
+                    "compare_value": 4.0
+                },
+                "car_body_struct": {
+                    "value": "4\u95e85\u5ea7\u4e09\u53a2\u8f66"
+                },
+                "max_torque": {
+                    "value": "350",
+                    "compare_value": 350.0
+                },
+                "backside_privacy_glass": {
+                    "value": "-"
+                },
+                "control_lcd_screen_display": {
+                    "value": "-"
+                },
+                "built_in_tachograph": {
+                    "value": "-"
+                },
+                "night_vision_system": {
+                    "value": "-"
+                },
+                "variable_suspension_0": {
+                    "is_optional": 0,
+                    "value": "-"
+                },
+                "inside_mirror_auto_anti_glare": {
+                    "value": "\u25cf"
+                },
+                "adaptive_cruise": {
+                    "value": "\u25cf"
+                },
+                "front_center_airbag_v2": {
+                    "value": "-"
+                },
+                "auto_headlamp": {
+                    "value": "\u25cf"
+                },
+                "unique_tech": {
+                    "value": "-"
+                },
+                "co_pilot_rear_adjustable_button": {
+                    "value": "\u25cf"
+                },
+                "speaker_speaker_count_12": {
+                    "value": 12
+                },
+                "high_headlamp_type_2": {
+                    "value": "LED"
+                },
+                "max_horsepower": {
+                    "value": "220",
+                    "compare_value": 220.0
+                },
+                "car_fragrance_device_v2": {
+                    "value": "-"
+                },
+                "vice_drive_backrest_adjustment_v2": {
+                    "value": "\u25cf"
+                },
+                "overall_turn": {
+                    "value": "-"
+                },
+                "rear_window_open_method_0": {
+                    "is_optional": 0,
+                    "value": "-"
+                },
+                "mobile_system_v2_2": {
+                    "is_optional": 0,
+                    "value": "\u25cf"
+                },
+                "multilayer_soundproof_glass_v2_0": {
+                    "is_optional": 0,
+                    "value": "-"
+                },
+                "baggage_volume": {
+                    "value": "521",
+                    "compare_value": 521.0
+                },
+                "quick_charge_interface_v3": {
+                    "value": "-"
+                },
+                "remote_key_v2_3": {
+                    "value": "\u667a\u80fd\u9065\u63a7\u94a5\u5319"
+                },
+                "main_drive_shoulder_adjustment_v2": {
+                    "value": "-"
+                },
+                "traction_control": {
+                    "value": "\u25cf"
+                },
+                "oil_tank_volume": {
+                    "value": "68.5",
+                    "compare_value": 68.5
+                },
+                "traction_weight": {
+                    "value": "-"
+                },
+                "charging_pile": {
+                    "value": "-"
+                },
+                "inductive_back_door": {
+                    "value": "\u25cf"
+                },
+                "fuel_consumption": {
+                    "value": "-",
+                    "compare_value": -2
+                },
+                "door_nums": {
+                    "value": "4"
+                },
+                "door_open_way": {
+                    "value": "\u5e73\u5f00\u95e8"
+                },
+                "gas_form": {
+                    "value": "\u6da1\u8f6e\u589e\u538b",
+                    "compare_value": 7
+                },
+                "negative_ion_generator_v2": {
+                    "value": "-"
+                },
+                "front_usb_typec_interface_count": {
+                    "is_optional": 0,
+                    "value": "\u25cf \u524d\u63922\u4e2a"
+                },
+                "central_locking_car": {
+                    "value": "\u25cf"
+                },
+                "vice_drive_seat_adjustment": {
+                    "value": "\u25cf"
+                },
+                "low_speed_driving_warning_v3": {
+                    "value": "-"
+                },
+                "line_support": {
+                    "value": "\u25cf"
+                },
+                "fuel_comprehensive": {
+                    "value": "6.7",
+                    "compare_value": 6.7
+                },
+                "third_row_seat_heating_v3": {
+                    "value": "-"
+                },
+                "recharge_mileage": {
+                    "value": "-",
+                    "compare_value": -2
+                },
+                "passive_pedestrian_protection_v2": {
+                    "value": "-"
+                },
+                "battery_temperature_management_system_heating_v3": {
+                    "value": "-"
+                },
+                "front_electric_max_horsepower": {
+                    "value": "-"
+                },
+                "hot_cold_cup_holder": {
+                    "value": "-"
+                },
+                "gesture_control_system_v2": {
+                    "value": "-"
+                },
+                "front_track": {
+                    "value": "1584",
+                    "compare_value": 1584.0
+                },
+                "rear_independent_air_conditioning": {
+                    "value": "\u25cf"
+                },
+                "navigation_system_v2": {
+                    "value": "-"
+                },
+                "side_footrest_v3_0": {
+                    "is_optional": 0,
+                    "value": "-"
+                },
+                "front_slip_method_0": {
+                    "is_optional": 0,
+                    "value": "-"
+                },
+                "electric_layout": {
+                    "value": "-"
+                },
+                "bluetooth_and_car_phone": {
+                    "value": "\u25cf"
+                },
+                "container_length_width_height": {
+                    "value": "-"
+                },
+                "remote_control_move_v3": {
+                    "value": "-"
+                },
+                "main_drive_backrest_adjustment_v2": {
+                    "value": "\u25cf"
+                },
+                "rear_tire_size": {
+                    "value": "235/45 R18"
+                },
+                "battery_capacity": {
+                    "value": "-",
+                    "compare_value": -2
+                },
+                "electric_back_door_memory_v2": {
+                    "value": "\u25cf"
+                },
+                "outside_mirror_electric_folding": {
+                    "value": "\u25cf"
+                },
+                "main_drive_waist_adjustment_v2": {
+                    "value": "\u25cf"
+                },
+                "main_drive_leg_adjustment_v2": {
+                    "value": "-"
+                },
+                "rear_electric_window": {
+                    "value": "\u25cf"
+                },
+                "front_collision_warning": {
+                    "value": "\u25cf"
+                },
+                "rear_cup_holder": {
+                    "value": "\u25cf"
+                },
+                "second_row_seat_backrest_adjustment": {
+                    "value": "-"
+                },
+                "system_torque": {
+                    "value": "-",
+                    "compare_value": -2
+                },
+                "cylinder_material": {
+                    "value": "\u94c1",
+                    "compare_value": 8
+                },
+                "exter_mirror_auto_prev_glare": {
+                    "value": "\u25cf"
+                },
+                "roof_racks": {
+                    "value": "-"
+                },
+                "front_seat_memory_v2": {
+                    "value": "\u25cf"
+                },
+                "energy_elect_max_torque": {
+                    "value": "350",
+                    "compare_value": 350.0
+                },
+                "front_tire_size": {
+                    "value": "235/45 R18"
+                },
+                "reversing_warning_system_v2": {
+                    "value": "-"
+                },
+                "cruise": {
+                    "value": "\u25cf"
+                },
+                "brake_assist": {
+                    "value": "\u25cf"
+                },
+                "front_seat_massage": {
+                    "value": "\u25cf"
+                },
+                "environmental_standards": {
+                    "value": "\u56fdVI",
+                    "compare_value": -1
+                },
+                "uphill_support": {
+                    "value": "\u25cf"
+                },
+                "vice_drive_shoulder_adjustment_v2": {
+                    "value": "-"
+                },
+                "external_mirror_auto_flip_v2": {
+                    "value": "\u25cf"
+                },
+                "rear_electric_max_power": {
+                    "value": "-",
+                    "compare_value": -2
+                },
+                "road_traffic_sign_recognition_v2": {
+                    "value": "-"
+                },
+                "steer_assist_light": {
+                    "value": "-"
+                },
+                "panoramic_camera": {
+                    "value": "\u25cf"
+                },
+                "gearbox_description": {
+                    "value": "7\u6321\u53cc\u79bb\u5408"
+                },
+                "rear_usb_typec_interface_count": {
+                    "is_optional": 0,
+                    "value": "\u25cf \u540e\u63922\u4e2a"
+                },
+                "spare_tire_placement_v3_3": {
+                    "is_optional": 0,
+                    "value": "\u25cf"
+                },
+                "car_networking": {
+                    "value": "\u25cf"
+                },
+                "approach_angle": {
+                    "value": "14.0"
+                },
+                "skylight_type_v2_3": {
+                    "value": "\u53ef\u5f00\u542f\u5168\u666f\u5929\u7a97"
+                },
+                "electromagnetic_induct_suspension": {
+                    "value": "-"
+                },
+                "outside_mirror_memory": {
+                    "value": "\u25cf"
+                },
+                "third_row_seat_ventilation_v3": {
+                    "value": "-"
+                },
+                "front_fog_light": {
+                    "value": "-"
+                },
+                "steer_wheel_shift": {
+                    "value": "\u25cf"
+                },
+                "third_row_seat_count_0": {
+                    "is_optional": 0,
+                    "value": "-"
+                },
+                "main_drive_pillow_adjustment_v2": {
+                    "value": "\u25cf"
+                },
+                "engine_anti_theft": {
+                    "value": "\u25cf"
+                },
+                "max_load_weight": {
+                    "value": "-"
+                },
+                "wifi_v2": {
+                    "value": "\u25cf"
+                },
+                "temperature_partition_control": {
+                    "value": "\u25cf"
+                },
+                "capacity_l": {
+                    "value": "2.0"
+                },
+                "drive_mode_v2_3": {
+                    "is_optional": 0,
+                    "value": "\u25cf"
+                },
+                "drive_mode_v2_2": {
+                    "is_optional": 0,
+                    "value": "\u25cf"
+                },
+                "drive_mode_v2_1": {
+                    "is_optional": 0,
+                    "value": "\u25cf"
+                },
+                "vice_airbag": {
+                    "value": "\u25cf"
+                },
+                "vice_drive_window_sunshade_mirror_v2": {
+                    "is_optional": 0,
+                    "value": "\u25cf \u526f\u9a7e\u9a76\u4f4d+\u6709\u7167\u660e"
+                },
+                "body_stability_system": {
+                    "value": "\u25cf"
+                },
+                "second_row_small_desktop_v2": {
+                    "value": "-"
+                },
+                "front_suspension_form": {
+                    "value": "\u9ea6\u5f17\u900a\u5f0f\u72ec\u7acb\u60ac\u6302"
+                },
+                "second_row_seat_rotation_adjustment_v3": {
+                    "value": "-"
+                },
+                "fade_zone_camera_v2": {
+                    "value": "-"
+                },
+                "sport_style_seat": {
+                    "value": "-"
+                },
+                "exter_mirror_elec_adjustment": {
+                    "value": "\u25cf"
+                },
+                "constant_speed_mileage": {
+                    "value": "-",
+                    "compare_value": -2
+                },
+                "second_row_seat_shoulder_adjustment_v3": {
+                    "value": "-"
+                },
+                "header_display_system": {
+                    "value": "\u25cf"
+                },
+                "official_price": {
+                    "value": "28.29\u4e07",
+                    "compare_value": 28.29
+                },
+                "active_noise_reduction": {
+                    "value": "-"
+                },
+                "max_speed": {
+                    "value": "210",
+                    "compare_value": 210.0
+                },
+                "electric_type": {
+                    "value": "-"
+                },
+                "rear_seat_electric_down_v3": {
+                    "value": "-"
+                },
+                "child_seat_interface": {
+                    "value": "\u25cf"
+                },
+                "vice_knee_airbag": {
+                    "value": "-"
+                },
+                "engine_description": {
+                    "value": "2.0T 220\u9a6c\u529b L4"
+                },
+                "rear_window_sunshade": {
+                    "value": "-"
+                },
+                "jb": {
+                    "value": "\u4e2d\u578b\u8f66"
+                },
+                "second_row_seat_down_ratio_3": {
+                    "value": "40:60"
+                },
+                "power_outlet": {
+                    "value": "-"
+                },
+                "main_drive_seat_adjustment": {
+                    "value": "\u25cf"
+                },
+                "rear_seat_belt": {
+                    "value": "-"
+                },
+                "front_parking_radar": {
+                    "value": "\u25cf"
+                },
+                "headlight_height_adjustment": {
+                    "value": "\u25cf"
+                },
+                "headlamp_follow_up": {
+                    "value": "\u25cf"
+                },
+                "wheelbase": {
+                    "value": "2871",
+                    "compare_value": 2871.0
+                },
+                "engine_sas_tech": {
+                    "value": "\u25cf"
+                },
+                "length": {
+                    "value": "4933",
+                    "compare_value": 4933.0
+                },
+                "sports_appearance_kit": {
+                    "value": "-"
+                },
+                "air_purification": {
+                    "value": "\u25cf"
+                },
+                "car_body_structure": {
+                    "value": "\u627f\u8f7d\u5f0f"
+                },
+                "main_drive_back_and_forth_adjustment_v2": {
+                    "value": "\u25cf"
+                },
+                "front_airbag": {
+                    "value": "\u25cf"
+                },
+                "vice_drive_back_and_forth_adjustment_v2": {
+                    "value": "\u25cf"
+                },
+                "main_airbag": {
+                    "value": "\u25cf"
+                },
+                "back_armrest": {
+                    "value": "\u25cf"
+                },
+                "front_electric_window": {
+                    "value": "\u25cf"
+                },
+                "reversing_camera": {
+                    "value": "\u25cf"
+                },
+                "front_electric_max_power": {
+                    "value": "-",
+                    "compare_value": -2
+                },
+                "system_power": {
+                    "value": "-",
+                    "compare_value": -2
+                },
+                "front_seat_heating": {
+                    "value": "\u25cf"
+                },
+                "central_differential_structure": {
+                    "value": "-"
+                },
+                "second_row_seat_head_adjustment_v3": {
+                    "value": "\u25cf"
+                },
+                "rear_touch_control_system_v2": {
+                    "value": "-"
+                },
+                "period": {
+                    "value": "3\u5e74\u621610\u4e07\u516c\u91cc"
+                },
+                "cylinder_volume_ml": {
+                    "value": "1984",
+                    "compare_value": 1984.0
+                },
+                "gearbox_type": {
+                    "value": "\u6e7f\u5f0f\u53cc\u79bb\u5408\u53d8\u901f\u7bb1\uff08DCT\uff09"
+                },
+                "max_grade": {
+                    "value": "-"
+                },
+                "full_load_weight": {
+                    "value": "2055"
+                },
+                "window_anti_clip_function": {
+                    "value": "\u25cf"
+                },
+                "fuel_label": {
+                    "value": "95#"
+                },
+                "rear_exhaust": {
+                    "value": "\u25cf"
+                },
+                "fourwheel_drive_type": {
+                    "value": "-"
+                },
+                "steer_wheel_heating": {
+                    "value": "\u25cf"
+                },
+                "headlamp_rain_fog_mode_v3": {
+                    "value": "-"
+                },
+                "front_electric_max_torque": {
+                    "value": "-",
+                    "compare_value": -2
+                },
+                "second_row_seat_memory_v2": {
+                    "value": "-"
+                },
+                "explosion_tire": {
+                    "value": "-"
+                },
+                "second_row_seat_lumbar_adjustment_v3": {
+                    "value": "-"
+                },
+                "fast_charge_electricity": {
+                    "value": "-"
+                },
+                "mobile_wireless_charging": {
+                    "value": "\u25cf"
+                },
+                "main_drive_height_adjustment_v2": {
+                    "value": "\u25cf"
+                },
+                "front_brake_type": {
+                    "value": "\u901a\u98ce\u76d8\u5f0f",
+                    "compare_value": 8
+                },
+                "spare_tire_specification_2": {
+                    "value": "\u975e\u5168\u5c3a\u5bf8"
+                },
+                "active_closed_inlet_grid_v3": {
+                    "value": "-"
+                },
+                "width": {
+                    "value": "1836",
+                    "compare_value": 1836.0
+                },
+                "keyless_start": {
+                    "value": "\u25cf"
+                },
+                "headlamp_delay_off_v3": {
+                    "value": "\u25cf"
+                },
+                "car_call_v3": {
+                    "value": "-"
+                },
+                "ota_upgrade_v3": {
+                    "value": "-"
+                },
+                "rear_electric_max_torque": {
+                    "value": "-",
+                    "compare_value": -2
+                },
+                "position_service": {
+                    "value": "-"
+                },
+                "rain_induction_wiper": {
+                    "value": "\u25cf"
+                },
+                "lcd_dashboard_size_v2_10.2": {
+                    "value": "10.2"
+                },
+                "rear_track": {
+                    "value": "1570",
+                    "compare_value": 1570.0
+                },
+                "gps": {
+                    "value": "\u25cf"
+                },
+                "main_drive_window_sunshade_mirror_v2": {
+                    "is_optional": 0,
+                    "value": "\u25cf \u4e3b\u9a7e\u9a76\u4f4d+\u6709\u7167\u660e"
+                },
+                "automatic_drive_level_v2_3": {
+                    "value": "L2\u7ea7"
+                },
+                "side_air_curtain": {
+                    "value": "\u25cf"
+                },
+                "dow_open_door_warning_system_v3": {
+                    "value": "-"
+                },
+                "electric_back_door": {
+                    "value": "\u25cf"
+                },
+                "vice_drive_pillow_adjustment_v2": {
+                    "value": "\u25cf"
+                },
+                "brake_energy_regeneration_v3": {
+                    "value": "\u25cf"
+                },
+                "third_row_seat_massage_v3": {
+                    "value": "-"
+                },
+                "sliding_door_0": {
+                    "is_optional": 0,
+                    "value": "-"
+                },
+                "sound_brand_29": {
+                    "value": "\u4e39\u62ff"
+                },
+                "box_treasure_0": {
+                    "is_optional": 0,
+                    "value": "-"
+                },
+                "power_steering_type": {
+                    "value": "\u7535\u52a8\u52a9\u529b"
+                },
+                "abs_anti_lock": {
+                    "value": "\u25cf"
+                },
+                "body_struct": {
+                    "value": "\u4e09\u53a2\u8f66"
+                },
+                "fuel_form": {
+                    "value": "\u6c7d\u6cb9"
+                },
+                "lane_warning_system": {
+                    "value": "\u25cf"
+                },
+                "headlight_clean_function": {
+                    "value": "-"
+                },
+                "front_seat_ventilation": {
+                    "value": "\u25cf"
+                },
+                "lcd_dashboard_type_v2_1": {
+                    "value": "\u5168\u6db2\u6676"
+                },
+                "car_tv": {
+                    "value": "-"
+                },
+                "adaptive_light": {
+                    "value": "\u25cf"
+                },
+                "max_power_revolution": {
+                    "value": "4500-6200"
+                },
+                "wade_sensing_system_v3": {
+                    "value": "-"
+                },
+                "drive_mode_v2_6": {
+                    "is_optional": 0,
+                    "value": "\u25cf"
+                },
+                "length_width_height": {
+                    "value": "4933x1836x1469"
+                },
+                "rear_wiper": {
+                    "value": "-"
+                },
+                "second_row_seat_leg_adjustment_v3": {
+                    "value": "-"
+                },
+                "elec_steer_wheel_adjustment": {
+                    "value": "-"
+                },
+                "seat_count": {
+                    "value": "5"
+                },
+                "total_electric_torque": {
+                    "value": "-",
+                    "compare_value": -2
+                },
+                "speech_recognition_system_v2": {
+                    "value": "\u25cf"
+                },
+                "max_torque_revolution": {
+                    "value": "1500-4400"
+                },
+                "electric_drive_number": {
+                    "value": "-"
+                },
+                "low_headlamp_type_2": {
+                    "value": "LED"
+                },
+                "keyless_entry_v2_2": {
+                    "value": "\u524d\u6392"
+                },
+                "max_power": {
+                    "value": "162",
+                    "compare_value": 162.0
+                },
+                "air_control_model_2": {
+                    "value": "\u81ea\u52a8"
+                },
+                "battery_energy_density_v3": {
+                    "value": "-",
+                    "compare_value": -2
+                },
+                "vice_cushion_airbag_v3": {
+                    "value": "-"
+                },
+                "stream_media_inside_mirror": {
+                    "value": "-"
+                },
+                "fatigue_driving_warning": {
+                    "value": "\u25cf"
+                },
+                "steer_wheel_adjustment_3": {
+                    "value": "\u4e0a\u4e0b+\u524d\u540e"
+                },
+                "interior_light_v2_10\u8272": {
+                    "value": "10\u8272"
+                },
+                "driving_computer_display_screen_v2_1": {
+                    "value": "\u5f69\u8272"
+                },
+                "power_consumption_v3": {
+                    "value": "-",
+                    "compare_value": -2
+                },
+                "oil_supply": {
+                    "value": "\u7f38\u5185\u76f4\u55b7",
+                    "compare_value": 8
+                },
+                "rear_traffic_warning": {
+                    "value": "-"
+                },
+                "cylinder_arrangement": {
+                    "value": "L",
+                    "compare_value": 7
+                },
+                "second_row_seat_electrical_adjustment": {
+                    "value": "-"
+                },
+                "air_suspension": {
+                    "value": "-"
+                },
+                "central_differential_lock": {
+                    "value": "-"
+                },
+                "vice_drive_height_adjustment_v2": {
+                    "value": "\u25cf"
+                },
+                "stalls": {
+                    "value": "7",
+                    "compare_value": 7.0
+                },
+                "park_brake_type": {
+                    "value": "\u7535\u5b50\u9a7b\u8f66"
+                },
+                "active_brake": {
+                    "value": "\u25cf"
+                },
+                "rear_suspension_form": {
+                    "value": "\u591a\u8fde\u6746\u5f0f\u72ec\u7acb\u60ac\u6302"
+                },
+                "second_independent_seat": {
+                    "value": "-"
+                },
+                "vice_drive_leg_adjustment_v2": {
+                    "value": "-"
+                },
+                "car_refrigerator": {
+                    "value": "-"
+                },
+                "drag_coefficient": {
+                    "value": "-"
+                },
+                "driver_form": {
+                    "value": "\u524d\u7f6e\u524d\u9a71"
+                },
+                "electric_door": {
+                    "value": "-"
+                },
+                "center_screen_size_9.2\u540b": {
+                    "value": "9.2\u540b"
+                },
+                "brake_force": {
+                    "value": "\u25cf"
+                },
+                "market_time": {
+                    "value": "2021.02"
+                },
+                "rear_airbag": {
+                    "value": "\u25cf"
+                },
+                "rear_seat_massage": {
+                    "value": "-"
+                },
+                "battery_type_v3": {
+                    "value": "-"
+                },
+                "rear_parking_radar": {
+                    "value": "\u25cf"
+                },
+                "window_one_key_lift_2": {
+                    "value": "\u5168\u8f66"
+                },
+                "seat_material_1": {
+                    "value": "\u771f\u76ae"
+                },
+                "audio_and_video_system_0": {
+                    "is_optional": 0,
+                    "value": "-"
+                },
+                "rear_center_airbag_v2": {
+                    "value": "-"
+                },
+                "rear_makeup_mirror_v2": {
+                    "is_optional": 0,
+                    "value": "-"
+                },
+                "alloy_wheel": {
+                    "value": "\u25cf"
+                },
+                "rear_seat_ventilation": {
+                    "value": "-"
+                },
+                "engine_remote_start": {
+                    "value": "-"
+                },
+                "car_purifier_v3": {
+                    "value": "\u25cf"
+                },
+                "variable_steer_system": {
+                    "value": "-"
+                },
+                "valves_per_cylinder_nums": {
+                    "value": "4",
+                    "compare_value": 4.0
+                },
+                "energy_elect_max_power": {
+                    "value": "162(220Ps)",
+                    "compare_value": 162.0
+                },
+                "curb_weight": {
+                    "value": "1595"
+                },
+                "second_row_seat_back_and_forth_adjustment": {
+                    "value": "-"
+                },
+                "main_knee_airbag": {
+                    "value": "\u25cf"
+                },
+                "rear_slip_method_0": {
+                    "is_optional": 0,
+                    "value": "-"
+                },
+                "rear_anti_slide_airbag_v3": {
+                    "value": "-"
+                },
+                "cylinder_head_material": {
+                    "value": "\u94dd",
+                    "compare_value": 8
+                },
+                "heated_nozzle_v3": {
+                    "value": "-"
+                },
+                "rear_lcd_screen": {
+                    "value": "-"
+                },
+                "compression_ratio_s": {
+                    "value": "-"
+                },
+                "front_armrest": {
+                    "value": "\u25cf"
+                },
+                "rear_seat_heating": {
+                    "value": "\u25cf"
+                },
+                "steep_slope": {
+                    "value": "-"
+                },
+                "multifunction_steer_wheel": {
+                    "value": "\u25cf"
+                },
+                "external_mirror_heat": {
+                    "value": "\u25cf"
+                },
+                "auto_park": {
+                    "value": "\u25cf"
+                },
+                "facial_recognition_v3": {
+                    "value": "-"
+                },
+                "model": {
+                    "value": "DKX"
+                },
+                "rear_brake_type": {
+                    "value": "\u5b9e\u5fc3\u76d8\u5f0f",
+                    "compare_value": 7
+                },
+                "seat_belt_prompted": {
+                    "value": "\u25cf"
+                },
+                "battery_temperature_management_system_cooling_v3": {
+                    "value": "-"
+                },
+                "external_mirror_auto_fold_v2": {
+                    "value": "\u25cf"
+                },
+                "sub_brand_name": {
+                    "value": "\u4e0a\u6c7d\u5927\u4f17"
+                },
+                "auto_park_entry": {
+                    "value": "\u25cf"
+                },
+                "mobile_system_v2_5": {
+                    "is_optional": 0,
+                    "value": "\u25cf"
+                },
+                "steer_wheel_memory": {
+                    "value": "-"
+                },
+                "pm25_filtrating_equipment_v2": {
+                    "value": "\u25cf"
+                },
+                "height": {
+                    "value": "1469",
+                    "compare_value": 1469.0
+                },
+                "full_speed_adaptive_cruise_v3": {
+                    "value": "\u25cf"
+                },
+                "departure_angle": {
+                    "value": "14.0"
+                },
+                "air_supply": {
+                    "value": "DOHC",
+                    "compare_value": 9
+                },
+                "battery_charge_time": {
+                    "value": "-"
+                },
+                "lane_keeping_assist_v2": {
+                    "value": "\u25cf"
+                },
+                "total_electric_power": {
+                    "value": "-",
+                    "compare_value": -2
+                },
+                "center_screen_1": {
+                    "value": "\u5927\u5c4f"
+                },
+                "steer_wheel_material_v3_3": {
+                    "value": "\u771f\u76ae"
+                },
+                "multimedia_interface_1": {
+                    "value": "USB/Type-C"
+                }
+            },
+            "car_name": "380TSI \u65d7\u8230\u7248",
+            "dealer_price_value": 23.99,
+            "dealer_text": "\u8be2\u5e95\u4ef7",
+            "series_type": "\u8f7f\u8f66",
+            "dealer_url": "sslocal://inquiry_price?series_id=398&series_name=%E5%B8%95%E8%90%A8%E7%89%B9&car_id=51529&car_name=2021%E6%AC%BE+380TSI+%E6%97%97%E8%88%B0%E7%89%88",
+            "series_name": "\u5e15\u8428\u7279",
+            "official_price": "28.29\u4e07",
+            "series_id": "398",
+            "dealer_price": "23.99\u4e07",
+            "type": 0,
+            "leads_dark_raw_data": null,
+            "car_year": "2021",
+            "car_id": "51529"
+        }]
+    },
+    "message": "data is load"
+}

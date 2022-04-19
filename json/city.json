@@ -1,0 +1,4019 @@
+{
+  "status": "1",
+  "message": "success",
+  "data": {
+    "list": [
+      {
+        "CityId": 1,
+        "CityName": "安徽",
+        "EngName": "anhui",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "A",
+        "RegionId": 340000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 820000,
+        "CityName": "澳门",
+        "EngName": "aomen",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "A",
+        "RegionId": 820000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 2,
+        "CityName": "北京市",
+        "EngName": "beijing",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "B",
+        "RegionId": 110000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 31,
+        "CityName": "重庆市",
+        "EngName": "chongqing",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "C",
+        "RegionId": 500000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 3,
+        "CityName": "福建",
+        "EngName": "fujian",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "F",
+        "RegionId": 350000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 4,
+        "CityName": "甘肃",
+        "EngName": "gansu",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "G",
+        "RegionId": 620000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 5,
+        "CityName": "广东",
+        "EngName": "guangdong",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "G",
+        "RegionId": 440000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 6,
+        "CityName": "广西",
+        "EngName": "guangxi",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "G",
+        "RegionId": 450000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 7,
+        "CityName": "贵州",
+        "EngName": "guizhou",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "G",
+        "RegionId": 520000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 8,
+        "CityName": "海南",
+        "EngName": "hainan",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "H",
+        "RegionId": 460000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 9,
+        "CityName": "河北",
+        "EngName": "hebei",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "H",
+        "RegionId": 130000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 11,
+        "CityName": "黑龙江",
+        "EngName": "heilongjiang",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "H",
+        "RegionId": 230000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 10,
+        "CityName": "河南",
+        "EngName": "henan",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "H",
+        "RegionId": 410000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 12,
+        "CityName": "湖北",
+        "EngName": "hubei",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "H",
+        "RegionId": 420000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 13,
+        "CityName": "湖南",
+        "EngName": "hunan",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "H",
+        "RegionId": 430000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 15,
+        "CityName": "江苏",
+        "EngName": "jiangsu",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "J",
+        "RegionId": 320000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 16,
+        "CityName": "江西",
+        "EngName": "jiangxi",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "J",
+        "RegionId": 360000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 14,
+        "CityName": "吉林",
+        "EngName": "jl",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "J",
+        "RegionId": 220000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 17,
+        "CityName": "辽宁",
+        "EngName": "liaoning",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "L",
+        "RegionId": 210000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 18,
+        "CityName": "内蒙古",
+        "EngName": "neimenggu",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "N",
+        "RegionId": 150000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 19,
+        "CityName": "宁夏",
+        "EngName": "ningxia",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "N",
+        "RegionId": 640000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 20,
+        "CityName": "青海",
+        "EngName": "qinghai",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "Q",
+        "RegionId": 630000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 23,
+        "CityName": "陕西",
+        "EngName": "shaanxi",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "S",
+        "RegionId": 610000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 21,
+        "CityName": "山东",
+        "EngName": "shandong",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "S",
+        "RegionId": 370000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 24,
+        "CityName": "上海市",
+        "EngName": "shanghai",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "S",
+        "RegionId": 310000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 22,
+        "CityName": "山西",
+        "EngName": "shanxi",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "S",
+        "RegionId": 140000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 25,
+        "CityName": "四川",
+        "EngName": "sichuan",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "S",
+        "RegionId": 510000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 710000,
+        "CityName": "台湾",
+        "EngName": "taiwan",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "T",
+        "RegionId": 710000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 26,
+        "CityName": "天津市",
+        "EngName": "tianjin",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "T",
+        "RegionId": 120000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 810000,
+        "CityName": "香港",
+        "EngName": "xianggang",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "X",
+        "RegionId": 810000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 28,
+        "CityName": "新疆",
+        "EngName": "xinjiang",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "X",
+        "RegionId": 650000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 27,
+        "CityName": "西藏",
+        "EngName": "xizang",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "X",
+        "RegionId": 540000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 29,
+        "CityName": "云南",
+        "EngName": "yunnan",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "Y",
+        "RegionId": 530000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 30,
+        "CityName": "浙江",
+        "EngName": "zhejiang",
+        "CityLevel": 0,
+        "ParentId": 0,
+        "Initial": "Z",
+        "RegionId": 330000,
+        "ParentRegionId": 1000000
+      },
+      {
+        "CityId": 201,
+        "CityName": "北京",
+        "EngName": "beijing",
+        "CityLevel": 1,
+        "ParentId": 2,
+        "Initial": "B",
+        "RegionId": 110100,
+        "ParentRegionId": 110000
+      },
+      {
+        "CityId": 1401,
+        "CityName": "长春",
+        "EngName": "changchun",
+        "CityLevel": 1,
+        "ParentId": 14,
+        "Initial": "C",
+        "RegionId": 220100,
+        "ParentRegionId": 220000
+      },
+      {
+        "CityId": 1301,
+        "CityName": "长沙",
+        "EngName": "changsha",
+        "CityLevel": 1,
+        "ParentId": 13,
+        "Initial": "C",
+        "RegionId": 430100,
+        "ParentRegionId": 430000
+      },
+      {
+        "CityId": 2501,
+        "CityName": "成都",
+        "EngName": "chengdu",
+        "CityLevel": 1,
+        "ParentId": 25,
+        "Initial": "C",
+        "RegionId": 510100,
+        "ParentRegionId": 510000
+      },
+      {
+        "CityId": 3101,
+        "CityName": "重庆",
+        "EngName": "chongqing",
+        "CityLevel": 1,
+        "ParentId": 31,
+        "Initial": "C",
+        "RegionId": 500100,
+        "ParentRegionId": 500000
+      },
+      {
+        "CityId": 301,
+        "CityName": "福州",
+        "EngName": "fuzhou",
+        "CityLevel": 1,
+        "ParentId": 3,
+        "Initial": "F",
+        "RegionId": 350100,
+        "ParentRegionId": 350000
+      },
+      {
+        "CityId": 501,
+        "CityName": "广州",
+        "EngName": "guangzhou",
+        "CityLevel": 1,
+        "ParentId": 5,
+        "Initial": "G",
+        "RegionId": 440100,
+        "ParentRegionId": 440000
+      },
+      {
+        "CityId": 701,
+        "CityName": "贵阳",
+        "EngName": "guiyang",
+        "CityLevel": 1,
+        "ParentId": 7,
+        "Initial": "G",
+        "RegionId": 520100,
+        "ParentRegionId": 520000
+      },
+      {
+        "CityId": 1101,
+        "CityName": "哈尔滨",
+        "EngName": "haerbin",
+        "CityLevel": 1,
+        "ParentId": 11,
+        "Initial": "H",
+        "RegionId": 230100,
+        "ParentRegionId": 230000
+      },
+      {
+        "CityId": 801,
+        "CityName": "海口",
+        "EngName": "haikou",
+        "CityLevel": 1,
+        "ParentId": 8,
+        "Initial": "H",
+        "RegionId": 460100,
+        "ParentRegionId": 460000
+      },
+      {
+        "CityId": 3001,
+        "CityName": "杭州",
+        "EngName": "hangzhou",
+        "CityLevel": 1,
+        "ParentId": 30,
+        "Initial": "H",
+        "RegionId": 330100,
+        "ParentRegionId": 330000
+      },
+      {
+        "CityId": 101,
+        "CityName": "合肥",
+        "EngName": "hefei",
+        "CityLevel": 1,
+        "ParentId": 1,
+        "Initial": "H",
+        "RegionId": 340100,
+        "ParentRegionId": 340000
+      },
+      {
+        "CityId": 1801,
+        "CityName": "呼和浩特",
+        "EngName": "huhehaote",
+        "CityLevel": 1,
+        "ParentId": 18,
+        "Initial": "H",
+        "RegionId": 150100,
+        "ParentRegionId": 150000
+      },
+      {
+        "CityId": 2101,
+        "CityName": "济南",
+        "EngName": "jinan",
+        "CityLevel": 1,
+        "ParentId": 21,
+        "Initial": "J",
+        "RegionId": 370100,
+        "ParentRegionId": 370000
+      },
+      {
+        "CityId": 2901,
+        "CityName": "昆明",
+        "EngName": "kunming",
+        "CityLevel": 1,
+        "ParentId": 29,
+        "Initial": "K",
+        "RegionId": 530100,
+        "ParentRegionId": 530000
+      },
+      {
+        "CityId": 401,
+        "CityName": "兰州",
+        "EngName": "lanzhou",
+        "CityLevel": 1,
+        "ParentId": 4,
+        "Initial": "L",
+        "RegionId": 620100,
+        "ParentRegionId": 620000
+      },
+      {
+        "CityId": 2701,
+        "CityName": "拉萨",
+        "EngName": "lasa",
+        "CityLevel": 1,
+        "ParentId": 27,
+        "Initial": "L",
+        "RegionId": 540100,
+        "ParentRegionId": 540000
+      },
+      {
+        "CityId": 1601,
+        "CityName": "南昌",
+        "EngName": "nanchang",
+        "CityLevel": 1,
+        "ParentId": 16,
+        "Initial": "N",
+        "RegionId": 360100,
+        "ParentRegionId": 360000
+      },
+      {
+        "CityId": 1501,
+        "CityName": "南京",
+        "EngName": "nanjing",
+        "CityLevel": 1,
+        "ParentId": 15,
+        "Initial": "N",
+        "RegionId": 320100,
+        "ParentRegionId": 320000
+      },
+      {
+        "CityId": 601,
+        "CityName": "南宁",
+        "EngName": "nanning",
+        "CityLevel": 1,
+        "ParentId": 6,
+        "Initial": "N",
+        "RegionId": 450100,
+        "ParentRegionId": 450000
+      },
+      {
+        "CityId": 2401,
+        "CityName": "上海",
+        "EngName": "shanghai",
+        "CityLevel": 1,
+        "ParentId": 24,
+        "Initial": "S",
+        "RegionId": 310100,
+        "ParentRegionId": 310000
+      },
+      {
+        "CityId": 1701,
+        "CityName": "沈阳",
+        "EngName": "shenyang",
+        "CityLevel": 1,
+        "ParentId": 17,
+        "Initial": "S",
+        "RegionId": 210100,
+        "ParentRegionId": 210000
+      },
+      {
+        "CityId": 901,
+        "CityName": "石家庄",
+        "EngName": "shijiazhuang",
+        "CityLevel": 1,
+        "ParentId": 9,
+        "Initial": "S",
+        "RegionId": 130100,
+        "ParentRegionId": 130000
+      },
+      {
+        "CityId": 2201,
+        "CityName": "太原",
+        "EngName": "taiyuan",
+        "CityLevel": 1,
+        "ParentId": 22,
+        "Initial": "T",
+        "RegionId": 140100,
+        "ParentRegionId": 140000
+      },
+      {
+        "CityId": 2601,
+        "CityName": "天津",
+        "EngName": "tianjin",
+        "CityLevel": 1,
+        "ParentId": 26,
+        "Initial": "T",
+        "RegionId": 120100,
+        "ParentRegionId": 120000
+      },
+      {
+        "CityId": 1201,
+        "CityName": "武汉",
+        "EngName": "wuhan",
+        "CityLevel": 1,
+        "ParentId": 12,
+        "Initial": "W",
+        "RegionId": 420100,
+        "ParentRegionId": 420000
+      },
+      {
+        "CityId": 2801,
+        "CityName": "乌鲁木齐",
+        "EngName": "wulumuqi",
+        "CityLevel": 1,
+        "ParentId": 28,
+        "Initial": "W",
+        "RegionId": 650100,
+        "ParentRegionId": 650000
+      },
+      {
+        "CityId": 2301,
+        "CityName": "西安",
+        "EngName": "xian",
+        "CityLevel": 1,
+        "ParentId": 23,
+        "Initial": "X",
+        "RegionId": 610100,
+        "ParentRegionId": 610000
+      },
+      {
+        "CityId": 2001,
+        "CityName": "西宁",
+        "EngName": "xining",
+        "CityLevel": 1,
+        "ParentId": 20,
+        "Initial": "X",
+        "RegionId": 630100,
+        "ParentRegionId": 630000
+      },
+      {
+        "CityId": 1901,
+        "CityName": "银川",
+        "EngName": "yinchuan",
+        "CityLevel": 1,
+        "ParentId": 19,
+        "Initial": "Y",
+        "RegionId": 640100,
+        "ParentRegionId": 640000
+      },
+      {
+        "CityId": 1001,
+        "CityName": "郑州",
+        "EngName": "zhengzhou",
+        "CityLevel": 1,
+        "ParentId": 10,
+        "Initial": "Z",
+        "RegionId": 410100,
+        "ParentRegionId": 410000
+      },
+      {
+        "CityId": 2535,
+        "CityName": "阿坝",
+        "EngName": "abazangzuqiangzuzizhizhou",
+        "CityLevel": 2,
+        "ParentId": 25,
+        "Initial": "A",
+        "RegionId": 513200,
+        "ParentRegionId": 510000
+      },
+      {
+        "CityId": 2829,
+        "CityName": "阿克苏",
+        "EngName": "akesu",
+        "CityLevel": 2,
+        "ParentId": 28,
+        "Initial": "A",
+        "RegionId": 652900,
+        "ParentRegionId": 650000
+      },
+      {
+        "CityId": 1830,
+        "CityName": "阿拉善盟",
+        "EngName": "alashanmeng",
+        "CityLevel": 2,
+        "ParentId": 18,
+        "Initial": "A",
+        "RegionId": 152900,
+        "ParentRegionId": 150000
+      },
+      {
+        "CityId": 2834,
+        "CityName": "阿勒泰",
+        "EngName": "aletai",
+        "CityLevel": 2,
+        "ParentId": 28,
+        "Initial": "A",
+        "RegionId": 654300,
+        "ParentRegionId": 650000
+      },
+      {
+        "CityId": 2707,
+        "CityName": "阿里",
+        "EngName": "alidiqu",
+        "CityLevel": 2,
+        "ParentId": 27,
+        "Initial": "A",
+        "RegionId": 542500,
+        "ParentRegionId": 540000
+      },
+      {
+        "CityId": 2306,
+        "CityName": "安康",
+        "EngName": "ankang",
+        "CityLevel": 2,
+        "ParentId": 23,
+        "Initial": "A",
+        "RegionId": 610900,
+        "ParentRegionId": 610000
+      },
+      {
+        "CityId": 102,
+        "CityName": "安庆",
+        "EngName": "anqing",
+        "CityLevel": 2,
+        "ParentId": 1,
+        "Initial": "A",
+        "RegionId": 340800,
+        "ParentRegionId": 340000
+      },
+      {
+        "CityId": 1710,
+        "CityName": "鞍山",
+        "EngName": "anshan",
+        "CityLevel": 2,
+        "ParentId": 17,
+        "Initial": "A",
+        "RegionId": 210300,
+        "ParentRegionId": 210000
+      },
+      {
+        "CityId": 705,
+        "CityName": "安顺",
+        "EngName": "anshun",
+        "CityLevel": 2,
+        "ParentId": 7,
+        "Initial": "A",
+        "RegionId": 520400,
+        "ParentRegionId": 520000
+      },
+      {
+        "CityId": 1014,
+        "CityName": "安阳",
+        "EngName": "anyang",
+        "CityLevel": 2,
+        "ParentId": 10,
+        "Initial": "A",
+        "RegionId": 410500,
+        "ParentRegionId": 410000
+      },
+      {
+        "CityId": 1412,
+        "CityName": "白城",
+        "EngName": "baicheng",
+        "CityLevel": 2,
+        "ParentId": 14,
+        "Initial": "B",
+        "RegionId": 220800,
+        "ParentRegionId": 220000
+      },
+      {
+        "CityId": 605,
+        "CityName": "百色",
+        "EngName": "baise",
+        "CityLevel": 2,
+        "ParentId": 6,
+        "Initial": "B",
+        "RegionId": 451000,
+        "ParentRegionId": 450000
+      },
+      {
+        "CityId": 1406,
+        "CityName": "白山",
+        "EngName": "baishan",
+        "CityLevel": 2,
+        "ParentId": 14,
+        "Initial": "B",
+        "RegionId": 220600,
+        "ParentRegionId": 220000
+      },
+      {
+        "CityId": 418,
+        "CityName": "白银",
+        "EngName": "baiyin",
+        "CityLevel": 2,
+        "ParentId": 4,
+        "Initial": "B",
+        "RegionId": 620400,
+        "ParentRegionId": 620000
+      },
+      {
+        "CityId": 910,
+        "CityName": "保定",
+        "EngName": "baoding",
+        "CityLevel": 2,
+        "ParentId": 9,
+        "Initial": "B",
+        "RegionId": 130600,
+        "ParentRegionId": 130000
+      },
+      {
+        "CityId": 2305,
+        "CityName": "宝鸡",
+        "EngName": "baoji",
+        "CityLevel": 2,
+        "ParentId": 23,
+        "Initial": "B",
+        "RegionId": 610300,
+        "ParentRegionId": 610000
+      },
+      {
+        "CityId": 2907,
+        "CityName": "保山",
+        "EngName": "baoshan1",
+        "CityLevel": 2,
+        "ParentId": 29,
+        "Initial": "B",
+        "RegionId": 530500,
+        "ParentRegionId": 530000
+      },
+      {
+        "CityId": 1802,
+        "CityName": "包头",
+        "EngName": "baotou",
+        "CityLevel": 2,
+        "ParentId": 18,
+        "Initial": "B",
+        "RegionId": 150200,
+        "ParentRegionId": 150000
+      },
+      {
+        "CityId": 1824,
+        "CityName": "巴彦淖尔",
+        "EngName": "bayannaoer",
+        "CityLevel": 2,
+        "ParentId": 18,
+        "Initial": "B",
+        "RegionId": 150800,
+        "ParentRegionId": 150000
+      },
+      {
+        "CityId": 2822,
+        "CityName": "库尔勒",
+        "EngName": "bayinguolengmengguzizhizhou",
+        "CityLevel": 2,
+        "ParentId": 28,
+        "Initial": "B",
+        "RegionId": 652800,
+        "ParentRegionId": 650000
+      },
+      {
+        "CityId": 2516,
+        "CityName": "巴中",
+        "EngName": "bazhong",
+        "CityLevel": 2,
+        "ParentId": 25,
+        "Initial": "B",
+        "RegionId": 511900,
+        "ParentRegionId": 510000
+      },
+      {
+        "CityId": 604,
+        "CityName": "北海",
+        "EngName": "beihai",
+        "CityLevel": 2,
+        "ParentId": 6,
+        "Initial": "B",
+        "RegionId": 450500,
+        "ParentRegionId": 450000
+      },
+      {
+        "CityId": 103,
+        "CityName": "蚌埠",
+        "EngName": "bengbu",
+        "CityLevel": 2,
+        "ParentId": 1,
+        "Initial": "B",
+        "RegionId": 340300,
+        "ParentRegionId": 340000
+      },
+      {
+        "CityId": 1709,
+        "CityName": "本溪",
+        "EngName": "benxi",
+        "CityLevel": 2,
+        "ParentId": 17,
+        "Initial": "B",
+        "RegionId": 210500,
+        "ParentRegionId": 210000
+      },
+      {
+        "CityId": 717,
+        "CityName": "毕节",
+        "EngName": "bijie",
+        "CityLevel": 2,
+        "ParentId": 7,
+        "Initial": "B",
+        "RegionId": 520500,
+        "ParentRegionId": 520000
+      },
+      {
+        "CityId": 2113,
+        "CityName": "滨州",
+        "EngName": "binzhou",
+        "CityLevel": 2,
+        "ParentId": 21,
+        "Initial": "B",
+        "RegionId": 371600,
+        "ParentRegionId": 370000
+      },
+      {
+        "CityId": 2821,
+        "CityName": "博乐",
+        "EngName": "boertalamengguzizhizhou",
+        "CityLevel": 2,
+        "ParentId": 28,
+        "Initial": "B",
+        "RegionId": 652700,
+        "ParentRegionId": 650000
+      },
+      {
+        "CityId": 125,
+        "CityName": "亳州",
+        "EngName": "bozhou",
+        "CityLevel": 2,
+        "ParentId": 1,
+        "Initial": "B",
+        "RegionId": 341600,
+        "ParentRegionId": 340000
+      },
+      {
+        "CityId": 909,
+        "CityName": "沧州",
+        "EngName": "cangzhou",
+        "CityLevel": 2,
+        "ParentId": 9,
+        "Initial": "C",
+        "RegionId": 130900,
+        "ParentRegionId": 130000
+      },
+      {
+        "CityId": 1303,
+        "CityName": "常德",
+        "EngName": "changde",
+        "CityLevel": 2,
+        "ParentId": 13,
+        "Initial": "C",
+        "RegionId": 430700,
+        "ParentRegionId": 430000
+      },
+      {
+        "CityId": 2709,
+        "CityName": "昌都",
+        "EngName": "changdushi",
+        "CityLevel": 2,
+        "ParentId": 27,
+        "Initial": "C",
+        "RegionId": 540300,
+        "ParentRegionId": 540000
+      },
+      {
+        "CityId": 652300,
+        "CityName": "昌吉",
+        "EngName": "changji",
+        "CityLevel": 2,
+        "ParentId": 28,
+        "Initial": "C",
+        "RegionId": 652300,
+        "ParentRegionId": 650000
+      },
+      {
+        "CityId": 2206,
+        "CityName": "长治",
+        "EngName": "changzhi",
+        "CityLevel": 2,
+        "ParentId": 22,
+        "Initial": "C",
+        "RegionId": 140400,
+        "ParentRegionId": 140000
+      },
+      {
+        "CityId": 1505,
+        "CityName": "常州",
+        "EngName": "changzhou",
+        "CityLevel": 2,
+        "ParentId": 15,
+        "Initial": "C",
+        "RegionId": 320400,
+        "ParentRegionId": 320000
+      },
+      {
+        "CityId": 1707,
+        "CityName": "朝阳",
+        "EngName": "chaoyang",
+        "CityLevel": 2,
+        "ParentId": 17,
+        "Initial": "C",
+        "RegionId": 211300,
+        "ParentRegionId": 210000
+      },
+      {
+        "CityId": 510,
+        "CityName": "潮州",
+        "EngName": "chaozhou",
+        "CityLevel": 2,
+        "ParentId": 5,
+        "Initial": "C",
+        "RegionId": 445100,
+        "ParentRegionId": 440000
+      },
+      {
+        "CityId": 912,
+        "CityName": "承德",
+        "EngName": "chengde",
+        "CityLevel": 2,
+        "ParentId": 9,
+        "Initial": "C",
+        "RegionId": 130800,
+        "ParentRegionId": 130000
+      },
+      {
+        "CityId": 1302,
+        "CityName": "郴州",
+        "EngName": "chenzhou",
+        "CityLevel": 2,
+        "ParentId": 13,
+        "Initial": "C",
+        "RegionId": 431000,
+        "ParentRegionId": 430000
+      },
+      {
+        "CityId": 1803,
+        "CityName": "赤峰",
+        "EngName": "chifeng",
+        "CityLevel": 2,
+        "ParentId": 18,
+        "Initial": "C",
+        "RegionId": 150400,
+        "ParentRegionId": 150000
+      },
+      {
+        "CityId": 105,
+        "CityName": "池州",
+        "EngName": "chizhou",
+        "CityLevel": 2,
+        "ParentId": 1,
+        "Initial": "C",
+        "RegionId": 341700,
+        "ParentRegionId": 340000
+      },
+      {
+        "CityId": 621,
+        "CityName": "崇左",
+        "EngName": "chongzuo",
+        "CityLevel": 2,
+        "ParentId": 6,
+        "Initial": "C",
+        "RegionId": 451400,
+        "ParentRegionId": 450000
+      },
+      {
+        "CityId": 532300,
+        "CityName": "楚雄",
+        "EngName": "chuxiong",
+        "CityLevel": 2,
+        "ParentId": 29,
+        "Initial": "C",
+        "RegionId": 532300,
+        "ParentRegionId": 530000
+      },
+      {
+        "CityId": 116,
+        "CityName": "滁州",
+        "EngName": "chuzhou",
+        "CityLevel": 2,
+        "ParentId": 1,
+        "Initial": "C",
+        "RegionId": 341100,
+        "ParentRegionId": 340000
+      },
+      {
+        "CityId": 532900,
+        "CityName": "大理",
+        "EngName": "dali",
+        "CityLevel": 2,
+        "ParentId": 29,
+        "Initial": "D",
+        "RegionId": 532900,
+        "ParentRegionId": 530000
+      },
+      {
+        "CityId": 1708,
+        "CityName": "大连",
+        "EngName": "dalian",
+        "CityLevel": 2,
+        "ParentId": 17,
+        "Initial": "D",
+        "RegionId": 210200,
+        "ParentRegionId": 210000
+      },
+      {
+        "CityId": 1702,
+        "CityName": "丹东",
+        "EngName": "dandong",
+        "CityLevel": 2,
+        "ParentId": 17,
+        "Initial": "D",
+        "RegionId": 210600,
+        "ParentRegionId": 210000
+      },
+      {
+        "CityId": 805,
+        "CityName": "儋州",
+        "EngName": "danzhoushi",
+        "CityLevel": 2,
+        "ParentId": 8,
+        "Initial": "D",
+        "RegionId": 460400,
+        "ParentRegionId": 460000
+      },
+      {
+        "CityId": 1102,
+        "CityName": "大庆",
+        "EngName": "daqing",
+        "CityLevel": 2,
+        "ParentId": 11,
+        "Initial": "D",
+        "RegionId": 230600,
+        "ParentRegionId": 230000
+      },
+      {
+        "CityId": 2202,
+        "CityName": "大同",
+        "EngName": "datong",
+        "CityLevel": 2,
+        "ParentId": 22,
+        "Initial": "D",
+        "RegionId": 140200,
+        "ParentRegionId": 140000
+      },
+      {
+        "CityId": 1136,
+        "CityName": "大兴安岭",
+        "EngName": "daxinganlingdiqu",
+        "CityLevel": 2,
+        "ParentId": 11,
+        "Initial": "D",
+        "RegionId": 232700,
+        "ParentRegionId": 230000
+      },
+      {
+        "CityId": 2532,
+        "CityName": "达州",
+        "EngName": "dazhou",
+        "CityLevel": 2,
+        "ParentId": 25,
+        "Initial": "D",
+        "RegionId": 511700,
+        "ParentRegionId": 510000
+      },
+      {
+        "CityId": 2925,
+        "CityName": "德宏",
+        "EngName": "dehongdaizujingpozuzizhizhou",
+        "CityLevel": 2,
+        "ParentId": 29,
+        "Initial": "D",
+        "RegionId": 533100,
+        "ParentRegionId": 530000
+      },
+      {
+        "CityId": 2511,
+        "CityName": "德阳",
+        "EngName": "deyang",
+        "CityLevel": 2,
+        "ParentId": 25,
+        "Initial": "D",
+        "RegionId": 510600,
+        "ParentRegionId": 510000
+      },
+      {
+        "CityId": 1015,
+        "CityName": "德州",
+        "EngName": "dezhou",
+        "CityLevel": 2,
+        "ParentId": 21,
+        "Initial": "D",
+        "RegionId": 371400,
+        "ParentRegionId": 370000
+      },
+      {
+        "CityId": 402,
+        "CityName": "定西",
+        "EngName": "dingxi",
+        "CityLevel": 2,
+        "ParentId": 4,
+        "Initial": "D",
+        "RegionId": 621100,
+        "ParentRegionId": 620000
+      },
+      {
+        "CityId": 2928,
+        "CityName": "迪庆",
+        "EngName": "diqingzangzuzizhizhou",
+        "CityLevel": 2,
+        "ParentId": 29,
+        "Initial": "D",
+        "RegionId": 533400,
+        "ParentRegionId": 530000
+      },
+      {
+        "CityId": 504,
+        "CityName": "东莞",
+        "EngName": "dongguan",
+        "CityLevel": 2,
+        "ParentId": 5,
+        "Initial": "D",
+        "RegionId": 441900,
+        "ParentRegionId": 440000
+      },
+      {
+        "CityId": 2110,
+        "CityName": "东营",
+        "EngName": "dongying",
+        "CityLevel": 2,
+        "ParentId": 21,
+        "Initial": "D",
+        "RegionId": 370500,
+        "ParentRegionId": 370000
+      },
+      {
+        "CityId": 1808,
+        "CityName": "鄂尔多斯",
+        "EngName": "eerduosi",
+        "CityLevel": 2,
+        "ParentId": 18,
+        "Initial": "E",
+        "RegionId": 150600,
+        "ParentRegionId": 150000
+      },
+      {
+        "CityId": 422800,
+        "CityName": "恩施",
+        "EngName": "enshi",
+        "CityLevel": 2,
+        "ParentId": 12,
+        "Initial": "E",
+        "RegionId": 422800,
+        "ParentRegionId": 420000
+      },
+      {
+        "CityId": 1216,
+        "CityName": "鄂州",
+        "EngName": "ezhou",
+        "CityLevel": 2,
+        "ParentId": 12,
+        "Initial": "E",
+        "RegionId": 420700,
+        "ParentRegionId": 420000
+      },
+      {
+        "CityId": 615,
+        "CityName": "防城港",
+        "EngName": "fangchenggang",
+        "CityLevel": 2,
+        "ParentId": 6,
+        "Initial": "F",
+        "RegionId": 450600,
+        "ParentRegionId": 450000
+      },
+      {
+        "CityId": 518,
+        "CityName": "佛山",
+        "EngName": "foshan",
+        "CityLevel": 2,
+        "ParentId": 5,
+        "Initial": "F",
+        "RegionId": 440600,
+        "ParentRegionId": 440000
+      },
+      {
+        "CityId": 1703,
+        "CityName": "抚顺",
+        "EngName": "fushun",
+        "CityLevel": 2,
+        "ParentId": 17,
+        "Initial": "F",
+        "RegionId": 210400,
+        "ParentRegionId": 210000
+      },
+      {
+        "CityId": 1704,
+        "CityName": "阜新",
+        "EngName": "fuxin",
+        "CityLevel": 2,
+        "ParentId": 17,
+        "Initial": "F",
+        "RegionId": 210900,
+        "ParentRegionId": 210000
+      },
+      {
+        "CityId": 106,
+        "CityName": "阜阳",
+        "EngName": "fy",
+        "CityLevel": 2,
+        "ParentId": 1,
+        "Initial": "F",
+        "RegionId": 341200,
+        "ParentRegionId": 340000
+      },
+      {
+        "CityId": 422,
+        "CityName": "甘南",
+        "EngName": "gannanzangzuzizhizhou",
+        "CityLevel": 2,
+        "ParentId": 4,
+        "Initial": "G",
+        "RegionId": 623000,
+        "ParentRegionId": 620000
+      },
+      {
+        "CityId": 1607,
+        "CityName": "赣州",
+        "EngName": "ganzhou",
+        "CityLevel": 2,
+        "ParentId": 16,
+        "Initial": "G",
+        "RegionId": 360700,
+        "ParentRegionId": 360000
+      },
+      {
+        "CityId": 2536,
+        "CityName": "甘孜",
+        "EngName": "ganzizangzuzizhizhou",
+        "CityLevel": 2,
+        "ParentId": 25,
+        "Initial": "G",
+        "RegionId": 513300,
+        "ParentRegionId": 510000
+      },
+      {
+        "CityId": 2530,
+        "CityName": "广安",
+        "EngName": "guangan",
+        "CityLevel": 2,
+        "ParentId": 25,
+        "Initial": "G",
+        "RegionId": 511600,
+        "ParentRegionId": 510000
+      },
+      {
+        "CityId": 2510,
+        "CityName": "广元",
+        "EngName": "guangyuan",
+        "CityLevel": 2,
+        "ParentId": 25,
+        "Initial": "G",
+        "RegionId": 510800,
+        "ParentRegionId": 510000
+      },
+      {
+        "CityId": 608,
+        "CityName": "贵港",
+        "EngName": "guigang",
+        "CityLevel": 2,
+        "ParentId": 6,
+        "Initial": "G",
+        "RegionId": 450800,
+        "ParentRegionId": 450000
+      },
+      {
+        "CityId": 603,
+        "CityName": "桂林",
+        "EngName": "guilin",
+        "CityLevel": 2,
+        "ParentId": 6,
+        "Initial": "G",
+        "RegionId": 450300,
+        "ParentRegionId": 450000
+      },
+      {
+        "CityId": 2025,
+        "CityName": "果洛",
+        "EngName": "guoluozangzuzizhizhou",
+        "CityLevel": 2,
+        "ParentId": 20,
+        "Initial": "G",
+        "RegionId": 632600,
+        "ParentRegionId": 630000
+      },
+      {
+        "CityId": 1903,
+        "CityName": "固原",
+        "EngName": "guyuan",
+        "CityLevel": 2,
+        "ParentId": 19,
+        "Initial": "G",
+        "RegionId": 640400,
+        "ParentRegionId": 640000
+      },
+      {
+        "CityId": 2023,
+        "CityName": "海北",
+        "EngName": "haibeizangzuzizhizhou",
+        "CityLevel": 2,
+        "ParentId": 20,
+        "Initial": "H",
+        "RegionId": 632200,
+        "ParentRegionId": 630000
+      },
+      {
+        "CityId": 2029,
+        "CityName": "海东",
+        "EngName": "haidongshi",
+        "CityLevel": 2,
+        "ParentId": 20,
+        "Initial": "H",
+        "RegionId": 630200,
+        "ParentRegionId": 630000
+      },
+      {
+        "CityId": 2030,
+        "CityName": "海南",
+        "EngName": "hainanzangzuzizhizhou",
+        "CityLevel": 2,
+        "ParentId": 20,
+        "Initial": "H",
+        "RegionId": 632500,
+        "ParentRegionId": 630000
+      },
+      {
+        "CityId": 2027,
+        "CityName": "海西",
+        "EngName": "haiximengguzuzangzuzizhizhou",
+        "CityLevel": 2,
+        "ParentId": 20,
+        "Initial": "H",
+        "RegionId": 632800,
+        "ParentRegionId": 630000
+      },
+      {
+        "CityId": 2833,
+        "CityName": "哈密",
+        "EngName": "hamishi",
+        "CityLevel": 2,
+        "ParentId": 28,
+        "Initial": "H",
+        "RegionId": 650500,
+        "ParentRegionId": 650000
+      },
+      {
+        "CityId": 907,
+        "CityName": "邯郸",
+        "EngName": "handan",
+        "CityLevel": 2,
+        "ParentId": 9,
+        "Initial": "H",
+        "RegionId": 130400,
+        "ParentRegionId": 130000
+      },
+      {
+        "CityId": 2307,
+        "CityName": "汉中",
+        "EngName": "hanzhong",
+        "CityLevel": 2,
+        "ParentId": 23,
+        "Initial": "H",
+        "RegionId": 610700,
+        "ParentRegionId": 610000
+      },
+      {
+        "CityId": 1016,
+        "CityName": "鹤壁",
+        "EngName": "hebi",
+        "CityLevel": 2,
+        "ParentId": 10,
+        "Initial": "H",
+        "RegionId": 410600,
+        "ParentRegionId": 410000
+      },
+      {
+        "CityId": 607,
+        "CityName": "河池",
+        "EngName": "hechi",
+        "CityLevel": 2,
+        "ParentId": 6,
+        "Initial": "H",
+        "RegionId": 451200,
+        "ParentRegionId": 450000
+      },
+      {
+        "CityId": 1104,
+        "CityName": "鹤岗",
+        "EngName": "hegang",
+        "CityLevel": 2,
+        "ParentId": 11,
+        "Initial": "H",
+        "RegionId": 230400,
+        "ParentRegionId": 230000
+      },
+      {
+        "CityId": 1113,
+        "CityName": "黑河",
+        "EngName": "heihe",
+        "CityLevel": 2,
+        "ParentId": 11,
+        "Initial": "H",
+        "RegionId": 231100,
+        "ParentRegionId": 230000
+      },
+      {
+        "CityId": 908,
+        "CityName": "衡水",
+        "EngName": "hengshui",
+        "CityLevel": 2,
+        "ParentId": 9,
+        "Initial": "H",
+        "RegionId": 131100,
+        "ParentRegionId": 130000
+      },
+      {
+        "CityId": 1304,
+        "CityName": "衡阳",
+        "EngName": "hengyang",
+        "CityLevel": 2,
+        "ParentId": 13,
+        "Initial": "H",
+        "RegionId": 430400,
+        "ParentRegionId": 430000
+      },
+      {
+        "CityId": 2830,
+        "CityName": "和田",
+        "EngName": "hetian",
+        "CityLevel": 2,
+        "ParentId": 28,
+        "Initial": "H",
+        "RegionId": 653200,
+        "ParentRegionId": 650000
+      },
+      {
+        "CityId": 535,
+        "CityName": "河源",
+        "EngName": "heyuan",
+        "CityLevel": 2,
+        "ParentId": 5,
+        "Initial": "H",
+        "RegionId": 441600,
+        "ParentRegionId": 440000
+      },
+      {
+        "CityId": 2112,
+        "CityName": "菏泽",
+        "EngName": "heze",
+        "CityLevel": 2,
+        "ParentId": 21,
+        "Initial": "H",
+        "RegionId": 371700,
+        "ParentRegionId": 370000
+      },
+      {
+        "CityId": 606,
+        "CityName": "贺州",
+        "EngName": "hezhou",
+        "CityLevel": 2,
+        "ParentId": 6,
+        "Initial": "H",
+        "RegionId": 451100,
+        "ParentRegionId": 450000
+      },
+      {
+        "CityId": 2923,
+        "CityName": "红河",
+        "EngName": "honghehanizuyizuzizhizhou",
+        "CityLevel": 2,
+        "ParentId": 29,
+        "Initial": "H",
+        "RegionId": 532500,
+        "ParentRegionId": 530000
+      },
+      {
+        "CityId": 1507,
+        "CityName": "淮安",
+        "EngName": "huaian",
+        "CityLevel": 2,
+        "ParentId": 15,
+        "Initial": "H",
+        "RegionId": 320800,
+        "ParentRegionId": 320000
+      },
+      {
+        "CityId": 107,
+        "CityName": "淮北",
+        "EngName": "huaibei",
+        "CityLevel": 2,
+        "ParentId": 1,
+        "Initial": "H",
+        "RegionId": 340600,
+        "ParentRegionId": 340000
+      },
+      {
+        "CityId": 1305,
+        "CityName": "怀化",
+        "EngName": "huaihua",
+        "CityLevel": 2,
+        "ParentId": 13,
+        "Initial": "H",
+        "RegionId": 431200,
+        "ParentRegionId": 430000
+      },
+      {
+        "CityId": 108,
+        "CityName": "淮南",
+        "EngName": "huainan",
+        "CityLevel": 2,
+        "ParentId": 1,
+        "Initial": "H",
+        "RegionId": 340400,
+        "ParentRegionId": 340000
+      },
+      {
+        "CityId": 1236,
+        "CityName": "黄冈",
+        "EngName": "huanggang",
+        "CityLevel": 2,
+        "ParentId": 12,
+        "Initial": "H",
+        "RegionId": 421100,
+        "ParentRegionId": 420000
+      },
+      {
+        "CityId": 2024,
+        "CityName": "黄南",
+        "EngName": "huangnanzangzuzizhizhou",
+        "CityLevel": 2,
+        "ParentId": 20,
+        "Initial": "H",
+        "RegionId": 632300,
+        "ParentRegionId": 630000
+      },
+      {
+        "CityId": 118,
+        "CityName": "黄山",
+        "EngName": "huangshan",
+        "CityLevel": 2,
+        "ParentId": 1,
+        "Initial": "H",
+        "RegionId": 341000,
+        "ParentRegionId": 340000
+      },
+      {
+        "CityId": 1208,
+        "CityName": "黄石",
+        "EngName": "huangshi",
+        "CityLevel": 2,
+        "ParentId": 12,
+        "Initial": "H",
+        "RegionId": 420200,
+        "ParentRegionId": 420000
+      },
+      {
+        "CityId": 520,
+        "CityName": "惠州",
+        "EngName": "huizhou",
+        "CityLevel": 2,
+        "ParentId": 5,
+        "Initial": "H",
+        "RegionId": 441300,
+        "ParentRegionId": 440000
+      },
+      {
+        "CityId": 1705,
+        "CityName": "葫芦岛",
+        "EngName": "huludao",
+        "CityLevel": 2,
+        "ParentId": 17,
+        "Initial": "H",
+        "RegionId": 211400,
+        "ParentRegionId": 210000
+      },
+      {
+        "CityId": 1812,
+        "CityName": "呼伦贝尔",
+        "EngName": "hulunbeier",
+        "CityLevel": 2,
+        "ParentId": 18,
+        "Initial": "H",
+        "RegionId": 150700,
+        "ParentRegionId": 150000
+      },
+      {
+        "CityId": 3011,
+        "CityName": "湖州",
+        "EngName": "huzhou",
+        "CityLevel": 2,
+        "ParentId": 30,
+        "Initial": "H",
+        "RegionId": 330500,
+        "ParentRegionId": 330000
+      },
+      {
+        "CityId": 417,
+        "CityName": "金昌",
+        "EngName": "jc",
+        "CityLevel": 2,
+        "ParentId": 4,
+        "Initial": "J",
+        "RegionId": 620300,
+        "ParentRegionId": 620000
+      },
+      {
+        "CityId": 1106,
+        "CityName": "佳木斯",
+        "EngName": "jiamusi",
+        "CityLevel": 2,
+        "ParentId": 11,
+        "Initial": "J",
+        "RegionId": 230800,
+        "ParentRegionId": 230000
+      },
+      {
+        "CityId": 1609,
+        "CityName": "吉安",
+        "EngName": "jian",
+        "CityLevel": 2,
+        "ParentId": 16,
+        "Initial": "J",
+        "RegionId": 360800,
+        "ParentRegionId": 360000
+      },
+      {
+        "CityId": 521,
+        "CityName": "江门",
+        "EngName": "jiangmen",
+        "CityLevel": 2,
+        "ParentId": 5,
+        "Initial": "J",
+        "RegionId": 440700,
+        "ParentRegionId": 440000
+      },
+      {
+        "CityId": 1011,
+        "CityName": "焦作",
+        "EngName": "jiaozuo",
+        "CityLevel": 2,
+        "ParentId": 10,
+        "Initial": "J",
+        "RegionId": 410800,
+        "ParentRegionId": 410000
+      },
+      {
+        "CityId": 3005,
+        "CityName": "嘉兴",
+        "EngName": "jiaxing",
+        "CityLevel": 2,
+        "ParentId": 30,
+        "Initial": "J",
+        "RegionId": 330400,
+        "ParentRegionId": 330000
+      },
+      {
+        "CityId": 416,
+        "CityName": "嘉峪关",
+        "EngName": "jiayuguan",
+        "CityLevel": 2,
+        "ParentId": 4,
+        "Initial": "J",
+        "RegionId": 620200,
+        "ParentRegionId": 620000
+      },
+      {
+        "CityId": 522,
+        "CityName": "揭阳",
+        "EngName": "jieyang",
+        "CityLevel": 2,
+        "ParentId": 5,
+        "Initial": "J",
+        "RegionId": 445200,
+        "ParentRegionId": 440000
+      },
+      {
+        "CityId": 1402,
+        "CityName": "吉林",
+        "EngName": "jilin",
+        "CityLevel": 2,
+        "ParentId": 14,
+        "Initial": "J",
+        "RegionId": 220200,
+        "ParentRegionId": 220000
+      },
+      {
+        "CityId": 2203,
+        "CityName": "晋城",
+        "EngName": "jincheng",
+        "CityLevel": 2,
+        "ParentId": 22,
+        "Initial": "J",
+        "RegionId": 140500,
+        "ParentRegionId": 140000
+      },
+      {
+        "CityId": 1612,
+        "CityName": "景德镇",
+        "EngName": "jingdezhen",
+        "CityLevel": 2,
+        "ParentId": 16,
+        "Initial": "J",
+        "RegionId": 360200,
+        "ParentRegionId": 360000
+      },
+      {
+        "CityId": 1209,
+        "CityName": "荆门",
+        "EngName": "jingmen",
+        "CityLevel": 2,
+        "ParentId": 12,
+        "Initial": "J",
+        "RegionId": 420800,
+        "ParentRegionId": 420000
+      },
+      {
+        "CityId": 1210,
+        "CityName": "荆州",
+        "EngName": "jingzhou",
+        "CityLevel": 2,
+        "ParentId": 12,
+        "Initial": "J",
+        "RegionId": 421000,
+        "ParentRegionId": 420000
+      },
+      {
+        "CityId": 3006,
+        "CityName": "金华",
+        "EngName": "jinhua",
+        "CityLevel": 2,
+        "ParentId": 30,
+        "Initial": "J",
+        "RegionId": 330700,
+        "ParentRegionId": 330000
+      },
+      {
+        "CityId": 2118,
+        "CityName": "济宁",
+        "EngName": "jining",
+        "CityLevel": 2,
+        "ParentId": 21,
+        "Initial": "J",
+        "RegionId": 370800,
+        "ParentRegionId": 370000
+      },
+      {
+        "CityId": 2204,
+        "CityName": "晋中",
+        "EngName": "jinzhong",
+        "CityLevel": 2,
+        "ParentId": 22,
+        "Initial": "J",
+        "RegionId": 140700,
+        "ParentRegionId": 140000
+      },
+      {
+        "CityId": 1606,
+        "CityName": "九江",
+        "EngName": "jiujiang",
+        "CityLevel": 2,
+        "ParentId": 16,
+        "Initial": "J",
+        "RegionId": 360400,
+        "ParentRegionId": 360000
+      },
+      {
+        "CityId": 409,
+        "CityName": "酒泉",
+        "EngName": "jiuquan",
+        "CityLevel": 2,
+        "ParentId": 4,
+        "Initial": "J",
+        "RegionId": 620900,
+        "ParentRegionId": 620000
+      },
+      {
+        "CityId": 1107,
+        "CityName": "鸡西",
+        "EngName": "jixi",
+        "CityLevel": 2,
+        "ParentId": 11,
+        "Initial": "J",
+        "RegionId": 230300,
+        "ParentRegionId": 230000
+      },
+      {
+        "CityId": 1613,
+        "CityName": "抚州",
+        "EngName": "jxfz",
+        "CityLevel": 2,
+        "ParentId": 16,
+        "Initial": "J",
+        "RegionId": 361000,
+        "ParentRegionId": 360000
+      },
+      {
+        "CityId": 1711,
+        "CityName": "锦州",
+        "EngName": "jz",
+        "CityLevel": 2,
+        "ParentId": 17,
+        "Initial": "J",
+        "RegionId": 210700,
+        "ParentRegionId": 210000
+      },
+      {
+        "CityId": 1013,
+        "CityName": "开封",
+        "EngName": "kaifeng",
+        "CityLevel": 2,
+        "ParentId": 10,
+        "Initial": "K",
+        "RegionId": 410200,
+        "ParentRegionId": 410000
+      },
+      {
+        "CityId": 2828,
+        "CityName": "喀什",
+        "EngName": "kashi",
+        "CityLevel": 2,
+        "ParentId": 28,
+        "Initial": "K",
+        "RegionId": 653100,
+        "ParentRegionId": 650000
+      },
+      {
+        "CityId": 2803,
+        "CityName": "克拉玛依",
+        "EngName": "kelamayi",
+        "CityLevel": 2,
+        "ParentId": 28,
+        "Initial": "K",
+        "RegionId": 650200,
+        "ParentRegionId": 650000
+      },
+      {
+        "CityId": 619,
+        "CityName": "来宾",
+        "EngName": "laibin",
+        "CityLevel": 2,
+        "ParentId": 6,
+        "Initial": "L",
+        "RegionId": 451300,
+        "ParentRegionId": 450000
+      },
+      {
+        "CityId": 906,
+        "CityName": "廊坊",
+        "EngName": "langfang",
+        "CityLevel": 2,
+        "ParentId": 9,
+        "Initial": "L",
+        "RegionId": 131000,
+        "ParentRegionId": 130000
+      },
+      {
+        "CityId": 2512,
+        "CityName": "乐山",
+        "EngName": "leshan",
+        "CityLevel": 2,
+        "ParentId": 25,
+        "Initial": "L",
+        "RegionId": 511100,
+        "ParentRegionId": 510000
+      },
+      {
+        "CityId": 2537,
+        "CityName": "凉山",
+        "EngName": "liangshanyizuzizhizhou",
+        "CityLevel": 2,
+        "ParentId": 25,
+        "Initial": "L",
+        "RegionId": 513400,
+        "ParentRegionId": 510000
+      },
+      {
+        "CityId": 1510,
+        "CityName": "连云港",
+        "EngName": "lianyungang",
+        "CityLevel": 2,
+        "ParentId": 15,
+        "Initial": "L",
+        "RegionId": 320700,
+        "ParentRegionId": 320000
+      },
+      {
+        "CityId": 2114,
+        "CityName": "聊城",
+        "EngName": "liaocheng",
+        "CityLevel": 2,
+        "ParentId": 21,
+        "Initial": "L",
+        "RegionId": 371500,
+        "ParentRegionId": 370000
+      },
+      {
+        "CityId": 1713,
+        "CityName": "辽阳",
+        "EngName": "liaoyang",
+        "CityLevel": 2,
+        "ParentId": 17,
+        "Initial": "L",
+        "RegionId": 211000,
+        "ParentRegionId": 210000
+      },
+      {
+        "CityId": 1405,
+        "CityName": "辽源",
+        "EngName": "liaoyuan",
+        "CityLevel": 2,
+        "ParentId": 14,
+        "Initial": "L",
+        "RegionId": 220400,
+        "ParentRegionId": 220000
+      },
+      {
+        "CityId": 2922,
+        "CityName": "丽江",
+        "EngName": "lijiang",
+        "CityLevel": 2,
+        "ParentId": 29,
+        "Initial": "L",
+        "RegionId": 530700,
+        "ParentRegionId": 530000
+      },
+      {
+        "CityId": 2911,
+        "CityName": "临沧",
+        "EngName": "lincang",
+        "CityLevel": 2,
+        "ParentId": 29,
+        "Initial": "L",
+        "RegionId": 530900,
+        "ParentRegionId": 530000
+      },
+      {
+        "CityId": 2205,
+        "CityName": "临汾",
+        "EngName": "linfen",
+        "CityLevel": 2,
+        "ParentId": 22,
+        "Initial": "L",
+        "RegionId": 141000,
+        "ParentRegionId": 140000
+      },
+      {
+        "CityId": 622900,
+        "CityName": "临夏",
+        "EngName": "linxia",
+        "CityLevel": 2,
+        "ParentId": 4,
+        "Initial": "L",
+        "RegionId": 622900,
+        "ParentRegionId": 620000
+      },
+      {
+        "CityId": 2117,
+        "CityName": "临沂",
+        "EngName": "linyi",
+        "CityLevel": 2,
+        "ParentId": 21,
+        "Initial": "L",
+        "RegionId": 371300,
+        "ParentRegionId": 370000
+      },
+      {
+        "CityId": 2710,
+        "CityName": "林芝",
+        "EngName": "linzhishi",
+        "CityLevel": 2,
+        "ParentId": 27,
+        "Initial": "L",
+        "RegionId": 540400,
+        "ParentRegionId": 540000
+      },
+      {
+        "CityId": 3009,
+        "CityName": "丽水",
+        "EngName": "lishui",
+        "CityLevel": 2,
+        "ParentId": 30,
+        "Initial": "L",
+        "RegionId": 331100,
+        "ParentRegionId": 330000
+      },
+      {
+        "CityId": 708,
+        "CityName": "六盘水",
+        "EngName": "liupanshui",
+        "CityLevel": 2,
+        "ParentId": 7,
+        "Initial": "L",
+        "RegionId": 520200,
+        "ParentRegionId": 520000
+      },
+      {
+        "CityId": 602,
+        "CityName": "柳州",
+        "EngName": "liuzhou",
+        "CityLevel": 2,
+        "ParentId": 6,
+        "Initial": "L",
+        "RegionId": 450200,
+        "ParentRegionId": 450000
+      },
+      {
+        "CityId": 421,
+        "CityName": "陇南",
+        "EngName": "longnan",
+        "CityLevel": 2,
+        "ParentId": 4,
+        "Initial": "L",
+        "RegionId": 621200,
+        "ParentRegionId": 620000
+      },
+      {
+        "CityId": 303,
+        "CityName": "龙岩",
+        "EngName": "longyan",
+        "CityLevel": 2,
+        "ParentId": 3,
+        "Initial": "L",
+        "RegionId": 350800,
+        "ParentRegionId": 350000
+      },
+      {
+        "CityId": 1306,
+        "CityName": "娄底",
+        "EngName": "loudi",
+        "CityLevel": 2,
+        "ParentId": 13,
+        "Initial": "L",
+        "RegionId": 431300,
+        "ParentRegionId": 430000
+      },
+      {
+        "CityId": 109,
+        "CityName": "六安",
+        "EngName": "luan",
+        "CityLevel": 2,
+        "ParentId": 1,
+        "Initial": "L",
+        "RegionId": 341500,
+        "ParentRegionId": 340000
+      },
+      {
+        "CityId": 1010,
+        "CityName": "漯河",
+        "EngName": "luohe",
+        "CityLevel": 2,
+        "ParentId": 10,
+        "Initial": "L",
+        "RegionId": 411100,
+        "ParentRegionId": 410000
+      },
+      {
+        "CityId": 1002,
+        "CityName": "洛阳",
+        "EngName": "luoyang",
+        "CityLevel": 2,
+        "ParentId": 10,
+        "Initial": "L",
+        "RegionId": 410300,
+        "ParentRegionId": 410000
+      },
+      {
+        "CityId": 2517,
+        "CityName": "泸州",
+        "EngName": "luzhou",
+        "CityLevel": 2,
+        "ParentId": 25,
+        "Initial": "L",
+        "RegionId": 510500,
+        "ParentRegionId": 510000
+      },
+      {
+        "CityId": 2227,
+        "CityName": "吕梁",
+        "EngName": "lvliang",
+        "CityLevel": 2,
+        "ParentId": 22,
+        "Initial": "L",
+        "RegionId": 141100,
+        "ParentRegionId": 140000
+      },
+      {
+        "CityId": 110,
+        "CityName": "马鞍山",
+        "EngName": "maanshan",
+        "CityLevel": 2,
+        "ParentId": 1,
+        "Initial": "M",
+        "RegionId": 340500,
+        "ParentRegionId": 340000
+      },
+      {
+        "CityId": 515,
+        "CityName": "茂名",
+        "EngName": "maoming",
+        "CityLevel": 2,
+        "ParentId": 5,
+        "Initial": "M",
+        "RegionId": 440900,
+        "ParentRegionId": 440000
+      },
+      {
+        "CityId": 2514,
+        "CityName": "眉山",
+        "EngName": "meishan",
+        "CityLevel": 2,
+        "ParentId": 25,
+        "Initial": "M",
+        "RegionId": 511400,
+        "ParentRegionId": 510000
+      },
+      {
+        "CityId": 516,
+        "CityName": "梅州",
+        "EngName": "meizhou",
+        "CityLevel": 2,
+        "ParentId": 5,
+        "Initial": "M",
+        "RegionId": 441400,
+        "ParentRegionId": 440000
+      },
+      {
+        "CityId": 2502,
+        "CityName": "绵阳",
+        "EngName": "mianyang",
+        "CityLevel": 2,
+        "ParentId": 25,
+        "Initial": "M",
+        "RegionId": 510700,
+        "ParentRegionId": 510000
+      },
+      {
+        "CityId": 1108,
+        "CityName": "牡丹江",
+        "EngName": "mudanjiang",
+        "CityLevel": 2,
+        "ParentId": 11,
+        "Initial": "M",
+        "RegionId": 231000,
+        "ParentRegionId": 230000
+      },
+      {
+        "CityId": 2513,
+        "CityName": "南充",
+        "EngName": "nanchong",
+        "CityLevel": 2,
+        "ParentId": 25,
+        "Initial": "N",
+        "RegionId": 511300,
+        "ParentRegionId": 510000
+      },
+      {
+        "CityId": 314,
+        "CityName": "南平",
+        "EngName": "nanping",
+        "CityLevel": 2,
+        "ParentId": 3,
+        "Initial": "N",
+        "RegionId": 350700,
+        "ParentRegionId": 350000
+      },
+      {
+        "CityId": 1511,
+        "CityName": "南通",
+        "EngName": "nantong",
+        "CityLevel": 2,
+        "ParentId": 15,
+        "Initial": "N",
+        "RegionId": 320600,
+        "ParentRegionId": 320000
+      },
+      {
+        "CityId": 1009,
+        "CityName": "南阳",
+        "EngName": "nanyang",
+        "CityLevel": 2,
+        "ParentId": 10,
+        "Initial": "N",
+        "RegionId": 411300,
+        "ParentRegionId": 410000
+      },
+      {
+        "CityId": 2705,
+        "CityName": "那曲",
+        "EngName": "naqushi",
+        "CityLevel": 2,
+        "ParentId": 27,
+        "Initial": "N",
+        "RegionId": 540600,
+        "ParentRegionId": 540000
+      },
+      {
+        "CityId": 2519,
+        "CityName": "内江",
+        "EngName": "neijiang",
+        "CityLevel": 2,
+        "ParentId": 25,
+        "Initial": "N",
+        "RegionId": 511000,
+        "ParentRegionId": 510000
+      },
+      {
+        "CityId": 3002,
+        "CityName": "宁波",
+        "EngName": "ningbo",
+        "CityLevel": 2,
+        "ParentId": 30,
+        "Initial": "N",
+        "RegionId": 330200,
+        "ParentRegionId": 330000
+      },
+      {
+        "CityId": 315,
+        "CityName": "宁德",
+        "EngName": "ningde",
+        "CityLevel": 2,
+        "ParentId": 3,
+        "Initial": "N",
+        "RegionId": 350900,
+        "ParentRegionId": 350000
+      },
+      {
+        "CityId": 2927,
+        "CityName": "怒江",
+        "EngName": "nujianglisuzuzizhizhou",
+        "CityLevel": 2,
+        "ParentId": 29,
+        "Initial": "N",
+        "RegionId": 533300,
+        "ParentRegionId": 530000
+      },
+      {
+        "CityId": 1716,
+        "CityName": "盘锦",
+        "EngName": "panjin",
+        "CityLevel": 2,
+        "ParentId": 17,
+        "Initial": "P",
+        "RegionId": 211100,
+        "ParentRegionId": 210000
+      },
+      {
+        "CityId": 2504,
+        "CityName": "攀枝花",
+        "EngName": "panzhihua",
+        "CityLevel": 2,
+        "ParentId": 25,
+        "Initial": "P",
+        "RegionId": 510400,
+        "ParentRegionId": 510000
+      },
+      {
+        "CityId": 1018,
+        "CityName": "平顶山",
+        "EngName": "pingdingshan",
+        "CityLevel": 2,
+        "ParentId": 10,
+        "Initial": "P",
+        "RegionId": 410400,
+        "ParentRegionId": 410000
+      },
+      {
+        "CityId": 405,
+        "CityName": "平凉",
+        "EngName": "pingliang",
+        "CityLevel": 2,
+        "ParentId": 4,
+        "Initial": "P",
+        "RegionId": 620800,
+        "ParentRegionId": 620000
+      },
+      {
+        "CityId": 1603,
+        "CityName": "萍乡",
+        "EngName": "pingxiang",
+        "CityLevel": 2,
+        "ParentId": 16,
+        "Initial": "P",
+        "RegionId": 360300,
+        "ParentRegionId": 360000
+      },
+      {
+        "CityId": 2929,
+        "CityName": "普洱",
+        "EngName": "puer",
+        "CityLevel": 2,
+        "ParentId": 29,
+        "Initial": "P",
+        "RegionId": 530800,
+        "ParentRegionId": 530000
+      },
+      {
+        "CityId": 306,
+        "CityName": "莆田",
+        "EngName": "putian",
+        "CityLevel": 2,
+        "ParentId": 3,
+        "Initial": "P",
+        "RegionId": 350300,
+        "ParentRegionId": 350000
+      },
+      {
+        "CityId": 1008,
+        "CityName": "濮阳",
+        "EngName": "puyang",
+        "CityLevel": 2,
+        "ParentId": 10,
+        "Initial": "P",
+        "RegionId": 410900,
+        "ParentRegionId": 410000
+      },
+      {
+        "CityId": 714,
+        "CityName": "黔东南",
+        "EngName": "qiandongnanmiaozudongzuzizhizhou",
+        "CityLevel": 2,
+        "ParentId": 7,
+        "Initial": "Q",
+        "RegionId": 522600,
+        "ParentRegionId": 520000
+      },
+      {
+        "CityId": 715,
+        "CityName": "黔南",
+        "EngName": "qiannanbuyizumiaozuzizhizhou",
+        "CityLevel": 2,
+        "ParentId": 7,
+        "Initial": "Q",
+        "RegionId": 522700,
+        "ParentRegionId": 520000
+      },
+      {
+        "CityId": 718,
+        "CityName": "黔西南",
+        "EngName": "qianxinanbuyizumiaozuzizhizhou",
+        "CityLevel": 2,
+        "ParentId": 7,
+        "Initial": "Q",
+        "RegionId": 522300,
+        "ParentRegionId": 520000
+      },
+      {
+        "CityId": 2102,
+        "CityName": "青岛",
+        "EngName": "qingdao",
+        "CityLevel": 2,
+        "ParentId": 21,
+        "Initial": "Q",
+        "RegionId": 370200,
+        "ParentRegionId": 370000
+      },
+      {
+        "CityId": 411,
+        "CityName": "庆阳",
+        "EngName": "qingyang",
+        "CityLevel": 2,
+        "ParentId": 4,
+        "Initial": "Q",
+        "RegionId": 621000,
+        "ParentRegionId": 620000
+      },
+      {
+        "CityId": 524,
+        "CityName": "清远",
+        "EngName": "qingyuan",
+        "CityLevel": 2,
+        "ParentId": 5,
+        "Initial": "Q",
+        "RegionId": 441800,
+        "ParentRegionId": 440000
+      },
+      {
+        "CityId": 905,
+        "CityName": "秦皇岛",
+        "EngName": "qinhuangdao",
+        "CityLevel": 2,
+        "ParentId": 9,
+        "Initial": "Q",
+        "RegionId": 130300,
+        "ParentRegionId": 130000
+      },
+      {
+        "CityId": 612,
+        "CityName": "钦州",
+        "EngName": "qinzhou",
+        "CityLevel": 2,
+        "ParentId": 6,
+        "Initial": "Q",
+        "RegionId": 450700,
+        "ParentRegionId": 450000
+      },
+      {
+        "CityId": 1103,
+        "CityName": "齐齐哈尔",
+        "EngName": "qiqihaer",
+        "CityLevel": 2,
+        "ParentId": 11,
+        "Initial": "Q",
+        "RegionId": 230200,
+        "ParentRegionId": 230000
+      },
+      {
+        "CityId": 1109,
+        "CityName": "七台河",
+        "EngName": "qitaihe",
+        "CityLevel": 2,
+        "ParentId": 11,
+        "Initial": "Q",
+        "RegionId": 230900,
+        "ParentRegionId": 230000
+      },
+      {
+        "CityId": 307,
+        "CityName": "泉州",
+        "EngName": "quanzhou",
+        "CityLevel": 2,
+        "ParentId": 3,
+        "Initial": "Q",
+        "RegionId": 350500,
+        "ParentRegionId": 350000
+      },
+      {
+        "CityId": 2903,
+        "CityName": "曲靖",
+        "EngName": "qujing",
+        "CityLevel": 2,
+        "ParentId": 29,
+        "Initial": "Q",
+        "RegionId": 530300,
+        "ParentRegionId": 530000
+      },
+      {
+        "CityId": 3012,
+        "CityName": "衢州",
+        "EngName": "quzhou",
+        "CityLevel": 2,
+        "ParentId": 30,
+        "Initial": "Q",
+        "RegionId": 330800,
+        "ParentRegionId": 330000
+      },
+      {
+        "CityId": 2703,
+        "CityName": "日喀则",
+        "EngName": "rikazeshi",
+        "CityLevel": 2,
+        "ParentId": 27,
+        "Initial": "R",
+        "RegionId": 540200,
+        "ParentRegionId": 540000
+      },
+      {
+        "CityId": 2120,
+        "CityName": "日照",
+        "EngName": "rizhao",
+        "CityLevel": 2,
+        "ParentId": 21,
+        "Initial": "R",
+        "RegionId": 371100,
+        "ParentRegionId": 370000
+      },
+      {
+        "CityId": 1007,
+        "CityName": "三门峡",
+        "EngName": "sanmenxia",
+        "CityLevel": 2,
+        "ParentId": 10,
+        "Initial": "S",
+        "RegionId": 411200,
+        "ParentRegionId": 410000
+      },
+      {
+        "CityId": 318,
+        "CityName": "三明",
+        "EngName": "sanming",
+        "CityLevel": 2,
+        "ParentId": 3,
+        "Initial": "S",
+        "RegionId": 350400,
+        "ParentRegionId": 350000
+      },
+      {
+        "CityId": 460300,
+        "CityName": "三沙",
+        "EngName": "sanshashi",
+        "CityLevel": 2,
+        "ParentId": 8,
+        "Initial": "S",
+        "RegionId": 460300,
+        "ParentRegionId": 460000
+      },
+      {
+        "CityId": 803,
+        "CityName": "三亚",
+        "EngName": "sanya",
+        "CityLevel": 2,
+        "ParentId": 8,
+        "Initial": "S",
+        "RegionId": 460200,
+        "ParentRegionId": 460000
+      },
+      {
+        "CityId": 2313,
+        "CityName": "商洛",
+        "EngName": "shangluo",
+        "CityLevel": 2,
+        "ParentId": 23,
+        "Initial": "S",
+        "RegionId": 611000,
+        "ParentRegionId": 610000
+      },
+      {
+        "CityId": 1006,
+        "CityName": "商丘",
+        "EngName": "shangqiu",
+        "CityLevel": 2,
+        "ParentId": 10,
+        "Initial": "S",
+        "RegionId": 411400,
+        "ParentRegionId": 410000
+      },
+      {
+        "CityId": 1602,
+        "CityName": "上饶",
+        "EngName": "shangrao",
+        "CityLevel": 2,
+        "ParentId": 16,
+        "Initial": "S",
+        "RegionId": 361100,
+        "ParentRegionId": 360000
+      },
+      {
+        "CityId": 2704,
+        "CityName": "山南",
+        "EngName": "shannanshi",
+        "CityLevel": 2,
+        "ParentId": 27,
+        "Initial": "S",
+        "RegionId": 540500,
+        "ParentRegionId": 540000
+      },
+      {
+        "CityId": 507,
+        "CityName": "汕头",
+        "EngName": "shantou",
+        "CityLevel": 2,
+        "ParentId": 5,
+        "Initial": "S",
+        "RegionId": 440500,
+        "ParentRegionId": 440000
+      },
+      {
+        "CityId": 552,
+        "CityName": "汕尾",
+        "EngName": "shanwei",
+        "CityLevel": 2,
+        "ParentId": 5,
+        "Initial": "S",
+        "RegionId": 441500,
+        "ParentRegionId": 440000
+      },
+      {
+        "CityId": 511,
+        "CityName": "韶关",
+        "EngName": "shaoguan",
+        "CityLevel": 2,
+        "ParentId": 5,
+        "Initial": "S",
+        "RegionId": 440200,
+        "ParentRegionId": 440000
+      },
+      {
+        "CityId": 3016,
+        "CityName": "绍兴",
+        "EngName": "shaoxing",
+        "CityLevel": 2,
+        "ParentId": 30,
+        "Initial": "S",
+        "RegionId": 330600,
+        "ParentRegionId": 330000
+      },
+      {
+        "CityId": 1310,
+        "CityName": "邵阳",
+        "EngName": "shaoyang",
+        "CityLevel": 2,
+        "ParentId": 13,
+        "Initial": "S",
+        "RegionId": 430500,
+        "ParentRegionId": 430000
+      },
+      {
+        "CityId": 502,
+        "CityName": "深圳",
+        "EngName": "shenzhen",
+        "CityLevel": 2,
+        "ParentId": 5,
+        "Initial": "S",
+        "RegionId": 440300,
+        "ParentRegionId": 440000
+      },
+      {
+        "CityId": 1202,
+        "CityName": "十堰",
+        "EngName": "shiyan",
+        "CityLevel": 2,
+        "ParentId": 12,
+        "Initial": "S",
+        "RegionId": 420300,
+        "ParentRegionId": 420000
+      },
+      {
+        "CityId": 1905,
+        "CityName": "石嘴山",
+        "EngName": "shizuishan",
+        "CityLevel": 2,
+        "ParentId": 19,
+        "Initial": "S",
+        "RegionId": 640200,
+        "ParentRegionId": 640000
+      },
+      {
+        "CityId": 1123,
+        "CityName": "双鸭山",
+        "EngName": "shuangyashan",
+        "CityLevel": 2,
+        "ParentId": 11,
+        "Initial": "S",
+        "RegionId": 230500,
+        "ParentRegionId": 230000
+      },
+      {
+        "CityId": 2219,
+        "CityName": "朔州",
+        "EngName": "shuozhou",
+        "CityLevel": 2,
+        "ParentId": 22,
+        "Initial": "S",
+        "RegionId": 140600,
+        "ParentRegionId": 140000
+      },
+      {
+        "CityId": 1616,
+        "CityName": "四平",
+        "EngName": "siping",
+        "CityLevel": 2,
+        "ParentId": 14,
+        "Initial": "S",
+        "RegionId": 220300,
+        "ParentRegionId": 220000
+      },
+      {
+        "CityId": 1425,
+        "CityName": "松原",
+        "EngName": "songyuan",
+        "CityLevel": 2,
+        "ParentId": 14,
+        "Initial": "S",
+        "RegionId": 220700,
+        "ParentRegionId": 220000
+      },
+      {
+        "CityId": 1131,
+        "CityName": "绥化",
+        "EngName": "suihua",
+        "CityLevel": 2,
+        "ParentId": 11,
+        "Initial": "S",
+        "RegionId": 231200,
+        "ParentRegionId": 230000
+      },
+      {
+        "CityId": 2503,
+        "CityName": "遂宁",
+        "EngName": "suining",
+        "CityLevel": 2,
+        "ParentId": 25,
+        "Initial": "S",
+        "RegionId": 510900,
+        "ParentRegionId": 510000
+      },
+      {
+        "CityId": 1204,
+        "CityName": "随州",
+        "EngName": "suizhou",
+        "CityLevel": 2,
+        "ParentId": 12,
+        "Initial": "S",
+        "RegionId": 421300,
+        "ParentRegionId": 420000
+      },
+      {
+        "CityId": 1520,
+        "CityName": "宿迁",
+        "EngName": "suqian",
+        "CityLevel": 2,
+        "ParentId": 15,
+        "Initial": "S",
+        "RegionId": 321300,
+        "ParentRegionId": 320000
+      },
+      {
+        "CityId": 1502,
+        "CityName": "苏州",
+        "EngName": "suzhou",
+        "CityLevel": 2,
+        "ParentId": 15,
+        "Initial": "S",
+        "RegionId": 320500,
+        "ParentRegionId": 320000
+      },
+      {
+        "CityId": 120,
+        "CityName": "宿州",
+        "EngName": "sz",
+        "CityLevel": 2,
+        "ParentId": 1,
+        "Initial": "S",
+        "RegionId": 341300,
+        "ParentRegionId": 340000
+      },
+      {
+        "CityId": 2831,
+        "CityName": "塔城",
+        "EngName": "tacheng",
+        "CityLevel": 2,
+        "ParentId": 28,
+        "Initial": "T",
+        "RegionId": 654200,
+        "ParentRegionId": 650000
+      },
+      {
+        "CityId": 2106,
+        "CityName": "泰安",
+        "EngName": "taian",
+        "CityLevel": 2,
+        "ParentId": 21,
+        "Initial": "T",
+        "RegionId": 370900,
+        "ParentRegionId": 370000
+      },
+      {
+        "CityId": 1517,
+        "CityName": "泰州",
+        "EngName": "taizhou",
+        "CityLevel": 2,
+        "ParentId": 15,
+        "Initial": "T",
+        "RegionId": 321200,
+        "ParentRegionId": 320000
+      },
+      {
+        "CityId": 902,
+        "CityName": "唐山",
+        "EngName": "tangshan",
+        "CityLevel": 2,
+        "ParentId": 9,
+        "Initial": "T",
+        "RegionId": 130200,
+        "ParentRegionId": 130000
+      },
+      {
+        "CityId": 415,
+        "CityName": "天水",
+        "EngName": "tianshui",
+        "CityLevel": 2,
+        "ParentId": 4,
+        "Initial": "T",
+        "RegionId": 620500,
+        "ParentRegionId": 620000
+      },
+      {
+        "CityId": 1717,
+        "CityName": "铁岭",
+        "EngName": "tieling",
+        "CityLevel": 2,
+        "ParentId": 17,
+        "Initial": "T",
+        "RegionId": 211200,
+        "ParentRegionId": 210000
+      },
+      {
+        "CityId": 2310,
+        "CityName": "铜川",
+        "EngName": "tongchuan",
+        "CityLevel": 2,
+        "ParentId": 23,
+        "Initial": "T",
+        "RegionId": 610200,
+        "ParentRegionId": 610000
+      },
+      {
+        "CityId": 1403,
+        "CityName": "通化",
+        "EngName": "tonghua",
+        "CityLevel": 2,
+        "ParentId": 14,
+        "Initial": "T",
+        "RegionId": 220500,
+        "ParentRegionId": 220000
+      },
+      {
+        "CityId": 1804,
+        "CityName": "通辽",
+        "EngName": "tongliao",
+        "CityLevel": 2,
+        "ParentId": 18,
+        "Initial": "T",
+        "RegionId": 150500,
+        "ParentRegionId": 150000
+      },
+      {
+        "CityId": 113,
+        "CityName": "铜陵",
+        "EngName": "tongling",
+        "CityLevel": 2,
+        "ParentId": 1,
+        "Initial": "T",
+        "RegionId": 340700,
+        "ParentRegionId": 340000
+      },
+      {
+        "CityId": 719,
+        "CityName": "铜仁",
+        "EngName": "tongren",
+        "CityLevel": 2,
+        "ParentId": 7,
+        "Initial": "T",
+        "RegionId": 520600,
+        "ParentRegionId": 520000
+      },
+      {
+        "CityId": 2832,
+        "CityName": "吐鲁番",
+        "EngName": "tulufanshi",
+        "CityLevel": 2,
+        "ParentId": 28,
+        "Initial": "T",
+        "RegionId": 650400,
+        "ParentRegionId": 650000
+      },
+      {
+        "CityId": 3015,
+        "CityName": "台州",
+        "EngName": "tz",
+        "CityLevel": 2,
+        "ParentId": 30,
+        "Initial": "T",
+        "RegionId": 331000,
+        "ParentRegionId": 330000
+      },
+      {
+        "CityId": 2105,
+        "CityName": "潍坊",
+        "EngName": "weifang",
+        "CityLevel": 2,
+        "ParentId": 21,
+        "Initial": "W",
+        "RegionId": 370700,
+        "ParentRegionId": 370000
+      },
+      {
+        "CityId": 2104,
+        "CityName": "威海",
+        "EngName": "weihai",
+        "CityLevel": 2,
+        "ParentId": 21,
+        "Initial": "W",
+        "RegionId": 371000,
+        "ParentRegionId": 370000
+      },
+      {
+        "CityId": 2303,
+        "CityName": "渭南",
+        "EngName": "weinan",
+        "CityLevel": 2,
+        "ParentId": 23,
+        "Initial": "W",
+        "RegionId": 610500,
+        "ParentRegionId": 610000
+      },
+      {
+        "CityId": 2914,
+        "CityName": "文山",
+        "EngName": "wenshan",
+        "CityLevel": 2,
+        "ParentId": 29,
+        "Initial": "W",
+        "RegionId": 532600,
+        "ParentRegionId": 530000
+      },
+      {
+        "CityId": 3003,
+        "CityName": "温州",
+        "EngName": "wenzhou",
+        "CityLevel": 2,
+        "ParentId": 30,
+        "Initial": "W",
+        "RegionId": 330300,
+        "ParentRegionId": 330000
+      },
+      {
+        "CityId": 1805,
+        "CityName": "乌海",
+        "EngName": "wuhai",
+        "CityLevel": 2,
+        "ParentId": 18,
+        "Initial": "W",
+        "RegionId": 150300,
+        "ParentRegionId": 150000
+      },
+      {
+        "CityId": 114,
+        "CityName": "芜湖",
+        "EngName": "wuhu",
+        "CityLevel": 2,
+        "ParentId": 1,
+        "Initial": "W",
+        "RegionId": 340200,
+        "ParentRegionId": 340000
+      },
+      {
+        "CityId": 1825,
+        "CityName": "乌兰察布",
+        "EngName": "wulanchabu",
+        "CityLevel": 2,
+        "ParentId": 18,
+        "Initial": "W",
+        "RegionId": 150900,
+        "ParentRegionId": 150000
+      },
+      {
+        "CityId": 412,
+        "CityName": "武威",
+        "EngName": "wuwei",
+        "CityLevel": 2,
+        "ParentId": 4,
+        "Initial": "W",
+        "RegionId": 620600,
+        "ParentRegionId": 620000
+      },
+      {
+        "CityId": 1503,
+        "CityName": "无锡",
+        "EngName": "wuxi",
+        "CityLevel": 2,
+        "ParentId": 15,
+        "Initial": "W",
+        "RegionId": 320200,
+        "ParentRegionId": 320000
+      },
+      {
+        "CityId": 1902,
+        "CityName": "吴忠",
+        "EngName": "wuzhong",
+        "CityLevel": 2,
+        "ParentId": 19,
+        "Initial": "W",
+        "RegionId": 640300,
+        "ParentRegionId": 640000
+      },
+      {
+        "CityId": 613,
+        "CityName": "梧州",
+        "EngName": "wuzhou",
+        "CityLevel": 2,
+        "ParentId": 6,
+        "Initial": "W",
+        "RegionId": 450400,
+        "ParentRegionId": 450000
+      },
+      {
+        "CityId": 302,
+        "CityName": "厦门",
+        "EngName": "xiamen",
+        "CityLevel": 2,
+        "ParentId": 3,
+        "Initial": "X",
+        "RegionId": 350200,
+        "ParentRegionId": 350000
+      },
+      {
+        "CityId": 1309,
+        "CityName": "湘潭",
+        "EngName": "xiangtan",
+        "CityLevel": 2,
+        "ParentId": 13,
+        "Initial": "X",
+        "RegionId": 430300,
+        "ParentRegionId": 430000
+      },
+      {
+        "CityId": 1333,
+        "CityName": "湘西",
+        "EngName": "xiangxitujiazumiaozuzizhizhou",
+        "CityLevel": 2,
+        "ParentId": 13,
+        "Initial": "X",
+        "RegionId": 433100,
+        "ParentRegionId": 430000
+      },
+      {
+        "CityId": 1203,
+        "CityName": "襄阳",
+        "EngName": "xiangyang",
+        "CityLevel": 2,
+        "ParentId": 12,
+        "Initial": "X",
+        "RegionId": 420600,
+        "ParentRegionId": 420000
+      },
+      {
+        "CityId": 1217,
+        "CityName": "咸宁",
+        "EngName": "xianning",
+        "CityLevel": 2,
+        "ParentId": 12,
+        "Initial": "X",
+        "RegionId": 421200,
+        "ParentRegionId": 420000
+      },
+      {
+        "CityId": 2302,
+        "CityName": "咸阳",
+        "EngName": "xianyang",
+        "CityLevel": 2,
+        "ParentId": 23,
+        "Initial": "X",
+        "RegionId": 610400,
+        "ParentRegionId": 610000
+      },
+      {
+        "CityId": 1229,
+        "CityName": "孝感",
+        "EngName": "xiaogan",
+        "CityLevel": 2,
+        "ParentId": 12,
+        "Initial": "X",
+        "RegionId": 420900,
+        "ParentRegionId": 420000
+      },
+      {
+        "CityId": 1829,
+        "CityName": "锡林郭勒",
+        "EngName": "xilinguolemeng",
+        "CityLevel": 2,
+        "ParentId": 18,
+        "Initial": "X",
+        "RegionId": 152500,
+        "ParentRegionId": 150000
+      },
+      {
+        "CityId": 1814,
+        "CityName": "兴安盟",
+        "EngName": "xinganmeng",
+        "CityLevel": 2,
+        "ParentId": 18,
+        "Initial": "X",
+        "RegionId": 152200,
+        "ParentRegionId": 150000
+      },
+      {
+        "CityId": 903,
+        "CityName": "邢台",
+        "EngName": "xingtai",
+        "CityLevel": 2,
+        "ParentId": 9,
+        "Initial": "X",
+        "RegionId": 130500,
+        "ParentRegionId": 130000
+      },
+      {
+        "CityId": 2835,
+        "CityName": "克州",
+        "EngName": "xinjiangkezhou",
+        "CityLevel": 2,
+        "ParentId": 28,
+        "Initial": "X",
+        "RegionId": 653000,
+        "ParentRegionId": 650000
+      },
+      {
+        "CityId": 1005,
+        "CityName": "新乡",
+        "EngName": "xinxiang",
+        "CityLevel": 2,
+        "ParentId": 10,
+        "Initial": "X",
+        "RegionId": 410700,
+        "ParentRegionId": 410000
+      },
+      {
+        "CityId": 1004,
+        "CityName": "信阳",
+        "EngName": "xinyang",
+        "CityLevel": 2,
+        "ParentId": 10,
+        "Initial": "X",
+        "RegionId": 411500,
+        "ParentRegionId": 410000
+      },
+      {
+        "CityId": 1604,
+        "CityName": "新余",
+        "EngName": "xinyu",
+        "CityLevel": 2,
+        "ParentId": 16,
+        "Initial": "X",
+        "RegionId": 360500,
+        "ParentRegionId": 360000
+      },
+      {
+        "CityId": 2210,
+        "CityName": "忻州",
+        "EngName": "xinzhou",
+        "CityLevel": 2,
+        "ParentId": 22,
+        "Initial": "X",
+        "RegionId": 140900,
+        "ParentRegionId": 140000
+      },
+      {
+        "CityId": 2915,
+        "CityName": "西双版纳",
+        "EngName": "xishuangbanna",
+        "CityLevel": 2,
+        "ParentId": 29,
+        "Initial": "X",
+        "RegionId": 532800,
+        "ParentRegionId": 530000
+      },
+      {
+        "CityId": 115,
+        "CityName": "宣城",
+        "EngName": "xuancheng",
+        "CityLevel": 2,
+        "ParentId": 1,
+        "Initial": "X",
+        "RegionId": 341800,
+        "ParentRegionId": 340000
+      },
+      {
+        "CityId": 1023,
+        "CityName": "许昌",
+        "EngName": "xuchang",
+        "CityLevel": 2,
+        "ParentId": 10,
+        "Initial": "X",
+        "RegionId": 411000,
+        "ParentRegionId": 410000
+      },
+      {
+        "CityId": 1518,
+        "CityName": "徐州",
+        "EngName": "xuzhou",
+        "CityLevel": 2,
+        "ParentId": 15,
+        "Initial": "X",
+        "RegionId": 320300,
+        "ParentRegionId": 320000
+      },
+      {
+        "CityId": 2507,
+        "CityName": "雅安",
+        "EngName": "yaan",
+        "CityLevel": 2,
+        "ParentId": 25,
+        "Initial": "Y",
+        "RegionId": 511800,
+        "ParentRegionId": 510000
+      },
+      {
+        "CityId": 2308,
+        "CityName": "延安",
+        "EngName": "yanan",
+        "CityLevel": 2,
+        "ParentId": 23,
+        "Initial": "Y",
+        "RegionId": 610600,
+        "ParentRegionId": 610000
+      },
+      {
+        "CityId": 1428,
+        "CityName": "延边",
+        "EngName": "yanbianchaoxianzuzizhizhou",
+        "CityLevel": 2,
+        "ParentId": 14,
+        "Initial": "Y",
+        "RegionId": 222400,
+        "ParentRegionId": 220000
+      },
+      {
+        "CityId": 1512,
+        "CityName": "盐城",
+        "EngName": "yancheng",
+        "CityLevel": 2,
+        "ParentId": 15,
+        "Initial": "Y",
+        "RegionId": 320900,
+        "ParentRegionId": 320000
+      },
+      {
+        "CityId": 532,
+        "CityName": "阳江",
+        "EngName": "yangjiang",
+        "CityLevel": 2,
+        "ParentId": 5,
+        "Initial": "Y",
+        "RegionId": 441700,
+        "ParentRegionId": 440000
+      },
+      {
+        "CityId": 2218,
+        "CityName": "阳泉",
+        "EngName": "yangquan",
+        "CityLevel": 2,
+        "ParentId": 22,
+        "Initial": "Y",
+        "RegionId": 140300,
+        "ParentRegionId": 140000
+      },
+      {
+        "CityId": 1513,
+        "CityName": "扬州",
+        "EngName": "yangzhou",
+        "CityLevel": 2,
+        "ParentId": 15,
+        "Initial": "Y",
+        "RegionId": 321000,
+        "ParentRegionId": 320000
+      },
+      {
+        "CityId": 2103,
+        "CityName": "烟台",
+        "EngName": "yantai",
+        "CityLevel": 2,
+        "ParentId": 21,
+        "Initial": "Y",
+        "RegionId": 370600,
+        "ParentRegionId": 370000
+      },
+      {
+        "CityId": 1112,
+        "CityName": "伊春",
+        "EngName": "yc",
+        "CityLevel": 2,
+        "ParentId": 11,
+        "Initial": "Y",
+        "RegionId": 230700,
+        "ParentRegionId": 230000
+      },
+      {
+        "CityId": 2506,
+        "CityName": "宜宾",
+        "EngName": "yibin",
+        "CityLevel": 2,
+        "ParentId": 25,
+        "Initial": "Y",
+        "RegionId": 511500,
+        "ParentRegionId": 510000
+      },
+      {
+        "CityId": 1207,
+        "CityName": "宜昌",
+        "EngName": "yichang",
+        "CityLevel": 2,
+        "ParentId": 12,
+        "Initial": "Y",
+        "RegionId": 420500,
+        "ParentRegionId": 420000
+      },
+      {
+        "CityId": 1605,
+        "CityName": "宜春",
+        "EngName": "yichun",
+        "CityLevel": 2,
+        "ParentId": 16,
+        "Initial": "Y",
+        "RegionId": 360900,
+        "ParentRegionId": 360000
+      },
+      {
+        "CityId": 2823,
+        "CityName": "伊犁",
+        "EngName": "yilihasakezizhizhou",
+        "CityLevel": 2,
+        "ParentId": 28,
+        "Initial": "Y",
+        "RegionId": 654000,
+        "ParentRegionId": 650000
+      },
+      {
+        "CityId": 1714,
+        "CityName": "营口",
+        "EngName": "yingkou",
+        "CityLevel": 2,
+        "ParentId": 17,
+        "Initial": "Y",
+        "RegionId": 210800,
+        "ParentRegionId": 210000
+      },
+      {
+        "CityId": 1615,
+        "CityName": "鹰潭",
+        "EngName": "yingtan",
+        "CityLevel": 2,
+        "ParentId": 16,
+        "Initial": "Y",
+        "RegionId": 360600,
+        "ParentRegionId": 360000
+      },
+      {
+        "CityId": 1313,
+        "CityName": "益阳",
+        "EngName": "yiyang",
+        "CityLevel": 2,
+        "ParentId": 13,
+        "Initial": "Y",
+        "RegionId": 430900,
+        "ParentRegionId": 430000
+      },
+      {
+        "CityId": 2304,
+        "CityName": "榆林",
+        "EngName": "yl",
+        "CityLevel": 2,
+        "ParentId": 23,
+        "Initial": "Y",
+        "RegionId": 610800,
+        "ParentRegionId": 610000
+      },
+      {
+        "CityId": 1312,
+        "CityName": "永州",
+        "EngName": "yongzhou",
+        "CityLevel": 2,
+        "ParentId": 13,
+        "Initial": "Y",
+        "RegionId": 431100,
+        "ParentRegionId": 430000
+      },
+      {
+        "CityId": 1308,
+        "CityName": "岳阳",
+        "EngName": "yueyang",
+        "CityLevel": 2,
+        "ParentId": 13,
+        "Initial": "Y",
+        "RegionId": 430600,
+        "ParentRegionId": 430000
+      },
+      {
+        "CityId": 610,
+        "CityName": "玉林",
+        "EngName": "yulin",
+        "CityLevel": 2,
+        "ParentId": 6,
+        "Initial": "Y",
+        "RegionId": 450900,
+        "ParentRegionId": 450000
+      },
+      {
+        "CityId": 2207,
+        "CityName": "运城",
+        "EngName": "yuncheng",
+        "CityLevel": 2,
+        "ParentId": 22,
+        "Initial": "Y",
+        "RegionId": 140800,
+        "ParentRegionId": 140000
+      },
+      {
+        "CityId": 528,
+        "CityName": "云浮",
+        "EngName": "yunfu",
+        "CityLevel": 2,
+        "ParentId": 5,
+        "Initial": "Y",
+        "RegionId": 445300,
+        "ParentRegionId": 440000
+      },
+      {
+        "CityId": 2026,
+        "CityName": "玉树",
+        "EngName": "yushuzangzuzizhizhou",
+        "CityLevel": 2,
+        "ParentId": 20,
+        "Initial": "Y",
+        "RegionId": 632700,
+        "ParentRegionId": 630000
+      },
+      {
+        "CityId": 2902,
+        "CityName": "玉溪",
+        "EngName": "yuxi",
+        "CityLevel": 2,
+        "ParentId": 29,
+        "Initial": "Y",
+        "RegionId": 530400,
+        "ParentRegionId": 530000
+      },
+      {
+        "CityId": 2107,
+        "CityName": "枣庄",
+        "EngName": "zaozhuang",
+        "CityLevel": 2,
+        "ParentId": 21,
+        "Initial": "Z",
+        "RegionId": 370400,
+        "ParentRegionId": 370000
+      },
+      {
+        "CityId": 1315,
+        "CityName": "张家界",
+        "EngName": "zhangjiajie",
+        "CityLevel": 2,
+        "ParentId": 13,
+        "Initial": "Z",
+        "RegionId": 430800,
+        "ParentRegionId": 430000
+      },
+      {
+        "CityId": 911,
+        "CityName": "张家口",
+        "EngName": "zhangjiakou",
+        "CityLevel": 2,
+        "ParentId": 9,
+        "Initial": "Z",
+        "RegionId": 130700,
+        "ParentRegionId": 130000
+      },
+      {
+        "CityId": 410,
+        "CityName": "张掖",
+        "EngName": "zhangye",
+        "CityLevel": 2,
+        "ParentId": 4,
+        "Initial": "Z",
+        "RegionId": 620700,
+        "ParentRegionId": 620000
+      },
+      {
+        "CityId": 305,
+        "CityName": "漳州",
+        "EngName": "zhangzhou",
+        "CityLevel": 2,
+        "ParentId": 3,
+        "Initial": "Z",
+        "RegionId": 350600,
+        "ParentRegionId": 350000
+      },
+      {
+        "CityId": 513,
+        "CityName": "湛江",
+        "EngName": "zhanjiang",
+        "CityLevel": 2,
+        "ParentId": 5,
+        "Initial": "Z",
+        "RegionId": 440800,
+        "ParentRegionId": 440000
+      },
+      {
+        "CityId": 514,
+        "CityName": "肇庆",
+        "EngName": "zhaoqing",
+        "CityLevel": 2,
+        "ParentId": 5,
+        "Initial": "Z",
+        "RegionId": 441200,
+        "ParentRegionId": 440000
+      },
+      {
+        "CityId": 2918,
+        "CityName": "昭通",
+        "EngName": "zhaotong",
+        "CityLevel": 2,
+        "ParentId": 29,
+        "Initial": "Z",
+        "RegionId": 530600,
+        "ParentRegionId": 530000
+      },
+      {
+        "CityId": 1515,
+        "CityName": "镇江",
+        "EngName": "zhenjiang",
+        "CityLevel": 2,
+        "ParentId": 15,
+        "Initial": "Z",
+        "RegionId": 321100,
+        "ParentRegionId": 320000
+      },
+      {
+        "CityId": 505,
+        "CityName": "中山",
+        "EngName": "zhongshan",
+        "CityLevel": 2,
+        "ParentId": 5,
+        "Initial": "Z",
+        "RegionId": 442000,
+        "ParentRegionId": 440000
+      },
+      {
+        "CityId": 1907,
+        "CityName": "中卫",
+        "EngName": "zhongwei",
+        "CityLevel": 2,
+        "ParentId": 19,
+        "Initial": "Z",
+        "RegionId": 640500,
+        "ParentRegionId": 640000
+      },
+      {
+        "CityId": 1003,
+        "CityName": "周口",
+        "EngName": "zhoukou",
+        "CityLevel": 2,
+        "ParentId": 10,
+        "Initial": "Z",
+        "RegionId": 411600,
+        "ParentRegionId": 410000
+      },
+      {
+        "CityId": 3020,
+        "CityName": "舟山",
+        "EngName": "zhoushan",
+        "CityLevel": 2,
+        "ParentId": 30,
+        "Initial": "Z",
+        "RegionId": 330900,
+        "ParentRegionId": 330000
+      },
+      {
+        "CityId": 503,
+        "CityName": "珠海",
+        "EngName": "zhuhai",
+        "CityLevel": 2,
+        "ParentId": 5,
+        "Initial": "Z",
+        "RegionId": 440400,
+        "ParentRegionId": 440000
+      },
+      {
+        "CityId": 1021,
+        "CityName": "驻马店",
+        "EngName": "zhumadian",
+        "CityLevel": 2,
+        "ParentId": 10,
+        "Initial": "Z",
+        "RegionId": 411700,
+        "ParentRegionId": 410000
+      },
+      {
+        "CityId": 1307,
+        "CityName": "株洲",
+        "EngName": "zhuzhou",
+        "CityLevel": 2,
+        "ParentId": 13,
+        "Initial": "Z",
+        "RegionId": 430200,
+        "ParentRegionId": 430000
+      },
+      {
+        "CityId": 2109,
+        "CityName": "淄博",
+        "EngName": "zibo",
+        "CityLevel": 2,
+        "ParentId": 21,
+        "Initial": "Z",
+        "RegionId": 370300,
+        "ParentRegionId": 370000
+      },
+      {
+        "CityId": 2508,
+        "CityName": "自贡",
+        "EngName": "zigong",
+        "CityLevel": 2,
+        "ParentId": 25,
+        "Initial": "Z",
+        "RegionId": 510300,
+        "ParentRegionId": 510000
+      },
+      {
+        "CityId": 2509,
+        "CityName": "资阳",
+        "EngName": "ziyang",
+        "CityLevel": 2,
+        "ParentId": 25,
+        "Initial": "Z",
+        "RegionId": 512000,
+        "ParentRegionId": 510000
+      },
+      {
+        "CityId": 702,
+        "CityName": "遵义",
+        "EngName": "zunyi",
+        "CityLevel": 2,
+        "ParentId": 7,
+        "Initial": "Z",
+        "RegionId": 520300,
+        "ParentRegionId": 520000
+      },
+      {
+        "CityId": 2825,
+        "CityName": "阿拉尔",
+        "EngName": "alaer",
+        "CityLevel": 3,
+        "ParentId": 28,
+        "Initial": "A",
+        "RegionId": 659002,
+        "ParentRegionId": 659000
+      },
+      {
+        "CityId": 469025,
+        "CityName": "白沙黎族自治县",
+        "EngName": "baishalizuzizhixian",
+        "CityLevel": 3,
+        "ParentId": 8,
+        "Initial": "B",
+        "RegionId": 469025,
+        "ParentRegionId": 469000
+      },
+      {
+        "CityId": 469029,
+        "CityName": "保亭黎族苗族自治县",
+        "EngName": "baotinglizumiaozuzizhixian",
+        "CityLevel": 3,
+        "ParentId": 8,
+        "Initial": "B",
+        "RegionId": 469029,
+        "ParentRegionId": 469000
+      },
+      {
+        "CityId": 659005,
+        "CityName": "北屯",
+        "EngName": "beitunshi",
+        "CityLevel": 3,
+        "ParentId": 28,
+        "Initial": "B",
+        "RegionId": 659005,
+        "ParentRegionId": 659000
+      },
+      {
+        "CityId": 469026,
+        "CityName": "昌江黎族自治县",
+        "EngName": "changjianglizuzizhixian",
+        "CityLevel": 3,
+        "ParentId": 8,
+        "Initial": "C",
+        "RegionId": 469026,
+        "ParentRegionId": 469000
+      },
+      {
+        "CityId": 469023,
+        "CityName": "澄迈县",
+        "EngName": "chengmaixian",
+        "CityLevel": 3,
+        "ParentId": 8,
+        "Initial": "C",
+        "RegionId": 469023,
+        "ParentRegionId": 469000
+      },
+      {
+        "CityId": 469021,
+        "CityName": "定安县",
+        "EngName": "dinganxian",
+        "CityLevel": 3,
+        "ParentId": 8,
+        "Initial": "D",
+        "RegionId": 469021,
+        "ParentRegionId": 469000
+      },
+      {
+        "CityId": 808,
+        "CityName": "东方",
+        "EngName": "dongfang",
+        "CityLevel": 3,
+        "ParentId": 8,
+        "Initial": "D",
+        "RegionId": 469007,
+        "ParentRegionId": 469000
+      },
+      {
+        "CityId": 659010,
+        "CityName": "胡杨河市",
+        "EngName": "huyangheshi",
+        "CityLevel": 3,
+        "ParentId": 28,
+        "Initial": "H",
+        "RegionId": 659010,
+        "ParentRegionId": 659000
+      },
+      {
+        "CityId": 1019,
+        "CityName": "济源",
+        "EngName": "jiyuan",
+        "CityLevel": 3,
+        "ParentId": 10,
+        "Initial": "J",
+        "RegionId": 419001,
+        "ParentRegionId": 419000
+      },
+      {
+        "CityId": 659008,
+        "CityName": "可克达拉",
+        "EngName": "kekedalashi",
+        "CityLevel": 3,
+        "ParentId": 28,
+        "Initial": "K",
+        "RegionId": 659008,
+        "ParentRegionId": 659000
+      },
+      {
+        "CityId": 659009,
+        "CityName": "昆玉",
+        "EngName": "kunyushi",
+        "CityLevel": 3,
+        "ParentId": 28,
+        "Initial": "K",
+        "RegionId": 659009,
+        "ParentRegionId": 659000
+      },
+      {
+        "CityId": 469027,
+        "CityName": "乐东黎族自治县",
+        "EngName": "ledonglizuzizhixian",
+        "CityLevel": 3,
+        "ParentId": 8,
+        "Initial": "L",
+        "RegionId": 469027,
+        "ParentRegionId": 469000
+      },
+      {
+        "CityId": 469024,
+        "CityName": "临高县",
+        "EngName": "lingaoxian",
+        "CityLevel": 3,
+        "ParentId": 8,
+        "Initial": "L",
+        "RegionId": 469024,
+        "ParentRegionId": 469000
+      },
+      {
+        "CityId": 469028,
+        "CityName": "陵水黎族自治县",
+        "EngName": "lingshuilizuzizhixian",
+        "CityLevel": 3,
+        "ParentId": 8,
+        "Initial": "L",
+        "RegionId": 469028,
+        "ParentRegionId": 469000
+      },
+      {
+        "CityId": 1219,
+        "CityName": "潜江",
+        "EngName": "qianjiang",
+        "CityLevel": 3,
+        "ParentId": 12,
+        "Initial": "Q",
+        "RegionId": 429005,
+        "ParentRegionId": 429000
+      },
+      {
+        "CityId": 802,
+        "CityName": "琼海",
+        "EngName": "qionghai",
+        "CityLevel": 3,
+        "ParentId": 8,
+        "Initial": "Q",
+        "RegionId": 469002,
+        "ParentRegionId": 469000
+      },
+      {
+        "CityId": 469030,
+        "CityName": "琼中黎族苗族自治县",
+        "EngName": "qiongzhonglizumiaozuzizhixian",
+        "CityLevel": 3,
+        "ParentId": 8,
+        "Initial": "Q",
+        "RegionId": 469030,
+        "ParentRegionId": 469000
+      },
+      {
+        "CityId": 1241,
+        "CityName": "神农架",
+        "EngName": "shennongjialinqu",
+        "CityLevel": 3,
+        "ParentId": 12,
+        "Initial": "S",
+        "RegionId": 429021,
+        "ParentRegionId": 429000
+      },
+      {
+        "CityId": 2810,
+        "CityName": "石河子",
+        "EngName": "shihezi",
+        "CityLevel": 3,
+        "ParentId": 28,
+        "Initial": "S",
+        "RegionId": 659001,
+        "ParentRegionId": 659000
+      },
+      {
+        "CityId": 659007,
+        "CityName": "双河",
+        "EngName": "shuangheshi",
+        "CityLevel": 3,
+        "ParentId": 28,
+        "Initial": "S",
+        "RegionId": 659007,
+        "ParentRegionId": 659000
+      },
+      {
+        "CityId": 1206,
+        "CityName": "天门",
+        "EngName": "tianmen",
+        "CityLevel": 3,
+        "ParentId": 12,
+        "Initial": "T",
+        "RegionId": 429006,
+        "ParentRegionId": 429000
+      },
+      {
+        "CityId": 659006,
+        "CityName": "铁门关",
+        "EngName": "tiemenguanshi",
+        "CityLevel": 3,
+        "ParentId": 28,
+        "Initial": "T",
+        "RegionId": 659006,
+        "ParentRegionId": 659000
+      },
+      {
+        "CityId": 2826,
+        "CityName": "图木舒克",
+        "EngName": "tumushuke",
+        "CityLevel": 3,
+        "ParentId": 28,
+        "Initial": "T",
+        "RegionId": 659003,
+        "ParentRegionId": 659000
+      },
+      {
+        "CityId": 469022,
+        "CityName": "屯昌县",
+        "EngName": "tunchangxian",
+        "CityLevel": 3,
+        "ParentId": 8,
+        "Initial": "T",
+        "RegionId": 469022,
+        "ParentRegionId": 469000
+      },
+      {
+        "CityId": 807,
+        "CityName": "万宁",
+        "EngName": "wanning",
+        "CityLevel": 3,
+        "ParentId": 8,
+        "Initial": "W",
+        "RegionId": 469006,
+        "ParentRegionId": 469000
+      },
+      {
+        "CityId": 806,
+        "CityName": "文昌",
+        "EngName": "wenchang",
+        "CityLevel": 3,
+        "ParentId": 8,
+        "Initial": "W",
+        "RegionId": 469005,
+        "ParentRegionId": 469000
+      },
+      {
+        "CityId": 2827,
+        "CityName": "五家渠",
+        "EngName": "wujiaqu",
+        "CityLevel": 3,
+        "ParentId": 28,
+        "Initial": "W",
+        "RegionId": 659004,
+        "ParentRegionId": 659000
+      },
+      {
+        "CityId": 804,
+        "CityName": "五指山",
+        "EngName": "wuzhishan",
+        "CityLevel": 3,
+        "ParentId": 8,
+        "Initial": "W",
+        "RegionId": 469001,
+        "ParentRegionId": 469000
+      },
+      {
+        "CityId": 1205,
+        "CityName": "仙桃",
+        "EngName": "xiantao",
+        "CityLevel": 3,
+        "ParentId": 12,
+        "Initial": "X",
+        "RegionId": 429004,
+        "ParentRegionId": 429000
+      }
+    ]
+  },
+  "ercd": ""
+}

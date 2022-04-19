@@ -1,0 +1,18 @@
+{
+  "returncode": 0,
+  "message": "",
+  "result": {
+    "dealerId": 9155,
+    "seriesId": 614,
+    "cityId": 440100,
+    "maxPriceOffSpecId": 48129,
+    "maxPrice0ff": 25000,
+    "newsId": 683462397,
+    "newsLeftTime": 1,
+    "seriesWhiteImage": "//m1.autoimg.cn/cardfs/product/g25/M04/9F/EF/autohomecar__ChsEmF-AGS-Act5YAAE7a9G5E6c021.jpg",
+    "seriesName": "朗逸",
+    "minOriginalPrice": 158900,
+    "maxOriginalPrice": 158900,
+    "fcount": 44
+  }
+}

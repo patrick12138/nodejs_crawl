@@ -1,0 +1,849 @@
+{
+  "returncode": 0,
+  "message": "",
+  "result": {
+    "rowcount": 10,
+    "pagecount": 1,
+    "pageindex": 1,
+    "list": [
+      {
+        "dealerId": 3664,
+        "dealerInfoId": 3664,
+        "seriesId": 496,
+        "specId": 43267,
+        "minNewsPrice": 194900,
+        "minOriginalPrice": 219900,
+        "maxOriginalPrice": 219900,
+        "promotionType": 1,
+        "newsId": 683944422,
+        "isAuthenticPrice": false,
+        "distance": null,
+        "dealerInfoBaseOut": {
+          "kindId": 1,
+          "is24h": 1,
+          "dealerName": "广东君乐汽车贸易有限公司",
+          "companySimple": "广物一汽大众广东君乐店",
+          "address": "广州市白云区机场路888号广物汽贸东区一号楼",
+          "starLevel": 4,
+          "sellPhone": "4008307821",
+          "appSellPhone": "4009317821",
+          "showPhone": "4009317821",
+          "businessArea": "售全国",
+          "orderRange": 0,
+          "orderRangeTitle": "可销往全国",
+          "provinceId": 440000,
+          "cityId": 440100,
+          "countyId": 440111,
+          "longitude": 113.2674300,
+          "latitude": 23.1908520,
+          "provinceName": "广东",
+          "cityName": "广州",
+          "countyName": "白云",
+          "brandList": [
+            {
+              "brandId": 1,
+              "brandName": "大众"
+            }
+          ],
+          "payType": 200,
+          "callRate400": 100.0,
+          "leadsRatingScore": 4,
+          "tradeReduce": 0.0,
+          "openIM": 0,
+          "contractType": 2001
+        },
+        "dealerShowImageOut": {
+          "outScenceImg": "//www.autoimg.cn/shop/3664/280x210_0_q87_20130513040834834.jpg",
+          "mainBrandImg": "//m1.autoimg.cn/cardfs/series/g24/M07/57/D8/100x100_f40_autohomecar__ChsEeV26zOKAATwCAAAMlhPv54M195.png",
+          "saleBrandImg": "//m1.autoimg.cn/cardfs/series/g24/M07/57/D8/100x100_f40_autohomecar__ChsEeV26zOKAATwCAAAMlhPv54M195.png"
+        },
+        "newsInfoOut": {
+          "dealerId": 3664,
+          "newsId": 683944422,
+          "newsType": 0,
+          "equipCarId": 0,
+          "title": "迈腾目前价格直降2.5万 欢迎莅临赏鉴",
+          "newsTemplateSpecRelationId": 5600898587
+        },
+        "promotionConditions": [],
+        "yphone": "18664722944",
+        "isSupplyDealer": 0,
+        "groupContent": null,
+        "hasVideo": 0,
+        "isVirtualShop": 0,
+        "isFactory": 0,
+        "virtualShowTips": "",
+        "kindStr": "4S店",
+        "mainDealerId": 3664,
+        "mainDealerSimpleName": "广物一汽大众广东君乐店",
+        "isShow": 1
+      },
+      {
+        "dealerId": 2002159,
+        "dealerInfoId": 2002159,
+        "seriesId": 496,
+        "specId": 43267,
+        "minNewsPrice": 194900,
+        "minOriginalPrice": 219900,
+        "maxOriginalPrice": 219900,
+        "promotionType": 2,
+        "newsId": 682896405,
+        "isAuthenticPrice": false,
+        "distance": null,
+        "dealerInfoBaseOut": {
+          "kindId": 1,
+          "is24h": 1,
+          "dealerName": "广州市安捷鑫众汽车有限公司",
+          "companySimple": "广州南菱鑫众",
+          "address": "广州市黄埔区科丰路31号G10栋101",
+          "starLevel": 4,
+          "sellPhone": "4008681438",
+          "appSellPhone": "4009681438",
+          "showPhone": "4009681438",
+          "businessArea": "售全国",
+          "orderRange": 0,
+          "orderRangeTitle": "可销往全国",
+          "provinceId": 440000,
+          "cityId": 440100,
+          "countyId": 440112,
+          "longitude": 113.4652710,
+          "latitude": 23.1534520,
+          "provinceName": "广东",
+          "cityName": "广州",
+          "countyName": "黄埔",
+          "brandList": [
+            {
+              "brandId": 1,
+              "brandName": "大众"
+            }
+          ],
+          "payType": 200,
+          "callRate400": 100.0,
+          "leadsRatingScore": 4,
+          "tradeReduce": 0.0,
+          "openIM": 0,
+          "contractType": 2001
+        },
+        "dealerShowImageOut": {
+          "outScenceImg": "//dealer2.autoimg.cn/dealerdfs/g20/M12/6D/D5/280x210_0_q87_autohomedealer__wKjBw1gZfzGAOOxRAAC0N7Ybj08102.jpg",
+          "mainBrandImg": "//m1.autoimg.cn/cardfs/series/g24/M07/57/D8/100x100_f40_autohomecar__ChsEeV26zOKAATwCAAAMlhPv54M195.png",
+          "saleBrandImg": "//m1.autoimg.cn/cardfs/series/g24/M07/57/D8/100x100_f40_autohomecar__ChsEeV26zOKAATwCAAAMlhPv54M195.png"
+        },
+        "newsInfoOut": {
+          "dealerId": 2002159,
+          "newsId": 682896405,
+          "newsType": 0,
+          "equipCarId": 0,
+          "title": "迈腾店内优惠高达2.5万 欢迎垂询",
+          "newsTemplateSpecRelationId": 5593633928
+        },
+        "promotionConditions": [
+          {
+            "className": "搭配消费项",
+            "promotionNames": [
+              "店内贷款",
+              "店内上保险",
+              "店内上牌",
+              "店内置换",
+              "需加装饰",
+              "延长保修"
+            ]
+          },
+          {
+            "className": "优惠前提条件",
+            "promotionNames": [
+              "持本地牌照"
+            ]
+          }
+        ],
+        "yphone": "18664723541",
+        "isSupplyDealer": 0,
+        "groupContent": null,
+        "hasVideo": 0,
+        "isVirtualShop": 0,
+        "isFactory": 0,
+        "virtualShowTips": "",
+        "kindStr": "4S店",
+        "mainDealerId": 2002159,
+        "mainDealerSimpleName": "广州南菱鑫众",
+        "isShow": 1
+      },
+      {
+        "dealerId": 15768,
+        "dealerInfoId": 15768,
+        "seriesId": 496,
+        "specId": 43267,
+        "minNewsPrice": 194900,
+        "minOriginalPrice": 219900,
+        "maxOriginalPrice": 219900,
+        "promotionType": 2,
+        "newsId": 683202973,
+        "isAuthenticPrice": false,
+        "distance": null,
+        "dealerInfoBaseOut": {
+          "kindId": 1,
+          "is24h": 1,
+          "dealerName": "广州市健稳汽车贸易有限公司",
+          "companySimple": "广州健稳汽车",
+          "address": "广州市番禺区番禺大道北市桥二桥旁",
+          "starLevel": 4,
+          "sellPhone": "4008309741",
+          "appSellPhone": "4009309741",
+          "showPhone": "4009309741",
+          "businessArea": "售多地",
+          "orderRange": 3,
+          "orderRangeTitle": "可销往广东省，广西省，湖南省，湖北省，重庆市（直辖市），福建省，贵州省，海南省，江西省",
+          "provinceId": 440000,
+          "cityId": 440100,
+          "countyId": 440113,
+          "longitude": 113.4006620,
+          "latitude": 22.9260930,
+          "provinceName": "广东",
+          "cityName": "广州",
+          "countyName": "番禺",
+          "brandList": [
+            {
+              "brandId": 1,
+              "brandName": "大众"
+            }
+          ],
+          "payType": 200,
+          "callRate400": 100.0,
+          "leadsRatingScore": 5,
+          "tradeReduce": 0.0,
+          "openIM": 1,
+          "contractType": 2001
+        },
+        "dealerShowImageOut": {
+          "outScenceImg": "//dealer2.autoimg.cn/dealerdfs/g2/M06/69/44/280x210_0_q87_autohomedealer__ChwFqmAw3xyAEVlfAAX4aw0MqHk165.jpg",
+          "mainBrandImg": "//m1.autoimg.cn/cardfs/series/g24/M07/57/D8/100x100_f40_autohomecar__ChsEeV26zOKAATwCAAAMlhPv54M195.png",
+          "saleBrandImg": "//m1.autoimg.cn/cardfs/series/g24/M07/57/D8/100x100_f40_autohomecar__ChsEeV26zOKAATwCAAAMlhPv54M195.png"
+        },
+        "newsInfoOut": {
+          "dealerId": 15768,
+          "newsId": 683202973,
+          "newsType": 0,
+          "equipCarId": 0,
+          "title": "迈腾目前促销优惠2.5万元 热销中",
+          "newsTemplateSpecRelationId": 5595751101
+        },
+        "promotionConditions": [
+          {
+            "className": "搭配消费项",
+            "promotionNames": [
+              "店内保养",
+              "店内贷款",
+              "店内上牌",
+              "店内置换",
+              "需购买精品",
+              "需加装饰",
+              "延长保修"
+            ]
+          },
+          {
+            "className": "优惠前提条件",
+            "promotionNames": [
+              "本周末订车"
+            ]
+          }
+        ],
+        "yphone": "18664723105",
+        "isSupplyDealer": 0,
+        "groupContent": null,
+        "hasVideo": 0,
+        "isVirtualShop": 0,
+        "isFactory": 0,
+        "virtualShowTips": "",
+        "kindStr": "4S店",
+        "mainDealerId": 15768,
+        "mainDealerSimpleName": "广州健稳汽车",
+        "isShow": 1
+      },
+      {
+        "dealerId": 2100256,
+        "dealerInfoId": 2100255,
+        "seriesId": 496,
+        "specId": 43267,
+        "minNewsPrice": 194900,
+        "minOriginalPrice": 219900,
+        "maxOriginalPrice": 219900,
+        "promotionType": 2,
+        "newsId": 683844364,
+        "isAuthenticPrice": false,
+        "distance": null,
+        "dealerInfoBaseOut": {
+          "kindId": 1,
+          "is24h": 1,
+          "dealerName": "广州市南菱大利汽车有限公司",
+          "companySimple": "广州南菱大利",
+          "address": "广州市芳村龙溪大道488号金马汽车交易城内（地铁龙溪站C出口直达）",
+          "starLevel": 4,
+          "sellPhone": "4008680531",
+          "appSellPhone": "4009680531",
+          "showPhone": "4009680531",
+          "businessArea": "售本省",
+          "orderRange": 1,
+          "orderRangeTitle": "仅销往广东省",
+          "provinceId": 440000,
+          "cityId": 440100,
+          "countyId": 440103,
+          "longitude": 113.1957660,
+          "latitude": 23.0721170,
+          "provinceName": "广东",
+          "cityName": "广州",
+          "countyName": "荔湾",
+          "brandList": [
+            {
+              "brandId": 1,
+              "brandName": "大众"
+            }
+          ],
+          "payType": 200,
+          "callRate400": 100.0,
+          "leadsRatingScore": 4,
+          "tradeReduce": 0.0,
+          "openIM": 0,
+          "contractType": 2001
+        },
+        "dealerShowImageOut": {
+          "outScenceImg": "//dealer2.autoimg.cn/dealerdfs/g28/M05/7F/65/280x210_0_q87_autohomedealer__ChsEnl1GPLaAT9A0ABMoXGIlD_M807.jpg",
+          "mainBrandImg": "//m1.autoimg.cn/cardfs/series/g24/M07/57/D8/100x100_f40_autohomecar__ChsEeV26zOKAATwCAAAMlhPv54M195.png",
+          "saleBrandImg": "//m1.autoimg.cn/cardfs/series/g24/M07/57/D8/100x100_f40_autohomecar__ChsEeV26zOKAATwCAAAMlhPv54M195.png"
+        },
+        "newsInfoOut": {
+          "dealerId": 2100256,
+          "newsId": 683844364,
+          "newsType": 0,
+          "equipCarId": 0,
+          "title": "迈腾热销中 促销优惠高达2.5万元",
+          "newsTemplateSpecRelationId": 5600211371
+        },
+        "promotionConditions": [
+          {
+            "className": "搭配消费项",
+            "promotionNames": [
+              "店内贷款",
+              "店内上保险",
+              "店内置换",
+              "需购买精品",
+              "延长保修"
+            ]
+          },
+          {
+            "className": "优惠前提条件",
+            "promotionNames": [
+              "本月内订车"
+            ]
+          }
+        ],
+        "yphone": "18664723570",
+        "isSupplyDealer": 0,
+        "groupContent": null,
+        "hasVideo": 0,
+        "isVirtualShop": 0,
+        "isFactory": 0,
+        "virtualShowTips": "",
+        "kindStr": "4S店",
+        "mainDealerId": 2100256,
+        "mainDealerSimpleName": "广州南菱大利",
+        "isShow": 1
+      },
+      {
+        "dealerId": 121446,
+        "dealerInfoId": 121446,
+        "seriesId": 496,
+        "specId": 43267,
+        "minNewsPrice": 194900,
+        "minOriginalPrice": 219900,
+        "maxOriginalPrice": 219900,
+        "promotionType": 2,
+        "newsId": 683800501,
+        "isAuthenticPrice": false,
+        "distance": null,
+        "dealerInfoBaseOut": {
+          "kindId": 1,
+          "is24h": 1,
+          "dealerName": "广州市南菱万众汽车维修服务有限公司",
+          "companySimple": "广州南菱万众",
+          "address": "广东省广州市花都区新华街镜湖大道10号一汽大众店",
+          "starLevel": 4,
+          "sellPhone": "4008303775",
+          "appSellPhone": "4009303775",
+          "showPhone": "4009303775",
+          "businessArea": "售全国",
+          "orderRange": 0,
+          "orderRangeTitle": "可销往全国",
+          "provinceId": 440000,
+          "cityId": 440100,
+          "countyId": 440114,
+          "longitude": 113.2559870,
+          "latitude": 23.3751570,
+          "provinceName": "广东",
+          "cityName": "广州",
+          "countyName": "花都",
+          "brandList": [
+            {
+              "brandId": 1,
+              "brandName": "大众"
+            }
+          ],
+          "payType": 200,
+          "callRate400": 100.0,
+          "leadsRatingScore": 3,
+          "tradeReduce": 0.0,
+          "openIM": 0,
+          "contractType": 2001
+        },
+        "dealerShowImageOut": {
+          "outScenceImg": "//www.autoimg.cn/shop/121446/280x210_0_q87_20130927112800280.jpg",
+          "mainBrandImg": "//m1.autoimg.cn/cardfs/series/g24/M07/57/D8/100x100_f40_autohomecar__ChsEeV26zOKAATwCAAAMlhPv54M195.png",
+          "saleBrandImg": "//m1.autoimg.cn/cardfs/series/g24/M07/57/D8/100x100_f40_autohomecar__ChsEeV26zOKAATwCAAAMlhPv54M195.png"
+        },
+        "newsInfoOut": {
+          "dealerId": 121446,
+          "newsId": 683800501,
+          "newsType": 0,
+          "equipCarId": 0,
+          "title": "迈腾欢迎莅临赏鉴 价格直降2.5万",
+          "newsTemplateSpecRelationId": 5599907348
+        },
+        "promotionConditions": [
+          {
+            "className": "搭配消费项",
+            "promotionNames": [
+              "店内贷款",
+              "店内上保险",
+              "店内上牌",
+              "店内置换",
+              "延长保修"
+            ]
+          }
+        ],
+        "yphone": "18664723246",
+        "isSupplyDealer": 0,
+        "groupContent": null,
+        "hasVideo": 0,
+        "isVirtualShop": 0,
+        "isFactory": 0,
+        "virtualShowTips": "",
+        "kindStr": "4S店",
+        "mainDealerId": 121446,
+        "mainDealerSimpleName": "广州南菱万众",
+        "isShow": 1
+      },
+      {
+        "dealerId": 3665,
+        "dealerInfoId": 3665,
+        "seriesId": 496,
+        "specId": 43267,
+        "minNewsPrice": 194900,
+        "minOriginalPrice": 219900,
+        "maxOriginalPrice": 219900,
+        "promotionType": 2,
+        "newsId": 683888266,
+        "isAuthenticPrice": false,
+        "distance": null,
+        "dealerInfoBaseOut": {
+          "kindId": 1,
+          "is24h": 1,
+          "dealerName": "广州市锦众汽车贸易有限公司",
+          "companySimple": "广州锦众",
+          "address": "广州市天河区黄村奥体路53号（地铁4号线黄村站D出口奥林匹克体育中心东门对面）",
+          "starLevel": 4,
+          "sellPhone": "4008304905",
+          "appSellPhone": "4009314905",
+          "showPhone": "4009314905",
+          "businessArea": "售全国",
+          "orderRange": 0,
+          "orderRangeTitle": "可销往全国",
+          "provinceId": 440000,
+          "cityId": 440100,
+          "countyId": 440106,
+          "longitude": 113.4190450,
+          "latitude": 23.1417010,
+          "provinceName": "广东",
+          "cityName": "广州",
+          "countyName": "天河",
+          "brandList": [
+            {
+              "brandId": 1,
+              "brandName": "大众"
+            }
+          ],
+          "payType": 200,
+          "callRate400": 100.0,
+          "leadsRatingScore": 5,
+          "tradeReduce": 0.0,
+          "openIM": 0,
+          "contractType": 2001
+        },
+        "dealerShowImageOut": {
+          "outScenceImg": "//www.autoimg.cn/shop/201508/0/280x210_0_q87_635760230292986394.jpg",
+          "mainBrandImg": "//m1.autoimg.cn/cardfs/series/g24/M07/57/D8/100x100_f40_autohomecar__ChsEeV26zOKAATwCAAAMlhPv54M195.png",
+          "saleBrandImg": "//m1.autoimg.cn/cardfs/series/g24/M07/57/D8/100x100_f40_autohomecar__ChsEeV26zOKAATwCAAAMlhPv54M195.png"
+        },
+        "newsInfoOut": {
+          "dealerId": 3665,
+          "newsId": 683888266,
+          "newsType": 0,
+          "equipCarId": 0,
+          "title": "迈腾店内优惠高达2.5万 欢迎垂询",
+          "newsTemplateSpecRelationId": 5600508891
+        },
+        "promotionConditions": [
+          {
+            "className": "搭配消费项",
+            "promotionNames": [
+              "店内保养",
+              "店内贷款",
+              "店内上保险",
+              "店内上牌",
+              "店内置换",
+              "需购买精品",
+              "延长保修"
+            ]
+          },
+          {
+            "className": "优惠前提条件",
+            "promotionNames": [
+              "持本地牌照"
+            ]
+          }
+        ],
+        "yphone": "18664723025",
+        "isSupplyDealer": 0,
+        "groupContent": null,
+        "hasVideo": 0,
+        "isVirtualShop": 0,
+        "isFactory": 0,
+        "virtualShowTips": "",
+        "kindStr": "4S店",
+        "mainDealerId": 3665,
+        "mainDealerSimpleName": "广州锦众",
+        "isShow": 1
+      },
+      {
+        "dealerId": 123522,
+        "dealerInfoId": 123522,
+        "seriesId": 496,
+        "specId": 43267,
+        "minNewsPrice": 194900,
+        "minOriginalPrice": 219900,
+        "maxOriginalPrice": 219900,
+        "promotionType": 2,
+        "newsId": 683819479,
+        "isAuthenticPrice": false,
+        "distance": null,
+        "dealerInfoBaseOut": {
+          "kindId": 1,
+          "is24h": 1,
+          "dealerName": "广州庞大一众汽车销售服务有限公司",
+          "companySimple": "广州庞大一众",
+          "address": "广东广州市番禺区石壁街105国道以东创源路（鸿德酒店往内300米）",
+          "starLevel": 4,
+          "sellPhone": "4008687330",
+          "appSellPhone": "4008687331",
+          "showPhone": "4008687331",
+          "businessArea": "售全国",
+          "orderRange": 0,
+          "orderRangeTitle": "可销往全国",
+          "provinceId": 440000,
+          "cityId": 440100,
+          "countyId": 440113,
+          "longitude": 113.3077520,
+          "latitude": 22.9675610,
+          "provinceName": "广东",
+          "cityName": "广州",
+          "countyName": "番禺",
+          "brandList": [
+            {
+              "brandId": 1,
+              "brandName": "大众"
+            }
+          ],
+          "payType": 200,
+          "callRate400": 100.0,
+          "leadsRatingScore": 4,
+          "tradeReduce": 0.0,
+          "openIM": 0,
+          "contractType": 2001
+        },
+        "dealerShowImageOut": {
+          "outScenceImg": "//www.autoimg.cn/shop/201508/123522/280x210_0_q87_635751485398967721.jpg",
+          "mainBrandImg": "//m1.autoimg.cn/cardfs/series/g24/M07/57/D8/100x100_f40_autohomecar__ChsEeV26zOKAATwCAAAMlhPv54M195.png",
+          "saleBrandImg": "//m1.autoimg.cn/cardfs/series/g24/M07/57/D8/100x100_f40_autohomecar__ChsEeV26zOKAATwCAAAMlhPv54M195.png"
+        },
+        "newsInfoOut": {
+          "dealerId": 123522,
+          "newsId": 683819479,
+          "newsType": 0,
+          "equipCarId": 0,
+          "title": "迈腾欢迎莅临赏鉴 价格直降2.5万",
+          "newsTemplateSpecRelationId": 5600033676
+        },
+        "promotionConditions": [
+          {
+            "className": "搭配消费项",
+            "promotionNames": [
+              "报废置换",
+              "店内保养",
+              "店内贷款",
+              "店内上保险",
+              "店内上牌",
+              "店内置换"
+            ]
+          }
+        ],
+        "yphone": "18664723361",
+        "isSupplyDealer": 0,
+        "groupContent": null,
+        "hasVideo": 0,
+        "isVirtualShop": 0,
+        "isFactory": 0,
+        "virtualShowTips": "",
+        "kindStr": "4S店",
+        "mainDealerId": 123522,
+        "mainDealerSimpleName": "广州庞大一众",
+        "isShow": 1
+      },
+      {
+        "dealerId": 2103664,
+        "dealerInfoId": 2103663,
+        "seriesId": 496,
+        "specId": 43267,
+        "minNewsPrice": 194900,
+        "minOriginalPrice": 219900,
+        "maxOriginalPrice": 219900,
+        "promotionType": 2,
+        "newsId": 683440279,
+        "isAuthenticPrice": false,
+        "distance": null,
+        "dealerInfoBaseOut": {
+          "kindId": 1,
+          "is24h": 1,
+          "dealerName": "广州市大吉汽车销售服务有限公司天河分公司",
+          "companySimple": "一汽大众广州数字化零售店",
+          "address": "广州市天河区天河路228号正佳广场1F-1A006",
+          "starLevel": 4,
+          "sellPhone": "4008668910",
+          "appSellPhone": "4008683400",
+          "showPhone": "4008683400",
+          "businessArea": "售多地",
+          "orderRange": 3,
+          "orderRangeTitle": "可销往广东省，广西省，海南省，湖南省，江西省",
+          "provinceId": 440000,
+          "cityId": 440100,
+          "countyId": 440106,
+          "longitude": 113.3330420,
+          "latitude": 23.1386690,
+          "provinceName": "广东",
+          "cityName": "广州",
+          "countyName": "天河",
+          "brandList": [
+            {
+              "brandId": 1,
+              "brandName": "大众"
+            }
+          ],
+          "payType": 200,
+          "callRate400": 100.0,
+          "leadsRatingScore": 5,
+          "tradeReduce": 0.0,
+          "openIM": 0,
+          "contractType": 2001
+        },
+        "dealerShowImageOut": {
+          "outScenceImg": "//dealer2.autoimg.cn/dealerdfs/g25/M01/87/71/280x210_0_q87_autohomedealer__ChsEmF4N3TqAVqswAAK7N1GsC4s424.jpg",
+          "mainBrandImg": "//m1.autoimg.cn/cardfs/series/g24/M07/57/D8/100x100_f40_autohomecar__ChsEeV26zOKAATwCAAAMlhPv54M195.png",
+          "saleBrandImg": "//m1.autoimg.cn/cardfs/series/g24/M07/57/D8/100x100_f40_autohomecar__ChsEeV26zOKAATwCAAAMlhPv54M195.png"
+        },
+        "newsInfoOut": {
+          "dealerId": 2103664,
+          "newsId": 683440279,
+          "newsType": 0,
+          "equipCarId": 0,
+          "title": "迈腾优惠2.5万元 欢迎莅临赏鉴",
+          "newsTemplateSpecRelationId": 5597399168
+        },
+        "promotionConditions": [
+          {
+            "className": "搭配消费项",
+            "promotionNames": [
+              "店内贷款",
+              "店内上保险",
+              "店内上牌",
+              "店内置换",
+              "延长保修"
+            ]
+          }
+        ],
+        "yphone": "17070320664",
+        "isSupplyDealer": 0,
+        "groupContent": null,
+        "hasVideo": 0,
+        "isVirtualShop": 0,
+        "isFactory": 0,
+        "virtualShowTips": "",
+        "kindStr": "4S店",
+        "mainDealerId": 2103664,
+        "mainDealerSimpleName": "一汽大众广州数字化零售店",
+        "isShow": 1
+      },
+      {
+        "dealerId": 11151,
+        "dealerInfoId": 11151,
+        "seriesId": 496,
+        "specId": 43267,
+        "minNewsPrice": 194900,
+        "minOriginalPrice": 219900,
+        "maxOriginalPrice": 219900,
+        "promotionType": 1,
+        "newsId": 683908013,
+        "isAuthenticPrice": false,
+        "distance": null,
+        "dealerInfoBaseOut": {
+          "kindId": 1,
+          "is24h": 1,
+          "dealerName": "广东物通凯骏汽车有限公司",
+          "companySimple": "广物一汽大众广物凯骏",
+          "address": "广州市番禺区迎宾路183号（番禺大桥华快出口500米处物通汽车城）电话:020-66606581",
+          "starLevel": 4,
+          "sellPhone": "4008304082",
+          "appSellPhone": "4009314082",
+          "showPhone": "4009314082",
+          "businessArea": "售全国",
+          "orderRange": 0,
+          "orderRangeTitle": "可销往全国",
+          "provinceId": 440000,
+          "cityId": 440100,
+          "countyId": 440113,
+          "longitude": 113.3436650,
+          "latitude": 23.0207390,
+          "provinceName": "广东",
+          "cityName": "广州",
+          "countyName": "番禺",
+          "brandList": [
+            {
+              "brandId": 1,
+              "brandName": "大众"
+            }
+          ],
+          "payType": 200,
+          "callRate400": 100.0,
+          "leadsRatingScore": 5,
+          "tradeReduce": 0.0,
+          "openIM": 1,
+          "contractType": 2001
+        },
+        "dealerShowImageOut": {
+          "outScenceImg": "//dealer2.autoimg.cn/dealerdfs/g30/M00/61/70/280x210_0_q87_autohomedealer__wKgHPlthSzaAa7LQABPMCUcWKes772.jpg",
+          "mainBrandImg": "//m1.autoimg.cn/cardfs/series/g24/M07/57/D8/100x100_f40_autohomecar__ChsEeV26zOKAATwCAAAMlhPv54M195.png",
+          "saleBrandImg": "//m1.autoimg.cn/cardfs/series/g24/M07/57/D8/100x100_f40_autohomecar__ChsEeV26zOKAATwCAAAMlhPv54M195.png"
+        },
+        "newsInfoOut": {
+          "dealerId": 11151,
+          "newsId": 683908013,
+          "newsType": 0,
+          "equipCarId": 0,
+          "title": "迈腾店内优惠高达2.5万 欢迎垂询",
+          "newsTemplateSpecRelationId": 5600645895
+        },
+        "promotionConditions": [],
+        "yphone": "18664723049",
+        "isSupplyDealer": 0,
+        "groupContent": null,
+        "hasVideo": 0,
+        "isVirtualShop": 0,
+        "isFactory": 0,
+        "virtualShowTips": "",
+        "kindStr": "4S店",
+        "mainDealerId": 11151,
+        "mainDealerSimpleName": "广物一汽大众广物凯骏",
+        "isShow": 1
+      },
+      {
+        "dealerId": 983,
+        "dealerInfoId": 983,
+        "seriesId": 496,
+        "specId": 43267,
+        "minNewsPrice": 194900,
+        "minOriginalPrice": 219900,
+        "maxOriginalPrice": 219900,
+        "promotionType": 2,
+        "newsId": 683701075,
+        "isAuthenticPrice": false,
+        "distance": null,
+        "dealerInfoBaseOut": {
+          "kindId": 1,
+          "is24h": 1,
+          "dealerName": "广州市大吉汽车销售服务有限公司",
+          "companySimple": "南菱广州大吉",
+          "address": "广州市白云大道北1395号（白云堡立交北",
+          "starLevel": 4,
+          "sellPhone": "4008304408",
+          "appSellPhone": "4009314408",
+          "showPhone": "4009314408",
+          "businessArea": "售本省",
+          "orderRange": 1,
+          "orderRangeTitle": "仅销往广东省",
+          "provinceId": 440000,
+          "cityId": 440100,
+          "countyId": 440111,
+          "longitude": 113.3111150,
+          "latitude": 23.2381170,
+          "provinceName": "广东",
+          "cityName": "广州",
+          "countyName": "白云",
+          "brandList": [
+            {
+              "brandId": 1,
+              "brandName": "大众"
+            }
+          ],
+          "payType": 200,
+          "callRate400": 100.0,
+          "leadsRatingScore": 4,
+          "tradeReduce": 0.0,
+          "openIM": 0,
+          "contractType": 2001
+        },
+        "dealerShowImageOut": {
+          "outScenceImg": "//dealer2.autoimg.cn/dealerdfs/g25/M06/10/E0/280x210_0_q87_autohomedealer__ChcCr15HTU6AV26bABG7t1tPhME052.jpg",
+          "mainBrandImg": "//m1.autoimg.cn/cardfs/series/g24/M07/57/D8/100x100_f40_autohomecar__ChsEeV26zOKAATwCAAAMlhPv54M195.png",
+          "saleBrandImg": "//m1.autoimg.cn/cardfs/series/g24/M07/57/D8/100x100_f40_autohomecar__ChsEeV26zOKAATwCAAAMlhPv54M195.png"
+        },
+        "newsInfoOut": {
+          "dealerId": 983,
+          "newsId": 683701075,
+          "newsType": 0,
+          "equipCarId": 0,
+          "title": "迈腾热销中 购车优惠高达2.5万元",
+          "newsTemplateSpecRelationId": 5599206946
+        },
+        "promotionConditions": [
+          {
+            "className": "搭配消费项",
+            "promotionNames": [
+              "店内贷款",
+              "店内上保险",
+              "店内上牌",
+              "店内置换",
+              "延长保修"
+            ]
+          }
+        ],
+        "yphone": "18664722807",
+        "isSupplyDealer": 0,
+        "groupContent": null,
+        "hasVideo": 0,
+        "isVirtualShop": 0,
+        "isFactory": 0,
+        "virtualShowTips": "",
+        "kindStr": "4S店",
+        "mainDealerId": 983,
+        "mainDealerSimpleName": "南菱广州大吉",
+        "isShow": 1
+      }
+    ]
+  }
+}

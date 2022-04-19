@@ -1,0 +1,93 @@
+{
+  "returncode": 0,
+  "message": "",
+  "result": {
+    "rowcount": 1,
+    "pagecount": 1,
+    "pageindex": 1,
+    "list": [
+      {
+        "dealerId": 101673,
+        "dealerInfoId": 101673,
+        "seriesId": 614,
+        "specId": 48126,
+        "minNewsPrice": 89900,
+        "minOriginalPrice": 112900,
+        "maxOriginalPrice": 112900,
+        "promotionType": 2,
+        "newsId": 684759308,
+        "isAuthenticPrice": false,
+        "distance": null,
+        "dealerInfoBaseOut": {
+          "kindId": 1,
+          "is24h": 1,
+          "dealerName": "新余广甸汽车销售服务有限公司",
+          "companySimple": "新余广甸汽车",
+          "address": "新余市经济开发区渝东大道2129号",
+          "starLevel": 1,
+          "sellPhone": "4008684857",
+          "appSellPhone": "4009684857",
+          "showPhone": "4009684857",
+          "businessArea": "售全国",
+          "orderRange": 0,
+          "orderRangeTitle": "可销往全国",
+          "provinceId": 360000,
+          "cityId": 360500,
+          "countyId": 360502,
+          "longitude": 114.9939540,
+          "latitude": 27.8288290,
+          "provinceName": "江西",
+          "cityName": "新余",
+          "countyName": "渝水",
+          "brandList": [
+            {
+              "brandId": 1,
+              "brandName": "大众"
+            }
+          ],
+          "payType": 200,
+          "callRate400": 100.0,
+          "leadsRatingScore": 5,
+          "tradeReduce": 0.0,
+          "openIM": 0,
+          "contractType": 2001
+        },
+        "dealerShowImageOut": {
+          "outScenceImg": "//www.autoimg.cn/shop/101673/280x210_0_q87_201301120327332733.jpg",
+          "mainBrandImg": "//m1.autoimg.cn/cardfs/series/g24/M07/57/D8/100x100_f40_autohomecar__ChsEeV26zOKAATwCAAAMlhPv54M195.png",
+          "saleBrandImg": "//m1.autoimg.cn/cardfs/series/g24/M07/57/D8/100x100_f40_autohomecar__ChsEeV26zOKAATwCAAAMlhPv54M195.png"
+        },
+        "newsInfoOut": {
+          "dealerId": 101673,
+          "newsId": 684759308,
+          "newsType": 0,
+          "equipCarId": 0,
+          "title": "朗逸店内优惠高达2.3万 欢迎垂询",
+          "newsTemplateSpecRelationId": 5606535562
+        },
+        "promotionConditions": [
+          {
+            "className": "搭配消费项",
+            "promotionNames": [
+              "店内贷款",
+              "店内上保险",
+              "店内上牌",
+              "店内置换"
+            ]
+          }
+        ],
+        "yphone": "15570179460",
+        "isSupplyDealer": 0,
+        "groupContent": null,
+        "hasVideo": 0,
+        "isVirtualShop": 0,
+        "isFactory": 0,
+        "virtualShowTips": "",
+        "kindStr": "4S店",
+        "mainDealerId": 101673,
+        "mainDealerSimpleName": "新余广甸汽车",
+        "isShow": 1
+      }
+    ]
+  }
+}
