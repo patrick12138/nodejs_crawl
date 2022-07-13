@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -106,7 +105,7 @@ dist
 =======
 node_modules
 .idea
-
+html
 汽车网络诚信报价检核-20210605.mp4
 中南-网络诚信报价表-202106.xlsx
->>>>>>> c2bc846 (crawl_test)
+
